@@ -34,7 +34,9 @@ export const meta: MetaFunction = () => ({
   title: "The Rick And Morty API",
 });
 
-export const loader: LoaderFunction = async (): Promise<TypedResponse<HomeLoaderData>> => {
+export const loader: LoaderFunction = async ({ context }): Promise<TypedResponse<HomeLoaderData>> => {
+  console.log("context:", context?.characters);
+
   try {
     const MAX_CHARACTERS = 6;
     const getIdFromUrl = (url: string) => +(url.split("/")?.at(-1) ?? 1);
@@ -58,4 +60,10 @@ export const loader: LoaderFunction = async (): Promise<TypedResponse<HomeLoader
   } catch (error) {
     return json({ characters: [] });
   }
+};
+
+export const prerender = async () => {
+  return {
+    context: { characters: [] },
+  };
 };

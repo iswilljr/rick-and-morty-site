@@ -11,7 +11,8 @@ export function Footer() {
           <a
             className="hover:text-primary"
             href="https://github.com/iswilljr/rick-and-morty-api"
-            aria-label="github"
+            aria-label="Project Source Code"
+            title="Project Source Code"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -22,7 +23,8 @@ export function Footer() {
           <a
             className="hover:text-primary"
             href="https://twitter.com/iswilljr"
-            aria-label="twitter"
+            aria-label="My Twitter Profile"
+            title="My Twitter Profile"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -30,7 +32,13 @@ export function Footer() {
           </a>
         </li>
         <li>
-          <Link className="hover:text-primary" aria-label="support us" to="/support" reloadDocument>
+          <Link
+            className="hover:text-primary"
+            aria-label="Support the original project"
+            title="Support the original project"
+            to="/support"
+            reloadDocument
+          >
             <Support />
           </Link>
         </li>

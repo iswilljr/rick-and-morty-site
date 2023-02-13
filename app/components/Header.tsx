@@ -15,22 +15,12 @@ export function Header() {
             </Link>
           </li>
           <li>
-            <Link className="duration-100 hover:text-primary font-bold text-dark-secondary" to="/docs" reloadDocument>
-              Docs
-            </Link>
-          </li>
-          <li>
-            <Link className="duration-100 hover:text-primary font-bold text-dark-secondary" to="/about" reloadDocument>
-              About
-            </Link>
-          </li>
-          <li>
             <Link
-              className="duration-100 hover:bg-primary hover:text-white font-bold text-dark-secondary text-sm rounded-lg border-2 border-primary py-2 px-4"
-              to="/support"
+              className="duration-100 hover:text-primary font-bold text-dark-secondary uppercase"
+              to="/docs"
               reloadDocument
             >
-              SUPPORT
+              Docs
             </Link>
           </li>
         </ul>
