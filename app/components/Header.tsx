@@ -8,7 +8,7 @@ export function Header() {
         <Link to="/">
           <Logo />
         </Link>
-        <ul className="flex justify-center items-center space-x-3 md:space-x-7 text-sm md:text-lg">
+        <ul className="flex justify-center items-center space-x-3 md:space-x-7 text-sm md:text-base">
           <li>
             <Link className="duration-100 hover:text-primary font-bold text-dark-secondary" to="/api" reloadDocument>
               API

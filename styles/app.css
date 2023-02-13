@@ -7,3 +7,10 @@
     @apply text-primary bg-dark;
   }
 }
+
+html {
+  font: 112.5%/1.625 -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  box-sizing: border-box;
+  overflow-y: scroll;
+}

@@ -10,6 +10,9 @@ module.exports = {
         "dark-secondary": "#333333",
         section: "#272b33",
       },
+      fontSize: {
+        "8xl": "5.625rem",
+      },
     },
   },
   plugins: [],
