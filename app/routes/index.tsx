@@ -34,9 +34,7 @@ export const meta: MetaFunction = () => ({
   title: "The Rick And Morty API",
 });
 
-export const loader: LoaderFunction = async ({ context }): Promise<TypedResponse<HomeLoaderData>> => {
-  console.log("context:", context?.characters);
-
+export const loader: LoaderFunction = async (): Promise<TypedResponse<HomeLoaderData>> => {
   try {
     const MAX_CHARACTERS = 6;
     const getIdFromUrl = (url: string) => +(url.split("/")?.at(-1) ?? 1);
