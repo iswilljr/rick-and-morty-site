@@ -11,6 +11,7 @@ specifiers:
   '@types/react-dom': 18.0.10
   '@vercel/node': 2.9.2
   autoprefixer: ^10.4.13
+  clsx: 1.2.1
   concurrently: 7.6.0
   eslint: 8.34.0
   postcss: ^8.4.21
@@ -25,6 +26,7 @@ dependencies:
   '@remix-run/react': 1.12.0_biqbaboplfbrettd7655fr4n2y
   '@remix-run/vercel': 1.12.0_@vercel+node@2.9.2
   '@vercel/node': 2.9.2
+  clsx: 1.2.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   redaxios: 0.5.1
@@ -2894,6 +2896,11 @@ packages:
     resolution: {integrity: sha512-JQHZ2QMW6l3aH/j6xCqQThY/9OH4D/9ls34cgkUBiEeocRTU04tHfKPBsUK1PqZCUQM7GiA0IIXJSuXHI64Kbg==}
     engines: {node: '>=0.8'}
     dev: true
+
+  /clsx/1.2.1:
+    resolution: {integrity: sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==}
+    engines: {node: '>=6'}
+    dev: false
 
   /code-block-writer/10.1.1:
     resolution: {integrity: sha512-67ueh2IRGst/51p0n6FvPrnRjAGHY5F8xdjkgrYE7DDzpJe6qA07RYQ9VcoUeo5ATOjSOiWpSL3SWBRRbempMw==}

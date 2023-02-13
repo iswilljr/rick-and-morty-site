@@ -1,21 +1,10 @@
+import clsx from "clsx";
+
 export interface CardProps extends Omit<Character, "episode"> {
   episode?: Episode;
 }
 
-export default function Card({
-  created,
-  episode,
-  gender,
-  id,
-  image,
-  location,
-  name,
-  origin,
-  species,
-  status,
-  type,
-  url,
-}: CardProps) {
+export default function Card({ episode, image, location, name, species, status, url }: CardProps) {
   const characterStatus = status.toLowerCase();
 
   return (
@@ -35,14 +24,12 @@ export default function Card({
           </a>
           <span className="flex items-center capitalize text-[16px] font-medium">
             <span
-              className={`w-2 h-2 mr-2 rounded-full ${
-                characterStatus === "alive"
-                  ? "bg-status-alive"
-                  : characterStatus === "dead"
-                  ? "bg-status-dead"
-                  : "bg-status-unknown"
-              }`}
-            />{" "}
+              className={clsx("w-2 h-2 mr-2 rounded-full", {
+                "bg-status-alive": characterStatus === "alive",
+                "bg-status-dead": characterStatus === "dead",
+                "bg-status-unknown": characterStatus === "unknown",
+              })}
+            />
             {characterStatus} - {species}
           </span>
         </div>
