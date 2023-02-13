@@ -16,6 +16,7 @@ specifiers:
   postcss: ^8.4.21
   react: 18.2.0
   react-dom: 18.2.0
+  redaxios: 0.5.1
   tailwindcss: ^3.2.6
   typescript: 4.9.5
 
@@ -26,6 +27,7 @@ dependencies:
   '@vercel/node': 2.9.2
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
+  redaxios: 0.5.1
 
 devDependencies:
   '@remix-run/dev': 1.12.0_@remix-run+serve@1.12.0
@@ -6646,6 +6648,10 @@ packages:
       source-map: 0.6.1
       tslib: 2.5.0
     dev: true
+
+  /redaxios/0.5.1:
+    resolution: {integrity: sha512-FSD2AmfdbkYwl7KDExYQlVvIrFz6Yd83pGfaGjBzM9F6rpq8g652Q4Yq5QD4c+nf4g2AgeElv1y+8ajUPiOYMg==}
+    dev: false
 
   /regenerate-unicode-properties/10.1.0:
     resolution: {integrity: sha512-d1VudCLoIGitcU/hEg2QqvyGZQmdC0Lf8BqdOMXGFSvJP4bNV1+XqbPQeHHLD51Jh4QJJ225dlIFvY4Ly6MXmQ==}
