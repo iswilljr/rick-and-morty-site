@@ -1,3 +1,118 @@
 ---
 title: Location
 ---
+
+import { Query } from "../components/Query";
+
+# Location
+
+There is a total of `126` locations sorted by id.
+
+## Location schema
+
+| Key       | Type         | Description                                                |
+| --------- | ------------ | ---------------------------------------------------------- |
+| id        | int          | The id of the location.                                    |
+| name      | string       | The name of the location.                                  |
+| type      | string       | The type of the location.                                  |
+| dimension | string       | The dimension in which the location is located.            |
+| residents | array (urls) | List of character who have been last seen in the location. |
+| url       | string (url) | Link to the location's own endpoint.                       |
+| created   | string       | Time at which the location was created in the database.    |
+
+## Get all locations
+
+You can access the list of locations by using the `/location` endpoint.
+
+<Query endpoint="/location" />
+
+```json
+{
+  "info": {
+    "count": 126,
+    "pages": 7,
+    "next": "https://therickandmortyapi.vercel.app/api/location?page=2",
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "Earth (C-137)",
+      "type": "Planet",
+      "dimension": "Dimension C-137",
+      "residents": [
+        "https://therickandmortyapi.vercel.app/api/character/45",
+        "https://therickandmortyapi.vercel.app/api/character/71"
+        // ...
+      ],
+      "url": "https://therickandmortyapi.vercel.app/api/location/1",
+      "created": "2017-11-10T07:42:04.162Z"
+    }
+    // ...
+  ]
+}
+```
+
+## Get a single location
+
+You can get a single location by adding the `id` as a parameter: `/location/77`
+
+<Query endpoint="/location/77" />
+
+```json
+{
+  "id": 77,
+  "name": "Earth (Fascist Dimension)",
+  "type": "Planet",
+  "dimension": "Fascist Dimension",
+  "residents": [
+    "https://therickandmortyapi.vercel.app/api/character/242",
+    "https://therickandmortyapi.vercel.app/api/character/498"
+    // ...
+  ],
+  "url": "https://therickandmortyapi.vercel.app/api/location/77",
+  "created": "2020-05-02T04:39:49.158Z"
+}
+```
+
+## Get multiple locations
+
+You can get multiple locations by adding an array of `ids` as parameter: `/location/1,2,3`
+
+<Query endpoint="/location/53,22" />
+
+```json
+[
+  {
+    "id": 22,
+    "name": "Signus 5 Expanse",
+    "type": "unknown",
+    "dimension": "Cromulon Dimension",
+    "residents": [
+      "https://therickandmortyapi.vercel.app/api/character/24",
+      "https://therickandmortyapi.vercel.app/api/character/309"
+    ],
+    "url": "https://therickandmortyapi.vercel.app/api/location/22",
+    "created": "2017-11-18T15:27:26.218Z"
+  },
+  {
+    "id": 53,
+    "name": "Mr. Meeseeks Box",
+    "type": "Box",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "https://therickandmortyapi.vercel.app/api/location/53",
+    "created": "2017-12-30T12:52:12.217Z"
+  }
+]
+```
+
+## Filter locations
+
+Available parameters:
+
+- `name`: filter by the given name.
+- `type`: filter by the given type.
+- `dimension`: filter by the given dimension.
+
+If you want to know how to use queries, check [here](/docs/character#filter-characters)
