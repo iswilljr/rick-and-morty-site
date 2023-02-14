@@ -1,3 +1,122 @@
 ---
 title: Episode
 ---
+
+import { Query } from "../components/Query";
+
+# Episode
+
+There is a total of `51` episodes sorted by id (which is of course the order of the episodes)
+
+## Episode schema
+
+| Key        | Type         | Description                                            |
+| ---------- | ------------ | ------------------------------------------------------ |
+| id         | int          | The id of the episode.                                 |
+| name       | string       | The name of the episode.                               |
+| air_date   | string       | The air date of the episode.                           |
+| episode    | string       | The code of the episode.                               |
+| characters | array (urls) | List of characters who have been seen in the episode.  |
+| url        | string (url) | Link to the episode's own endpoint.                    |
+| created    | string       | Time at which the episode was created in the database. |
+
+## Get all episodes
+
+You can access the list of episodes by using the `/episode` endpoint.
+
+<Query endpoint="/episode" />
+
+```json
+{
+  "info": {
+    "count": 51,
+    "pages": 3,
+    "next": "https://therickandmortyapi.vercel.app/api/episode?page=2",
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "Pilot",
+      "air_date": "December 2, 2013",
+      "episode": "S01E01",
+      "characters": [
+        "https://therickandmortyapi.vercel.app/api/character/1",
+        "https://therickandmortyapi.vercel.app/api/character/2"
+        //...
+      ],
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1",
+      "created": "2017-11-10T07:56:33.798Z"
+    }
+    // ...
+  ]
+}
+```
+
+## Get a single episode
+
+You can get a single episode by adding the `id` as a parameter: `/episode/41`
+
+<Query endpoint="/episode/41" />
+
+```json
+{
+  "id": 41,
+  "name": "Star Mort: Rickturn of the Jerri",
+  "air_date": "May 31, 2020",
+  "episode": "S04E10",
+  "characters": [
+    "https://therickandmortyapi.vercel.app/api/character/1",
+    "https://therickandmortyapi.vercel.app/api/character/2"
+    // ...
+  ],
+  "url": "https://therickandmortyapi.vercel.app/api/episode/41",
+  "created": "2020-08-06T00:51:52.079Z"
+}
+```
+
+## Get multiple episodes
+
+You can get multiple episodes by adding an array of `ids` as parameter: `/episode/1,2,3`
+
+<Query endpoint="/episode/8,39" />
+
+```json
+[
+  {
+    "id": 8,
+    "name": "Rixty Minutes",
+    "air_date": "March 17, 2014",
+    "episode": "S01E08",
+    "characters": [
+      "https://therickandmortyapi.vercel.app/api/character/1",
+      "https://therickandmortyapi.vercel.app/api/character/2"
+      // ...
+    ],
+    "url": "https://therickandmortyapi.vercel.app/api/episode/8",
+    "created": "2017-11-10T07:56:34.543Z"
+  },
+  {
+    "id": 39,
+    "name": "The Vat of Acid Episode",
+    "air_date": "May 17, 2020",
+    "episode": "S04E08",
+    "characters": [
+      "https://therickandmortyapi.vercel.app/api/character/1",
+      "https://therickandmortyapi.vercel.app/api/character/2"
+      // ...
+    ],
+    "url": "https://therickandmortyapi.vercel.app/api/episode/39",
+    "created": "2020-08-06T00:51:07.419Z"
+  }
+]
+```
+
+## Filter episodes
+
+Available parameters:
+
+- `name`: filter by the given name.
+- `episode`: filter by the given episode code.
+
+If you want to know how to use queries, check [here](/docs/character#filter-characters).
