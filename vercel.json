@@ -2,12 +2,8 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
-      "source": "/docs",
-      "destination": "https://rickandmortyapi.com/documentation"
-    },
-    {
       "source": "/documentation",
-      "destination": "https://rickandmortyapi.com/documentation"
+      "destination": "/docs"
     },
     {
       "source": "/about",
@@ -16,6 +12,10 @@
     {
       "source": "/support",
       "destination": "https://rickandmortyapi.com/support-us"
+    },
+    {
+      "source": "/official",
+      "destination": "https://rickandmortyapi.com"
     }
   ],
   "rewrites": [
