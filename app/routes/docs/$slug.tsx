@@ -4,6 +4,7 @@ import Location, { attributes as locationAttr } from "../../docs/location.mdx";
 import Episode, { attributes as episodeAttr } from "../../docs/episode.mdx";
 import { json, LoaderFunction, MetaFunction, TypedResponse } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
+import { components } from "~/components/Highlighter";
 
 type Key = keyof typeof Documentation;
 
@@ -23,7 +24,7 @@ export default function $slug() {
 
   const { Component } = Documentation[slug];
 
-  return <Component />;
+  return <Component components={components} />;
 }
 
 export const loader: LoaderFunction = ({ params }): TypedResponse<Data> => {
