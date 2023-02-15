@@ -1,4 +1,4 @@
-import { json, LoaderFunction, MetaFunction, TypedResponse } from "@remix-run/node";
+import { json, type LoaderFunction, type MetaFunction, type TypedResponse } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
 import Card, { type CardProps } from "~/components/Card";
 import { Hero } from "~/icons/Hero";

@@ -2,7 +2,7 @@ import Introduction, { attributes as introductionAttr } from "../../docs/introdu
 import Character, { attributes as characterAttr } from "../../docs/character.mdx";
 import Location, { attributes as locationAttr } from "../../docs/location.mdx";
 import Episode, { attributes as episodeAttr } from "../../docs/episode.mdx";
-import { json, LoaderFunction, MetaFunction, TypedResponse } from "@remix-run/node";
+import { json, type LoaderFunction, type MetaFunction, type TypedResponse } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
 import { components } from "~/components/Highlighter";
 

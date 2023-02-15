@@ -1,4 +1,4 @@
-import { LoaderFunction, redirect } from "@remix-run/node";
+import { type LoaderFunction, redirect } from "@remix-run/node";
 import { Outlet } from "@remix-run/react";
 import { Navbar } from "~/components/Navbar";
 
