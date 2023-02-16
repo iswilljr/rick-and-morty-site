@@ -1,11 +1,11 @@
 import type { LinksFunction, MetaFunction } from "@remix-run/node";
-import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
+import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration, useCatch } from "@remix-run/react";
 import Layout from "./components/Layout";
 import styles from "./styles/tailwind.css";
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  title: "The Rick And Morty API",
   viewport: "width=device-width,initial-scale=1",
 });
 
@@ -36,6 +36,28 @@ export default function App() {
         <ScrollRestoration />
         <Scripts />
         <LiveReload />
+      </body>
+    </html>
+  );
+}
+
+export function CatchBoundary() {
+  const caught = useCatch();
+
+  return (
+    <html lang="en" className="overflow-auto">
+      <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Oh Jeez Rick!</title>
+        <Links />
+      </head>
+      <body>
+        <Layout className="min-h-[calc(100vh-180px)] h-auto p-6 bg-dark flex flex-col justify-center items-center text-center text-white font-black">
+          <h1 className="max-w-2xl text-6xl md:text-7xl">You you broke the page</h1>
+          <h2 className="mt-10 xl:mt-20 text-5xl md:text-6xl">{caught.status}</h2>
+        </Layout>
+        <Scripts />
       </body>
     </html>
   );
