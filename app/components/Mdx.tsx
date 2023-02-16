@@ -1,14 +1,4 @@
 import { Link } from "@remix-run/react";
-import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import dracula from "react-syntax-highlighter/dist/cjs/styles/prism/dracula";
-
-function Highlighter(props: React.HtmlHTMLAttributes<HTMLPreElement> & { children: React.ReactElement<any, "code"> }) {
-  return (
-    <SyntaxHighlighter language="json" style={dracula}>
-      {props.children.props.children}
-    </SyntaxHighlighter>
-  );
-}
 
 const createHeading = (Component: "h1" | "h2" | "h3" | "h4" | "h5" | "h6") => {
   return function Heading(props: React.HtmlHTMLAttributes<HTMLHeadingElement>) {
@@ -33,7 +23,6 @@ export const components = {
   h4: createHeading("h4"),
   h5: createHeading("h5"),
   h6: createHeading("h6"),
-  pre: Highlighter as any,
   a: (props: React.AnchorHTMLAttributes<HTMLAnchorElement>) => {
     return props.href?.startsWith("/") ? <Link to={props.href} {...props} /> : <a {...props} />;
   },

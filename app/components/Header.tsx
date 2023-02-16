@@ -9,7 +9,7 @@ export function Header() {
 
   return (
     <header
-      className={clsx("bg-white z-10", {
+      className={clsx("bg-white z-50", {
         sticky: isDocsPathname,
         "top-0": isDocsPathname,
       })}

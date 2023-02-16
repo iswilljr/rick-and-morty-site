@@ -6,9 +6,17 @@ module.exports = {
   // so we default back to the standard build output.
   server: process.env.NODE_ENV === "development" ? undefined : "./server.js",
   ignoredRouteFiles: ["**/.*"],
-  mdx: async () => ({
-    remarkPlugins: [(await import("remark-gfm")).default],
-  }),
+  mdx: async () => {
+    const [rehypeHighlight, remarkGfm] = await Promise.all([
+      import("rehype-prism-plus").then((mod) => mod.default),
+      import("remark-gfm").then((mod) => mod.default),
+    ]);
+
+    return {
+      remarkPlugins: [remarkGfm],
+      rehypePlugins: [rehypeHighlight],
+    };
+  },
   // appDirectory: "app",
   // assetsBuildDirectory: "public/build",
   // serverBuildPath: "api/index.js",

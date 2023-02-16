@@ -2,9 +2,10 @@ import Introduction, { attributes as introductionAttr } from "../../docs/introdu
 import Character, { attributes as characterAttr } from "../../docs/character.mdx";
 import Location, { attributes as locationAttr } from "../../docs/location.mdx";
 import Episode, { attributes as episodeAttr } from "../../docs/episode.mdx";
-import { json, type LoaderFunction, type MetaFunction, type TypedResponse } from "@remix-run/node";
+import { json, type LinksFunction, type LoaderFunction, type MetaFunction, type TypedResponse } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
-import { components } from "~/components/Highlighter";
+import { components } from "~/components/Mdx";
+import draculaTheme from "prism-themes/themes/prism-dracula.min.css";
 
 type Key = keyof typeof Documentation;
 
@@ -45,3 +46,10 @@ export const meta: MetaFunction = ({ params }) => {
       "This documentation will help you get familiar with the resources of the Rick and Morty API and show you how to make different queries.",
   };
 };
+
+export const links: LinksFunction = () => [
+  {
+    href: draculaTheme,
+    rel: "stylesheet",
+  },
+];
