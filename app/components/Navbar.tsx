@@ -86,6 +86,7 @@ export function Navbar() {
         className="z-50 md:hidden flex justify-center items-center fixed bottom-4 right-4 w-[60px] h-[60px] bg-primary rounded-full"
         // eslint-disable-next-line @typescript-eslint/no-confusing-void-expression
         onClick={() => setNavbarOpen((o) => !o)}
+        aria-label="Open Navbar"
       >
         <svg
           className={clsx("duration-700", { "rotate-45": isNavbarOpened })}

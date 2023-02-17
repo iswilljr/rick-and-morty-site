@@ -22,7 +22,7 @@ export function Header() {
           }
         )}
       >
-        <Link to="/">
+        <Link to="/" aria-label="Home">
           <Logo />
         </Link>
         <ul className="flex justify-center items-center space-x-3 md:space-x-7 text-sm md:text-base uppercase">

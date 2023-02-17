@@ -6,6 +6,7 @@ import styles from "./styles/tailwind.css";
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "The Rick And Morty API",
+  description: "The Rick and Morty API is a REST API based on the television show Rick and Morty",
   viewport: "width=device-width,initial-scale=1",
 });
 
