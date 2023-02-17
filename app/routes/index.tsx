@@ -1,4 +1,4 @@
-import { json, type LoaderFunction, type MetaFunction, type TypedResponse } from "@remix-run/node";
+import { json, type LoaderFunction, type TypedResponse } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
 import Card, { type CardProps } from "~/components/Card";
 import { Hero } from "~/icons/Hero";
@@ -30,10 +30,6 @@ export default function Home() {
   );
 }
 
-export const meta: MetaFunction = () => ({
-  title: "The Rick And Morty API",
-});
-
 export const loader: LoaderFunction = async (): Promise<TypedResponse<HomeLoaderData>> => {
   try {
     const MAX_CHARACTERS = 6;
@@ -47,14 +43,14 @@ export const loader: LoaderFunction = async (): Promise<TypedResponse<HomeLoader
     const episodesToFetch = characters.map((character) => getIdFromUrl(character.episode[0]));
     const episodes: Episode[] = await getEpisodeById(episodesToFetch);
 
-    const getEpisodeFromIndex = (i: number) => episodes[i];
-    const getEpisodeFromId = (i: number) => {
-      return episodes.find((episode) => getIdFromUrl(episode.url) === episodesToFetch[i]);
+    const getEpisodeFromUrl = (url: string) => {
+      const id = getIdFromUrl(url);
+      return episodes.find((episode) => id === episode.id);
     };
 
-    const getEpisode = episodes.length === characters.length ? getEpisodeFromIndex : getEpisodeFromId;
-
-    return json({ characters: characters.map((character, i) => ({ ...character, episode: getEpisode(i) })) });
+    return json({
+      characters: characters.map((character) => ({ ...character, episode: getEpisodeFromUrl(character.episode[0]) })),
+    });
   } catch (error) {
     return json({ characters: [] });
   }
