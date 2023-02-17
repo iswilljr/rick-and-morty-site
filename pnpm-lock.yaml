@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@playwright/test': 1.30.0
   '@remix-run/dev': 1.13.0
   '@remix-run/node': 1.13.0
   '@remix-run/react': 1.13.0
@@ -35,6 +36,7 @@ dependencies:
   redaxios: 0.5.1
 
 devDependencies:
+  '@playwright/test': 1.30.0
   '@remix-run/dev': 1.13.0_@remix-run+serve@1.13.0
   '@remix-run/serve': 1.13.0
   '@tailwindcss/typography': 0.5.9_tailwindcss@3.2.7
@@ -1570,6 +1572,15 @@ packages:
     engines: {node: ^12.13.0 || ^14.15.0 || >=16.0.0}
     dependencies:
       json-parse-even-better-errors: 2.3.1
+    dev: true
+
+  /@playwright/test/1.30.0:
+    resolution: {integrity: sha512-SVxkQw1xvn/Wk/EvBnqWIq6NLo1AppwbYOjNLmyU0R1RoQ3rLEBtmjTnElcnz8VEtn11fptj1ECxK0tgURhajw==}
+    engines: {node: '>=14'}
+    hasBin: true
+    dependencies:
+      '@types/node': 18.13.0
+      playwright-core: 1.30.0
     dev: true
 
   /@remix-run/dev/1.13.0_@remix-run+serve@1.13.0:
@@ -5186,6 +5197,12 @@ packages:
       jsonc-parser: 3.2.0
       mlly: 1.1.0
       pathe: 1.1.0
+    dev: true
+
+  /playwright-core/1.30.0:
+    resolution: {integrity: sha512-7AnRmTCf+GVYhHbLJsGUtskWTE33SwMZkybJ0v6rqR1boxq2x36U7p1vDRV7HO2IwTZgmycracLxPEJI49wu4g==}
+    engines: {node: '>=14'}
+    hasBin: true
     dev: true
 
   /postcss-discard-duplicates/5.1.0_postcss@8.4.21:
