@@ -1,5 +1,5 @@
 {
-  "name": "rick-and-morty-site",
+  "name": "rick-and-morty-api-site",
   "private": true,
   "sideEffects": false,
   "scripts": {
