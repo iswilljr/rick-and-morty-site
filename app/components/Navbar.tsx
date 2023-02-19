@@ -24,6 +24,7 @@ const docLinks = [
     href: "/docs/introduction",
     categories: [
       { label: "REST", href: "#rest" },
+      { label: "GraphQL", href: "#graphql" },
       { label: "Info and Pagination", href: "#info-and-pagination" },
     ],
   },

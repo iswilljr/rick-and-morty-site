@@ -22,6 +22,10 @@
     {
       "source": "/api/:path*",
       "destination": "https://rickandmortyapi.iswilljr.vercel.app/:path*"
+    },
+    {
+      "source": "/graphql",
+      "destination": "https://rickandmorty.stellate.sh"
     }
   ],
   "trailingSlash": false
