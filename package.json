@@ -7,7 +7,7 @@
     "build:css": "tailwindcss -m -i ./styles/app.css -o app/styles/tailwind.css",
     "dev": "concurrently \"npm run dev:css\" \"remix dev\"",
     "dev:css": "tailwindcss -w -i ./styles/app.css -o app/styles/tailwind.css",
-    "typecheck": "tsc"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@remix-run/node": "1.13.0",
