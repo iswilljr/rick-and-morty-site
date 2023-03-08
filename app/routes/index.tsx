@@ -2,15 +2,11 @@ import { json, type LoaderFunction, type TypedResponse } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
 import Card, { type CardProps } from "~/components/Card";
 import { Hero } from "~/icons/Hero";
-import { getCharacterById, getEpisodeById } from "~/services/api";
+import characters from "public/data/random-characters.json";
 
 interface HomeLoaderData {
   characters: CardProps[];
 }
-
-const CHARACTERS_COUNT = 826;
-const MAX_CHARACTERS = 6;
-const getIdFromUrl = (url: string) => +(url.split("/")?.at(-1) ?? 1);
 
 export default function Home() {
   const { characters } = useLoaderData<HomeLoaderData>();
@@ -35,28 +31,7 @@ export default function Home() {
 }
 
 export const loader: LoaderFunction = async (): Promise<TypedResponse<HomeLoaderData>> => {
-  try {
-    const charactersToFetch = [...Array(MAX_CHARACTERS)].map(() => Math.floor(Math.random() * CHARACTERS_COUNT));
-    const characters = await getCharacterById(charactersToFetch);
-
-    const episodesToFetch = characters.map((character) => getIdFromUrl(character.episode[0]));
-    const episodes: Episode[] = await getEpisodeById(episodesToFetch);
-
-    const getEpisodeFromUrl = (url: string) => {
-      const id = getIdFromUrl(url);
-      return episodes.find((episode) => id === episode.id);
-    };
-
-    return json({
-      characters: characters.map((character) => ({ ...character, episode: getEpisodeFromUrl(character.episode[0]) })),
-    });
-  } catch (error) {
-    return json({ characters: [] });
-  }
-};
-
-export const prerender = async () => {
-  return {
-    context: { characters: [] },
-  };
+  return json({
+    characters,
+  });
 };
