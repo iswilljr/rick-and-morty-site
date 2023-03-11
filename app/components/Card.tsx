@@ -9,10 +9,12 @@ export default function Card({ episode, image, location, name, species, status, 
 
   return (
     <article className="flex flex-col w-full sm:flex-row sm:w-[600px] sm:h-[240px] bg-[#3c3e44] rounded-lg shadow-sm m-3">
-      <div className="flex-[2] w-full sm:w-[230px]">
+      <div className="w-full sm:w-[240px]">
         <img
           loading="lazy"
-          className="w-full h-[300px] sm:h-full object-center object-cover rounded-t-lg sm:rounded-none sm:rounded-l-lg"
+          className="w-full sm:h-full object-center object-cover rounded-t-lg sm:rounded-none sm:rounded-l-lg"
+          width={240}
+          height={240}
           src={image}
           alt={name}
         />
