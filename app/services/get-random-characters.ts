@@ -24,5 +24,5 @@ const getRandomGroupOfCharacters = async () => {
 
 // eslint-disable-next-line @typescript-eslint/no-floating-promises
 getRandomGroupOfCharacters().then((res) => {
-  fs.writeFileSync(DATA_PATH, JSON.stringify(res, null, 2), "utf-8");
+  fs.writeFileSync(DATA_PATH, `${JSON.stringify(res, null, 2)}\n`, "utf-8");
 });
