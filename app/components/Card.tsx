@@ -1,7 +1,9 @@
 import clsx from "clsx";
 
-export interface CardProps extends Omit<Character, "episode"> {
-  episode?: Episode;
+type CardCharacter = Pick<Character, "id" | "image" | "location" | "name" | "species" | "status" | "url">;
+
+export interface CardProps extends CardCharacter {
+  episode?: Pick<Episode, "name" | "url">;
 }
 
 export default function Card({ episode, image, location, name, species, status, url }: CardProps) {
