@@ -1,98 +1,98 @@
 [
   {
-    "id": 37,
-    "name": "Beth Sanchez",
+    "id": 54,
+    "name": "Bobby Moynihan",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/37.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/54.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/37"
+    "url": "https://therickandmortyapi.vercel.app/api/character/54"
   },
   {
-    "id": 59,
-    "name": "Brad Anderson",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/59.jpeg",
-    "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/59"
-  },
-  {
-    "id": 229,
-    "name": "Morty Mart Manager Morty",
+    "id": 381,
+    "name": "Woman Rick",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/229.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/381.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/229"
+    "url": "https://therickandmortyapi.vercel.app/api/character/381"
   },
   {
-    "id": 500,
-    "name": "Fascist Mr. President",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/500.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/500"
-  },
-  {
-    "id": 510,
-    "name": "Anchorman",
+    "id": 439,
+    "name": "Veterinary",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/510.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/439.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/510"
+    "url": "https://therickandmortyapi.vercel.app/api/character/439"
   },
   {
-    "id": 515,
-    "name": "Caterpillar Mr. Goldenfold",
-    "status": "Dead",
-    "species": "Animal",
+    "id": 533,
+    "name": "Monogatron Queen",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/515.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/533.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/515"
+    "url": "https://therickandmortyapi.vercel.app/api/character/533"
+  },
+  {
+    "id": 715,
+    "name": "Too Cute to Murder Morty",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/715.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/715"
+  },
+  {
+    "id": 740,
+    "name": "Cirque du Soleil Zumanity Member",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/740.jpeg",
+    "episode": {
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/740"
   }
 ]
