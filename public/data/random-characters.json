@@ -1,98 +1,98 @@
 [
   {
-    "id": 345,
-    "name": "Teacher Rick",
-    "status": "Alive",
+    "id": 8,
+    "name": "Adjudicator Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/345.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/8.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/345"
+    "url": "https://therickandmortyapi.vercel.app/api/character/8"
   },
   {
-    "id": 414,
-    "name": "Trunkphobic guy",
+    "id": 430,
+    "name": "Chair-person",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Earth (Chair Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/74"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/414.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/430.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/414"
+    "url": "https://therickandmortyapi.vercel.app/api/character/430"
   },
   {
-    "id": 451,
-    "name": "Roy's Son",
+    "id": 471,
+    "name": "Little Voltron",
     "status": "Alive",
-    "species": "Human",
+    "species": "Robot",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/451.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/471.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/451"
+    "url": "https://therickandmortyapi.vercel.app/api/character/471"
   },
   {
-    "id": 549,
-    "name": "Snake Arms",
+    "id": 492,
+    "name": "Varrix",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/549.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/492.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/549"
+    "url": "https://therickandmortyapi.vercel.app/api/character/492"
   },
   {
-    "id": 656,
-    "name": "Impervious to Acid SWAT Officer",
+    "id": 529,
+    "name": "Lizard",
     "status": "Dead",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/656.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/529.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/656"
+    "url": "https://therickandmortyapi.vercel.app/api/character/529"
   },
   {
-    "id": 663,
-    "name": "Reggie",
+    "id": 706,
+    "name": "Squid Costume Morty",
     "status": "Dead",
-    "species": "Mythological Creature",
+    "species": "Robot",
     "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/663.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/706.jpeg",
     "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/663"
+    "url": "https://therickandmortyapi.vercel.app/api/character/706"
   }
 ]
