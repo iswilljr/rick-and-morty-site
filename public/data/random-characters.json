@@ -1,98 +1,98 @@
 [
   {
-    "id": 65,
-    "name": "Chris",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Rick's Battery Microverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/24"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/65.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/65"
-  },
-  {
-    "id": 239,
-    "name": "Mr. Goldenfold",
-    "status": "Alive",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/239.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/239"
-  },
-  {
-    "id": 305,
-    "name": "Scary Glenn",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/305.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/305"
-  },
-  {
-    "id": 617,
-    "name": "Phoenixperson",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/617.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/617"
-  },
-  {
-    "id": 631,
-    "name": "Rick Sanchez",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/631.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/631"
-  },
-  {
-    "id": 803,
-    "name": "40 Years Old Morty",
+    "id": 231,
+    "name": "Morty Rick",
     "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/803.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/231.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/803"
+    "url": "https://therickandmortyapi.vercel.app/api/character/231"
+  },
+  {
+    "id": 327,
+    "name": "Slow Mobius",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/327.jpeg",
+    "episode": {
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/327"
+  },
+  {
+    "id": 420,
+    "name": "Plutonian Host",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/420.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/420"
+  },
+  {
+    "id": 474,
+    "name": "Dancer Cowboy Morty",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/474.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/474"
+  },
+  {
+    "id": 478,
+    "name": "Journalist Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/478.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/478"
+  },
+  {
+    "id": 746,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/746.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/746"
   }
 ]
