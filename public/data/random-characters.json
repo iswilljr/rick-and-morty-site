@@ -1,98 +1,98 @@
 [
   {
-    "id": 41,
-    "name": "Big Boobed Waitress",
+    "id": 65,
+    "name": "Chris",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Rick's Battery Microverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/24"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/65.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/65"
+  },
+  {
+    "id": 239,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/239.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/239"
+  },
+  {
+    "id": 305,
+    "name": "Scary Glenn",
     "status": "Alive",
     "species": "Mythological Creature",
     "location": {
-      "name": "Fantasy World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/48"
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/41.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/305.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/41"
+    "url": "https://therickandmortyapi.vercel.app/api/character/305"
   },
   {
-    "id": 97,
-    "name": "Gonorrhea",
-    "status": "Dead",
-    "species": "Disease",
-    "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/97.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/97"
-  },
-  {
-    "id": 664,
-    "name": "Ticktock",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/664.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/664"
-  },
-  {
-    "id": 704,
-    "name": "Squid Costume Beth",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/704"
-  },
-  {
-    "id": 743,
-    "name": "Alyson Hannigan",
-    "status": "Dead",
+    "id": 617,
+    "name": "Phoenixperson",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Z. Q. P. D.",
-      "url": "https://therickandmortyapi.vercel.app/api/location/117"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/743.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/617.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/743"
+    "url": "https://therickandmortyapi.vercel.app/api/character/617"
   },
   {
-    "id": 824,
-    "name": "Young Beth",
+    "id": 631,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/631.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/631"
+  },
+  {
+    "id": 803,
+    "name": "40 Years Old Morty",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/824.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/803.jpeg",
     "episode": {
       "name": "Rickmurai Jack",
       "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/824"
+    "url": "https://therickandmortyapi.vercel.app/api/character/803"
   }
 ]
