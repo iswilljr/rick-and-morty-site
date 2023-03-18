@@ -1,98 +1,98 @@
 [
   {
-    "id": 32,
-    "name": "Bearded Lady",
+    "id": 99,
+    "name": "Hepatitis C",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Disease",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/32.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/99.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/32"
+    "url": "https://therickandmortyapi.vercel.app/api/character/99"
   },
   {
-    "id": 102,
-    "name": "Donna Gueterman",
+    "id": 287,
+    "name": "Rick D716",
     "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/102.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/102"
-  },
-  {
-    "id": 195,
-    "name": "Kristen Stewart",
-    "status": "Alive",
     "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/195.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/195"
-  },
-  {
-    "id": 298,
-    "name": "Robot Morty",
-    "status": "unknown",
-    "species": "Robot",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/298.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/287.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/298"
+    "url": "https://therickandmortyapi.vercel.app/api/character/287"
   },
   {
-    "id": 592,
-    "name": "Phoenixperson",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 577,
+    "name": "Snake Terminator",
+    "status": "unknown",
+    "species": "Robot",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/592.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/577.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/592"
+    "url": "https://therickandmortyapi.vercel.app/api/character/577"
   },
   {
-    "id": 630,
-    "name": "Morty Smith",
+    "id": 582,
+    "name": "Anchosnake",
     "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/582.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/582"
+  },
+  {
+    "id": 787,
+    "name": "Two Crows",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/787.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/787"
+  },
+  {
+    "id": 807,
+    "name": "Beth Sanchez",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/630.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/807.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/630"
+    "url": "https://therickandmortyapi.vercel.app/api/character/807"
   }
 ]
