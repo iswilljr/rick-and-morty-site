@@ -1,98 +1,98 @@
 [
   {
-    "id": 273,
-    "name": "Purge Planet Ruler",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 252,
+    "name": "Noob-Noob",
+    "status": "Alive",
+    "species": "Poopybutthole",
     "location": {
-      "name": "Purge Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/9"
+      "name": "Vindicator's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/54"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/273.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/252.jpeg",
     "episode": {
-      "name": "Look Who's Purging Now",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/273"
+    "url": "https://therickandmortyapi.vercel.app/api/character/252"
   },
   {
-    "id": 345,
-    "name": "Teacher Rick",
+    "id": 355,
+    "name": "Todd Crystal",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/355.jpeg",
+    "episode": {
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/355"
+  },
+  {
+    "id": 392,
+    "name": "Bearded Morty",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/345.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/392.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/345"
+    "url": "https://therickandmortyapi.vercel.app/api/character/392"
   },
   {
-    "id": 529,
-    "name": "Lizard",
-    "status": "Dead",
+    "id": 455,
+    "name": "St. Gloopy Noops Nurse",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Midland Quasar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/529.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/455.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/529"
+    "url": "https://therickandmortyapi.vercel.app/api/character/455"
   },
   {
-    "id": 739,
-    "name": "Cirque du Soleil Zumanity Member",
+    "id": 487,
+    "name": "Visor Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/487.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/487"
+  },
+  {
+    "id": 617,
+    "name": "Phoenixperson",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/739.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/617.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/739"
-  },
-  {
-    "id": 783,
-    "name": "Memory Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/783.jpeg",
-    "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/783"
-  },
-  {
-    "id": 809,
-    "name": "Pussifer",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/809.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/809"
+    "url": "https://therickandmortyapi.vercel.app/api/character/617"
   }
 ]
