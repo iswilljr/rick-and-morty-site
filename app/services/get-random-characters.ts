@@ -30,7 +30,15 @@ const getRandomGroupOfCharacters = async (): Promise<CardProps[]> => {
   });
 };
 
-// eslint-disable-next-line @typescript-eslint/no-floating-promises
-getRandomGroupOfCharacters().then((res) => {
-  fs.writeFileSync(DATA_PATH, `${JSON.stringify(res, null, 2)}\n`, "utf-8");
-});
+getRandomGroupOfCharacters()
+  .then((res) => {
+    fs.writeFileSync(DATA_PATH, `${JSON.stringify(res, null, 2)}\n`, "utf-8");
+  })
+  .catch((err) => {
+    // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
+    const info = `GET ${err.url} - ${err.status} ${err.statusText}`;
+    const message = (err.data as string).replace(/\n+/g, " ").replace(/\s+$/, "");
+
+    console.error(`${message}. ${info}`);
+    process.exit(1);
+  });
