@@ -1,98 +1,98 @@
 [
   {
-    "id": 10,
-    "name": "Alan Rails",
+    "id": 250,
+    "name": "Mrs. Sullivan",
     "status": "Dead",
     "species": "Human",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/10.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/10"
-  },
-  {
-    "id": 109,
-    "name": "Duck With Muscles",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/109.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/109"
-  },
-  {
-    "id": 205,
-    "name": "Little Dipper",
-    "status": "Alive",
-    "species": "Humanoid",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/205.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/250.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/205"
+    "url": "https://therickandmortyapi.vercel.app/api/character/250"
   },
   {
-    "id": 294,
-    "name": "Ricktiminus Sancheziminius",
+    "id": 257,
+    "name": "Paul Fleishman",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/257.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/257"
+  },
+  {
+    "id": 502,
+    "name": "Revolio Clockberg Jr.",
     "status": "Dead",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/294.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/502.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/294"
+    "url": "https://therickandmortyapi.vercel.app/api/character/502"
   },
   {
-    "id": 405,
-    "name": "Trunkphobic suspenders guy",
+    "id": 542,
+    "name": "Mountain Sweat Jerry",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Globaflyn",
+      "url": "https://therickandmortyapi.vercel.app/api/location/87"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/405.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/542.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/405"
+    "url": "https://therickandmortyapi.vercel.app/api/character/542"
   },
   {
-    "id": 427,
-    "name": "Phone-person",
+    "id": 546,
+    "name": "Angie Flint",
     "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/427.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/546.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/427"
+    "url": "https://therickandmortyapi.vercel.app/api/character/546"
+  },
+  {
+    "id": 799,
+    "name": "Morglutzian",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Morglutz",
+      "url": "https://therickandmortyapi.vercel.app/api/location/112"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/799.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/799"
   }
 ]
