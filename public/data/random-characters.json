@@ -1,98 +1,98 @@
 [
   {
-    "id": 250,
-    "name": "Mrs. Sullivan",
-    "status": "Dead",
-    "species": "Human",
+    "id": 34,
+    "name": "Benjamin",
+    "status": "Alive",
+    "species": "Poopybutthole",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/250.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/34.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/250"
+    "url": "https://therickandmortyapi.vercel.app/api/character/34"
   },
   {
-    "id": 257,
-    "name": "Paul Fleishman",
+    "id": 37,
+    "name": "Beth Sanchez",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/257.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/37.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/257"
+    "url": "https://therickandmortyapi.vercel.app/api/character/37"
   },
   {
-    "id": 502,
-    "name": "Revolio Clockberg Jr.",
+    "id": 63,
+    "name": "Centaur",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/63.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/63"
+  },
+  {
+    "id": 189,
+    "name": "Katarina",
     "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/189.jpeg",
+    "episode": {
+      "name": "Pickle Rick",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/189"
+  },
+  {
+    "id": 549,
+    "name": "Snake Arms",
+    "status": "Alive",
     "species": "Alien",
-    "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/502.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/502"
-  },
-  {
-    "id": 542,
-    "name": "Mountain Sweat Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Globaflyn",
-      "url": "https://therickandmortyapi.vercel.app/api/location/87"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/542.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/542"
-  },
-  {
-    "id": 546,
-    "name": "Angie Flint",
-    "status": "Alive",
-    "species": "Human",
     "location": {
       "name": "Heist-Con",
       "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/546.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/549.jpeg",
     "episode": {
       "name": "One Crew Over the Crewcoo's Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/546"
+    "url": "https://therickandmortyapi.vercel.app/api/character/549"
   },
   {
-    "id": 799,
-    "name": "Morglutzian",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 580,
+    "name": "Secret Service Snake",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Morglutz",
-      "url": "https://therickandmortyapi.vercel.app/api/location/112"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/799.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/580.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/799"
+    "url": "https://therickandmortyapi.vercel.app/api/character/580"
   }
 ]
