@@ -1,98 +1,98 @@
 [
   {
-    "id": 24,
-    "name": "Armagheadon",
+    "id": 35,
+    "name": "Bepisian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Signus 5 Expanse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/22"
+      "name": "Bepis 9",
+      "url": "https://therickandmortyapi.vercel.app/api/location/11"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/24.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/35.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/24"
+    "url": "https://therickandmortyapi.vercel.app/api/character/35"
   },
   {
-    "id": 172,
-    "name": "Jamey",
+    "id": 78,
+    "name": "Cowboy Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/172.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/78.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/172"
+    "url": "https://therickandmortyapi.vercel.app/api/character/78"
   },
   {
-    "id": 408,
-    "name": "Quick Mystery Presenter",
-    "status": "Alive",
-    "species": "Human",
+    "id": 282,
+    "name": "Revolio Clockberg Jr.",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Gear World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/57"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/408.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/282.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/408"
+    "url": "https://therickandmortyapi.vercel.app/api/character/282"
   },
   {
-    "id": 417,
-    "name": "Baby Legs Chief",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/417"
-  },
-  {
-    "id": 697,
-    "name": "Wicker Beth",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/697.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/697"
-  },
-  {
-    "id": 789,
-    "name": "Nick",
+    "id": 720,
+    "name": "Eddie",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/789.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/720.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/789"
+    "url": "https://therickandmortyapi.vercel.app/api/character/720"
+  },
+  {
+    "id": 762,
+    "name": "Martínez",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/762.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/762"
+  },
+  {
+    "id": 804,
+    "name": "Andy",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/804.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/804"
   }
 ]
