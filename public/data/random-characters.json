@@ -1,21 +1,5 @@
 [
   {
-    "id": 23,
-    "name": "Arcade Alien",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Immortality Field Resort",
-      "url": "https://therickandmortyapi.vercel.app/api/location/7"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/23.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/23"
-  },
-  {
     "id": 123,
     "name": "Fat Morty",
     "status": "Alive",
@@ -32,67 +16,83 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/123"
   },
   {
-    "id": 172,
-    "name": "Jamey",
-    "status": "Alive",
-    "species": "Human",
+    "id": 212,
+    "name": "Magma-Q",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/172.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/212.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/172"
+    "url": "https://therickandmortyapi.vercel.app/api/character/212"
   },
   {
-    "id": 541,
-    "name": "Secretary at Tony's",
+    "id": 362,
+    "name": "Traflorkian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/541.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/362.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/541"
+    "url": "https://therickandmortyapi.vercel.app/api/character/362"
   },
   {
-    "id": 596,
-    "name": "Floaty Non-Gasm Brotherhood Member Friend",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 626,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/596.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/626.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/596"
+    "url": "https://therickandmortyapi.vercel.app/api/character/626"
   },
   {
-    "id": 775,
-    "name": "Voiceoverian",
+    "id": 642,
+    "name": "Council of Glorzos Member",
     "status": "Dead",
     "species": "Alien",
+    "location": {
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/642.jpeg",
+    "episode": {
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/642"
+  },
+  {
+    "id": 704,
+    "name": "Squid Costume Beth",
+    "status": "Dead",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/775.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/775"
+    "url": "https://therickandmortyapi.vercel.app/api/character/704"
   }
 ]
