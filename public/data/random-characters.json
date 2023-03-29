@@ -1,98 +1,98 @@
 [
   {
-    "id": 150,
-    "name": "Cornvelious Daniel",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Galactic Federation Prison",
-      "url": "https://therickandmortyapi.vercel.app/api/location/39"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/150.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/150"
-  },
-  {
-    "id": 421,
-    "name": "Rich Plutonian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/421.jpeg",
-    "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/421"
-  },
-  {
-    "id": 441,
-    "name": "Bearded Jerry",
+    "id": 80,
+    "name": "Creepy Little Girl",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/441.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/80.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/441"
+    "url": "https://therickandmortyapi.vercel.app/api/character/80"
   },
   {
-    "id": 581,
-    "name": "Anchosnake",
+    "id": 141,
+    "name": "Ghost in a Jar",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/141.jpeg",
+    "episode": {
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/141"
+  },
+  {
+    "id": 472,
+    "name": "Baby Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/472.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/472"
+  },
+  {
+    "id": 580,
+    "name": "Secret Service Snake",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Snake Planet",
       "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/581.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/580.jpeg",
     "episode": {
       "name": "Rattlestar Ricklactica",
       "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/581"
+    "url": "https://therickandmortyapi.vercel.app/api/character/580"
   },
   {
-    "id": 607,
-    "name": "Hairspray Fan",
+    "id": 622,
+    "name": "Sarge",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/607.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/622.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/607"
+    "url": "https://therickandmortyapi.vercel.app/api/character/622"
   },
   {
-    "id": 732,
-    "name": "Blazen",
-    "status": "Dead",
+    "id": 660,
+    "name": "Morty’s Mother-in-law",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Near-Duplicate Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/104"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/732.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/660.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/732"
+    "url": "https://therickandmortyapi.vercel.app/api/character/660"
   }
 ]
