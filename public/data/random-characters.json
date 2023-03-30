@@ -1,35 +1,19 @@
 [
   {
-    "id": 58,
-    "name": "Brad",
+    "id": 182,
+    "name": "Jim",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/58.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/182.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/58"
-  },
-  {
-    "id": 110,
-    "name": "Eli",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/110.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/110"
+    "url": "https://therickandmortyapi.vercel.app/api/character/182"
   },
   {
     "id": 184,
@@ -48,51 +32,67 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/184"
   },
   {
-    "id": 552,
-    "name": "Key Catcher",
+    "id": 493,
+    "name": "Secretary of the Interior",
     "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/552.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/552"
-  },
-  {
-    "id": 732,
-    "name": "Blazen",
-    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/732.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/493.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/732"
+    "url": "https://therickandmortyapi.vercel.app/api/character/493"
   },
   {
-    "id": 780,
-    "name": "Memory Tammy",
-    "status": "Dead",
+    "id": 535,
+    "name": "Jeff",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/780.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/535.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/780"
+    "url": "https://therickandmortyapi.vercel.app/api/character/535"
+  },
+  {
+    "id": 560,
+    "name": "Gramuflackian General",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/560.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/560"
+  },
+  {
+    "id": 581,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/581.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/581"
   }
 ]
