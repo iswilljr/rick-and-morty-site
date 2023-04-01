@@ -1,98 +1,98 @@
 [
   {
-    "id": 104,
-    "name": "Doom-Nomitron",
-    "status": "Dead",
+    "id": 184,
+    "name": "Jon",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Dorian 5",
-      "url": "https://therickandmortyapi.vercel.app/api/location/29"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/104.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/184.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/104"
+    "url": "https://therickandmortyapi.vercel.app/api/character/184"
   },
   {
-    "id": 252,
-    "name": "Noob-Noob",
+    "id": 190,
+    "name": "Keara",
     "status": "Alive",
-    "species": "Poopybutthole",
-    "location": {
-      "name": "Vindicator's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/54"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/252.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/252"
-  },
-  {
-    "id": 346,
-    "name": "Terry",
-    "status": "unknown",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/346.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/190.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/346"
+    "url": "https://therickandmortyapi.vercel.app/api/character/190"
   },
   {
-    "id": 604,
-    "name": "Female Scorpion",
+    "id": 575,
+    "name": "Snake Resistance Robot",
     "status": "Dead",
-    "species": "Animal",
+    "species": "Robot",
     "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/604.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/575.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/575"
+  },
+  {
+    "id": 635,
+    "name": "Darth Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/635.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/604"
+    "url": "https://therickandmortyapi.vercel.app/api/character/635"
   },
   {
-    "id": 720,
-    "name": "Eddie",
+    "id": 694,
+    "name": "Glockenspiel Rick",
     "status": "Dead",
-    "species": "Human",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/720.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/694.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/720"
+    "url": "https://therickandmortyapi.vercel.app/api/character/694"
   },
   {
-    "id": 807,
-    "name": "Beth Sanchez",
+    "id": 800,
+    "name": "Super Turkey",
     "status": "Dead",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/807.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/800.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/807"
+    "url": "https://therickandmortyapi.vercel.app/api/character/800"
   }
 ]
