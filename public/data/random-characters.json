@@ -1,98 +1,98 @@
 [
   {
-    "id": 184,
-    "name": "Jon",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/184.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/184"
-  },
-  {
-    "id": 190,
-    "name": "Keara",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/190.jpeg",
-    "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/190"
-  },
-  {
-    "id": 575,
-    "name": "Snake Resistance Robot",
+    "id": 99,
+    "name": "Hepatitis C",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Disease",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/99.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/99"
+  },
+  {
+    "id": 469,
+    "name": "Morphizer-XE Customer Support",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/575.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/469.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/575"
+    "url": "https://therickandmortyapi.vercel.app/api/character/469"
   },
   {
-    "id": 635,
-    "name": "Darth Poopybutthole",
+    "id": 601,
+    "name": "Christmas Storyteller",
     "status": "Alive",
-    "species": "Poopybutthole",
+    "species": "Alien",
     "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/635.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/601.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/635"
+    "url": "https://therickandmortyapi.vercel.app/api/character/601"
   },
   {
-    "id": 694,
-    "name": "Glockenspiel Rick",
+    "id": 643,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/643.jpeg",
+    "episode": {
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/643"
+  },
+  {
+    "id": 701,
+    "name": "Metal Rick",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/694.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/701.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/694"
+    "url": "https://therickandmortyapi.vercel.app/api/character/701"
   },
   {
-    "id": 800,
-    "name": "Super Turkey",
+    "id": 728,
+    "name": "Sperm Queen",
     "status": "Dead",
-    "species": "Humanoid",
+    "species": "unknown",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/800.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/728.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/800"
+    "url": "https://therickandmortyapi.vercel.app/api/character/728"
   }
 ]
