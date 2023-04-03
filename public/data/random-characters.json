@@ -1,98 +1,98 @@
 [
   {
-    "id": 128,
-    "name": "Frankenstein's Monster",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/128.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/128"
-  },
-  {
-    "id": 172,
-    "name": "Jamey",
+    "id": 37,
+    "name": "Beth Sanchez",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/172.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/37.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/37"
+  },
+  {
+    "id": 43,
+    "name": "Big Morty",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/43.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/43"
+  },
+  {
+    "id": 161,
+    "name": "Hydrogen-F",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/161.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/172"
+    "url": "https://therickandmortyapi.vercel.app/api/character/161"
   },
   {
-    "id": 426,
-    "name": "Greasy Grandma",
+    "id": 470,
+    "name": "Alien Spa Employee",
     "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Day Spa",
+      "url": "https://therickandmortyapi.vercel.app/api/location/76"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/470.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/470"
+  },
+  {
+    "id": 740,
+    "name": "Cirque du Soleil Zumanity Member",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Greasy Grandma World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/73"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/426.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/740.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/426"
+    "url": "https://therickandmortyapi.vercel.app/api/character/740"
   },
   {
-    "id": 432,
-    "name": "Chair-waiter",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Chair Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/74"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/432.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/432"
-  },
-  {
-    "id": 639,
-    "name": "Uncle Nibbles",
+    "id": 792,
+    "name": "Alien Crow",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Avian Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/122"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/639.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/792.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/639"
-  },
-  {
-    "id": 747,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/747.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/747"
+    "url": "https://therickandmortyapi.vercel.app/api/character/792"
   }
 ]
