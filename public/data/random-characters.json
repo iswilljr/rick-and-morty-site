@@ -1,98 +1,98 @@
 [
   {
-    "id": 37,
-    "name": "Beth Sanchez",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/37.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/37"
-  },
-  {
-    "id": 43,
-    "name": "Big Morty",
+    "id": 130,
+    "name": "Galactic Federation President",
     "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/43.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/43"
-  },
-  {
-    "id": 161,
-    "name": "Hydrogen-F",
-    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/161.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/130.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/161"
+    "url": "https://therickandmortyapi.vercel.app/api/character/130"
   },
   {
-    "id": 470,
-    "name": "Alien Spa Employee",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Alien Day Spa",
-      "url": "https://therickandmortyapi.vercel.app/api/location/76"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/470.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/470"
-  },
-  {
-    "id": 740,
-    "name": "Cirque du Soleil Zumanity Member",
+    "id": 364,
+    "name": "Tree Person",
     "status": "Dead",
-    "species": "Human",
+    "species": "Humanoid",
+    "location": {
+      "name": "Kyle's Teenyverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/50"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/364.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/364"
+  },
+  {
+    "id": 506,
+    "name": "Fascist Shrimp SS",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/506.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+  },
+  {
+    "id": 570,
+    "name": "Chachi",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/740.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/570.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/740"
+    "url": "https://therickandmortyapi.vercel.app/api/character/570"
   },
   {
-    "id": 792,
-    "name": "Alien Crow",
+    "id": 596,
+    "name": "Floaty Non-Gasm Brotherhood Member Friend",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Avian Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/122"
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/792.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/596.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/792"
+    "url": "https://therickandmortyapi.vercel.app/api/character/596"
+  },
+  {
+    "id": 759,
+    "name": "Turkey Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/759.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/759"
   }
 ]
