@@ -1,98 +1,98 @@
 [
   {
-    "id": 120,
-    "name": "Evil Summer Clone",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/120.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/120"
-  },
-  {
-    "id": 181,
-    "name": "Jessica's Friend",
+    "id": 2,
+    "name": "Morty Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/181.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/2.jpeg",
     "episode": {
       "name": "Pilot",
       "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/181"
+    "url": "https://therickandmortyapi.vercel.app/api/character/2"
   },
   {
-    "id": 202,
-    "name": "Lighthouse Keeper",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Purge Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/9"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/202.jpeg",
-    "episode": {
-      "name": "Look Who's Purging Now",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/202"
-  },
-  {
-    "id": 215,
-    "name": "Maximums Rickimus",
+    "id": 56,
+    "name": "Bootleg Portal Chemist Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/215.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/56.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/215"
+    "url": "https://therickandmortyapi.vercel.app/api/character/56"
   },
   {
-    "id": 538,
-    "name": "Priest Witherspoon",
+    "id": 213,
+    "name": "Magnesium-J",
     "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/213.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/213"
+  },
+  {
+    "id": 278,
+    "name": "Regional Manager Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/278.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/278"
+  },
+  {
+    "id": 297,
+    "name": "Risotto's Tentacled Henchman",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Resort Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/297.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/297"
+  },
+  {
+    "id": 740,
+    "name": "Cirque du Soleil Zumanity Member",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/538.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/740.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/538"
-  },
-  {
-    "id": 743,
-    "name": "Alyson Hannigan",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Z. Q. P. D.",
-      "url": "https://therickandmortyapi.vercel.app/api/location/117"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/743.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/743"
+    "url": "https://therickandmortyapi.vercel.app/api/character/740"
   }
 ]
