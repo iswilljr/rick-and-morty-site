@@ -1,98 +1,98 @@
 [
   {
-    "id": 130,
-    "name": "Galactic Federation President",
+    "id": 120,
+    "name": "Evil Summer Clone",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/130.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/120.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/130"
+    "url": "https://therickandmortyapi.vercel.app/api/character/120"
   },
   {
-    "id": 364,
-    "name": "Tree Person",
-    "status": "Dead",
-    "species": "Humanoid",
-    "location": {
-      "name": "Kyle's Teenyverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/50"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/364.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/364"
-  },
-  {
-    "id": 506,
-    "name": "Fascist Shrimp SS",
+    "id": 181,
+    "name": "Jessica's Friend",
     "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Fascist Shrimp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/80"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/506.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/506"
-  },
-  {
-    "id": 570,
-    "name": "Chachi",
-    "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/570.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/181.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/570"
+    "url": "https://therickandmortyapi.vercel.app/api/character/181"
   },
   {
-    "id": 596,
-    "name": "Floaty Non-Gasm Brotherhood Member Friend",
+    "id": 202,
+    "name": "Lighthouse Keeper",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Purge Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/9"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/596.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/202.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/596"
+    "url": "https://therickandmortyapi.vercel.app/api/character/202"
   },
   {
-    "id": 759,
-    "name": "Turkey Morty",
+    "id": 215,
+    "name": "Maximums Rickimus",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/215.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/215"
+  },
+  {
+    "id": 538,
+    "name": "Priest Witherspoon",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/759.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/538.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/759"
+    "url": "https://therickandmortyapi.vercel.app/api/character/538"
+  },
+  {
+    "id": 743,
+    "name": "Alyson Hannigan",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Z. Q. P. D.",
+      "url": "https://therickandmortyapi.vercel.app/api/location/117"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/743.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/743"
   }
 ]
