@@ -1,98 +1,98 @@
 [
   {
-    "id": 32,
-    "name": "Bearded Lady",
+    "id": 45,
+    "name": "Bill",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/45.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/45"
+  },
+  {
+    "id": 101,
+    "name": "E. Coli",
+    "status": "Dead",
+    "species": "Disease",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/101.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/101"
+  },
+  {
+    "id": 124,
+    "name": "Father Bob",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/124.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/124"
+  },
+  {
+    "id": 128,
+    "name": "Frankenstein's Monster",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/32.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/128.jpeg",
     "episode": {
       "name": "Total Rickall",
       "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/32"
+    "url": "https://therickandmortyapi.vercel.app/api/character/128"
   },
   {
-    "id": 48,
-    "name": "Black Rick",
+    "id": 169,
+    "name": "Jacob",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/169.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/48"
+    "url": "https://therickandmortyapi.vercel.app/api/character/169"
   },
   {
-    "id": 441,
-    "name": "Bearded Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/441.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/441"
-  },
-  {
-    "id": 678,
-    "name": "Japheth's Youngest Son",
+    "id": 677,
+    "name": "Japheth's Eldest Son",
     "status": "Dead",
     "species": "Humanoid",
     "location": {
       "name": "Narnia Dimension",
       "url": "https://therickandmortyapi.vercel.app/api/location/110"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/678.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/677.jpeg",
     "episode": {
       "name": "Mort Dinner Rick Andre",
       "url": "https://therickandmortyapi.vercel.app/api/episode/42"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/678"
-  },
-  {
-    "id": 707,
-    "name": "Squid Costume Rick",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/707.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/707"
-  },
-  {
-    "id": 709,
-    "name": "Dracula",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/709.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/709"
+    "url": "https://therickandmortyapi.vercel.app/api/character/677"
   }
 ]
