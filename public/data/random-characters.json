@@ -1,98 +1,98 @@
 [
   {
-    "id": 165,
-    "name": "Investigator Rick",
+    "id": 239,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/239.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/239"
+  },
+  {
+    "id": 407,
+    "name": "Regular Tyrion Lannister",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/407.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/407"
+  },
+  {
+    "id": 569,
+    "name": "Shadow Jacker",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/569.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/569"
+  },
+  {
+    "id": 605,
+    "name": "Floaty Bloody Man’s Daughter",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/165.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/165"
-  },
-  {
-    "id": 232,
-    "name": "Morty Smith",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/232.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/232"
-  },
-  {
-    "id": 451,
-    "name": "Roy's Son",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/451.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/451"
-  },
-  {
-    "id": 598,
-    "name": "Biblesaurus",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/598.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/605.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/598"
+    "url": "https://therickandmortyapi.vercel.app/api/character/605"
   },
   {
-    "id": 759,
-    "name": "Turkey Morty",
+    "id": 637,
+    "name": "Morty’s Disguise",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/759.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/637.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/759"
+    "url": "https://therickandmortyapi.vercel.app/api/character/637"
   },
   {
-    "id": 790,
-    "name": "Harold (Garbage Goober)",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 812,
+    "name": "Deformed Morty",
+    "status": "Dead",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/790.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/812.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/790"
+    "url": "https://therickandmortyapi.vercel.app/api/character/812"
   }
 ]
