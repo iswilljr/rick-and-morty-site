@@ -1,98 +1,98 @@
 [
   {
-    "id": 152,
-    "name": "Hammerhead Morty",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 6,
+    "name": "Abadango Cluster Princess",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Abadango",
+      "url": "https://therickandmortyapi.vercel.app/api/location/2"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/6.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/6"
+  },
+  {
+    "id": 48,
+    "name": "Black Rick",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/152.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/48"
+  },
+  {
+    "id": 79,
+    "name": "Crab Spider",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Hideout Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/27"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/79.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/152"
+    "url": "https://therickandmortyapi.vercel.app/api/character/79"
   },
   {
-    "id": 334,
-    "name": "Stealy",
-    "status": "Alive",
-    "species": "Poopybutthole",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/334.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/334"
-  },
-  {
-    "id": 467,
-    "name": "Morphizer-XE Customer Support",
+    "id": 162,
+    "name": "Ice-T",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/467.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/162.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/467"
+    "url": "https://therickandmortyapi.vercel.app/api/character/162"
   },
   {
-    "id": 582,
-    "name": "Anchosnake",
+    "id": 199,
+    "name": "Larva Alien",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Alien",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/582.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/199.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/582"
+    "url": "https://therickandmortyapi.vercel.app/api/character/199"
   },
   {
-    "id": 608,
-    "name": "Jesus Christ",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/608.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/608"
-  },
-  {
-    "id": 638,
-    "name": "Rick’s Disguise",
+    "id": 338,
+    "name": "Summer Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/638.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/338.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/638"
+    "url": "https://therickandmortyapi.vercel.app/api/character/338"
   }
 ]
