@@ -1,98 +1,98 @@
 [
   {
-    "id": 17,
-    "name": "Annie",
-    "status": "Alive",
-    "species": "Human",
+    "id": 262,
+    "name": "Photography Raptor",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/17.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/262.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/17"
+    "url": "https://therickandmortyapi.vercel.app/api/character/262"
   },
   {
-    "id": 45,
-    "name": "Bill",
+    "id": 329,
+    "name": "Snuffles (Snowball)",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/45.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/329.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/45"
+    "url": "https://therickandmortyapi.vercel.app/api/character/329"
   },
   {
-    "id": 77,
-    "name": "Cowboy Morty",
+    "id": 544,
+    "name": "Miles Knightly",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/544.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/544"
+  },
+  {
+    "id": 607,
+    "name": "Hairspray Fan",
     "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/607.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/607"
+  },
+  {
+    "id": 794,
+    "name": "Samansky",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/794.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/794"
+  },
+  {
+    "id": 810,
+    "name": "Stan Lee Rick",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/77.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/810.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/77"
-  },
-  {
-    "id": 337,
-    "name": "Stu",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/337.jpeg",
-    "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/337"
-  },
-  {
-    "id": 417,
-    "name": "Baby Legs Chief",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/417"
-  },
-  {
-    "id": 639,
-    "name": "Uncle Nibbles",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/639.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/639"
+    "url": "https://therickandmortyapi.vercel.app/api/character/810"
   }
 ]
