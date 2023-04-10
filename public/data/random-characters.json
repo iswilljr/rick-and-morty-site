@@ -1,98 +1,98 @@
 [
   {
-    "id": 184,
-    "name": "Jon",
+    "id": 193,
+    "name": "King Jellybean",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/193.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/193"
+  },
+  {
+    "id": 206,
+    "name": "Lizard Morty",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/206.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/206"
+  },
+  {
+    "id": 213,
+    "name": "Magnesium-J",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/184.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/213.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/184"
+    "url": "https://therickandmortyapi.vercel.app/api/character/213"
   },
   {
-    "id": 236,
-    "name": "Mr. Beauregard",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/236.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/236"
-  },
-  {
-    "id": 411,
-    "name": "Alien Mexican Armada",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/411.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/411"
-  },
-  {
-    "id": 499,
-    "name": "Fascist Morty",
-    "status": "Dead",
+    "id": 332,
+    "name": "Stacy",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/499.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/499"
-  },
-  {
-    "id": 515,
-    "name": "Caterpillar Mr. Goldenfold",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/515.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/515"
-  },
-  {
-    "id": 760,
-    "name": "Turkey Rick",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/760.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/332.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/760"
+    "url": "https://therickandmortyapi.vercel.app/api/character/332"
+  },
+  {
+    "id": 444,
+    "name": "Pink Polo Shirt Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/444.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/444"
+  },
+  {
+    "id": 472,
+    "name": "Baby Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/472.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/472"
   }
 ]
