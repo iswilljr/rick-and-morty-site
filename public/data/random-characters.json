@@ -1,98 +1,98 @@
 [
   {
-    "id": 59,
-    "name": "Brad Anderson",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/59.jpeg",
-    "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/59"
-  },
-  {
-    "id": 376,
-    "name": "Veronica Ann Bennet",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/location/40"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/376.jpeg",
-    "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/376"
-  },
-  {
-    "id": 432,
-    "name": "Chair-waiter",
-    "status": "Alive",
+    "id": 22,
+    "name": "Aqua Rick",
+    "status": "unknown",
     "species": "Humanoid",
     "location": {
-      "name": "Earth (Chair Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/74"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/432.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/22.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/432"
+    "url": "https://therickandmortyapi.vercel.app/api/character/22"
   },
   {
-    "id": 603,
-    "name": "Crossy",
+    "id": 279,
+    "name": "Regular Legs",
     "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/603.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/603"
-  },
-  {
-    "id": 609,
-    "name": "Josh",
-    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/609.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/279.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/609"
+    "url": "https://therickandmortyapi.vercel.app/api/character/279"
   },
   {
-    "id": 815,
-    "name": "Punk Rick",
+    "id": 297,
+    "name": "Risotto's Tentacled Henchman",
     "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Resort Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/297.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/297"
+  },
+  {
+    "id": 418,
+    "name": "Mrs. Sullivan's Boyfriend",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/815.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/418.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/815"
+    "url": "https://therickandmortyapi.vercel.app/api/character/418"
+  },
+  {
+    "id": 527,
+    "name": "Mothership Intern",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/527.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/527"
+  },
+  {
+    "id": 564,
+    "name": "Talking Cat",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/564.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/564"
   }
 ]
