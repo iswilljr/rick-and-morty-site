@@ -1,98 +1,98 @@
 [
   {
-    "id": 3,
-    "name": "Summer Smith",
+    "id": 67,
+    "name": "Collector",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/3.jpeg",
-    "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/3"
-  },
-  {
-    "id": 15,
-    "name": "Alien Rick",
-    "status": "unknown",
     "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "The Menagerie",
+      "url": "https://therickandmortyapi.vercel.app/api/location/25"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/15.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/67.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/15"
+    "url": "https://therickandmortyapi.vercel.app/api/character/67"
   },
   {
-    "id": 61,
-    "name": "Campaign Manager Morty",
+    "id": 139,
+    "name": "General Store Owner",
     "status": "Dead",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Purge Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/9"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/61.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/139.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/61"
+    "url": "https://therickandmortyapi.vercel.app/api/character/139"
   },
   {
-    "id": 63,
-    "name": "Centaur",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/63.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/530.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/63"
+    "url": "https://therickandmortyapi.vercel.app/api/character/530"
   },
   {
-    "id": 692,
-    "name": "Glockenspiel Jerry",
+    "id": 614,
+    "name": "Mr. Celery & Friends",
     "status": "Alive",
+    "species": "unknown",
+    "location": {
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/614.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/614"
+  },
+  {
+    "id": 714,
+    "name": "Too Cute to Murder Jerry",
+    "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/692.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/714.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/692"
+    "url": "https://therickandmortyapi.vercel.app/api/character/714"
   },
   {
-    "id": 787,
-    "name": "Two Crows",
-    "status": "Alive",
-    "species": "Animal",
+    "id": 792,
+    "name": "Alien Crow",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "Avian Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/122"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/787.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/792.jpeg",
     "episode": {
       "name": "Forgetting Sarick Mortshall",
       "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/787"
+    "url": "https://therickandmortyapi.vercel.app/api/character/792"
   }
 ]
