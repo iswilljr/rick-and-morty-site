@@ -1,98 +1,98 @@
 [
   {
-    "id": 67,
-    "name": "Collector",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 19,
+    "name": "Antenna Rick",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "The Menagerie",
-      "url": "https://therickandmortyapi.vercel.app/api/location/25"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/67.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/19.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/67"
+    "url": "https://therickandmortyapi.vercel.app/api/character/19"
   },
   {
-    "id": 139,
-    "name": "General Store Owner",
+    "id": 196,
+    "name": "Krombopulos Michael",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Purge Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/9"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/139.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/196.jpeg",
     "episode": {
-      "name": "Look Who's Purging Now",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/139"
+    "url": "https://therickandmortyapi.vercel.app/api/character/196"
   },
   {
-    "id": 530,
-    "name": "Deliverance",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Midland Quasar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/85"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/530.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/530"
-  },
-  {
-    "id": 614,
-    "name": "Mr. Celery & Friends",
+    "id": 327,
+    "name": "Slow Mobius",
     "status": "Alive",
-    "species": "unknown",
+    "species": "Humanoid",
     "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/614.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/327.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/614"
+    "url": "https://therickandmortyapi.vercel.app/api/character/327"
   },
   {
-    "id": 714,
-    "name": "Too Cute to Murder Jerry",
+    "id": 334,
+    "name": "Stealy",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/334.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/334"
+  },
+  {
+    "id": 704,
+    "name": "Squid Costume Beth",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/714.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/714"
+    "url": "https://therickandmortyapi.vercel.app/api/character/704"
   },
   {
-    "id": 792,
-    "name": "Alien Crow",
+    "id": 816,
+    "name": "Party Rick",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Avian Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/122"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/792.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/816.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/792"
+    "url": "https://therickandmortyapi.vercel.app/api/character/816"
   }
 ]
