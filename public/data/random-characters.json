@@ -1,98 +1,98 @@
 [
   {
-    "id": 283,
-    "name": "Rick D. Sanchez III",
+    "id": 69,
+    "name": "Commander Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/283.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/69.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/283"
+    "url": "https://therickandmortyapi.vercel.app/api/character/69"
   },
   {
-    "id": 394,
-    "name": "Davin",
-    "status": "Dead",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/394.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/394"
-  },
-  {
-    "id": 531,
-    "name": "Tony",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Mount Space Everest",
-      "url": "https://therickandmortyapi.vercel.app/api/location/86"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/531.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/531"
-  },
-  {
-    "id": 572,
-    "name": "Robot Snake",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/572.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/572"
-  },
-  {
-    "id": 588,
-    "name": "Pet Shop Employee",
+    "id": 160,
+    "name": "Hunter's Father",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (Giant Telepathic Spiders Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/42"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/588.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/160.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/588"
+    "url": "https://therickandmortyapi.vercel.app/api/character/160"
   },
   {
-    "id": 758,
-    "name": "Giant Assassin Hidden in the Statue of Liberty",
+    "id": 161,
+    "name": "Hydrogen-F",
     "status": "Alive",
-    "species": "Robot",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/161.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/161"
+  },
+  {
+    "id": 569,
+    "name": "Shadow Jacker",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/569.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/569"
+  },
+  {
+    "id": 619,
+    "name": "Professor Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/619.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/619"
+  },
+  {
+    "id": 729,
+    "name": "CHUD King",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/758.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/729.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/758"
+    "url": "https://therickandmortyapi.vercel.app/api/character/729"
   }
 ]
