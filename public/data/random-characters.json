@@ -1,98 +1,98 @@
 [
   {
-    "id": 19,
-    "name": "Antenna Rick",
-    "status": "unknown",
+    "id": 283,
+    "name": "Rick D. Sanchez III",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/19.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/283.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/19"
+    "url": "https://therickandmortyapi.vercel.app/api/character/283"
   },
   {
-    "id": 196,
-    "name": "Krombopulos Michael",
+    "id": 394,
+    "name": "Davin",
+    "status": "Dead",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/394.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/394"
+  },
+  {
+    "id": 531,
+    "name": "Tony",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Mount Space Everest",
+      "url": "https://therickandmortyapi.vercel.app/api/location/86"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/196.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/531.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/196"
+    "url": "https://therickandmortyapi.vercel.app/api/character/531"
   },
   {
-    "id": 327,
-    "name": "Slow Mobius",
+    "id": 572,
+    "name": "Robot Snake",
+    "status": "unknown",
+    "species": "Robot",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/572.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/572"
+  },
+  {
+    "id": 588,
+    "name": "Pet Shop Employee",
     "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/327.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/588.jpeg",
     "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/327"
+    "url": "https://therickandmortyapi.vercel.app/api/character/588"
   },
   {
-    "id": 334,
-    "name": "Stealy",
+    "id": 758,
+    "name": "Giant Assassin Hidden in the Statue of Liberty",
     "status": "Alive",
-    "species": "Poopybutthole",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/334.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/334"
-  },
-  {
-    "id": 704,
-    "name": "Squid Costume Beth",
-    "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/758.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/704"
-  },
-  {
-    "id": 816,
-    "name": "Party Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/816.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/816"
+    "url": "https://therickandmortyapi.vercel.app/api/character/758"
   }
 ]
