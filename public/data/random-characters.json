@@ -1,98 +1,98 @@
 [
   {
-    "id": 304,
-    "name": "Scary Brandon",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 10,
+    "name": "Alan Rails",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/304.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/10.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/304"
+    "url": "https://therickandmortyapi.vercel.app/api/character/10"
   },
   {
-    "id": 315,
-    "name": "Shmlangela Shmlobinson-Shmlower",
+    "id": 38,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/315.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/38.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/315"
+    "url": "https://therickandmortyapi.vercel.app/api/character/38"
   },
   {
-    "id": 572,
-    "name": "Robot Snake",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/572.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/572"
-  },
-  {
-    "id": 587,
-    "name": "Cavesnake",
+    "id": 104,
+    "name": "Doom-Nomitron",
     "status": "Dead",
-    "species": "Animal",
+    "species": "Alien",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Dorian 5",
+      "url": "https://therickandmortyapi.vercel.app/api/location/29"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/587.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/104.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/587"
+    "url": "https://therickandmortyapi.vercel.app/api/character/104"
   },
   {
-    "id": 702,
-    "name": "Gun Brain Rick",
+    "id": 499,
+    "name": "Fascist Morty",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/499.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/499"
+  },
+  {
+    "id": 694,
+    "name": "Glockenspiel Rick",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/702.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/694.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/702"
+    "url": "https://therickandmortyapi.vercel.app/api/character/694"
   },
   {
-    "id": 755,
-    "name": "Dwayne",
-    "status": "Alive",
+    "id": 724,
+    "name": "Planetina Buyer",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/755.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/724.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/755"
+    "url": "https://therickandmortyapi.vercel.app/api/character/724"
   }
 ]
