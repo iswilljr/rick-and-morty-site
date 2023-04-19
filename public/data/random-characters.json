@@ -1,98 +1,98 @@
 [
   {
-    "id": 75,
-    "name": "Courier Flap",
+    "id": 100,
+    "name": "Bubonic Plague",
+    "status": "Dead",
+    "species": "Disease",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/100.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/100"
+  },
+  {
+    "id": 140,
+    "name": "Genital Washer",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/140.jpeg",
+    "episode": {
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/140"
+  },
+  {
+    "id": 560,
+    "name": "Gramuflackian General",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/560.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/560"
+  },
+  {
+    "id": 616,
+    "name": "Phantom of the Opera Fan",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/75.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/616.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/75"
+    "url": "https://therickandmortyapi.vercel.app/api/character/616"
   },
   {
-    "id": 129,
-    "name": "Fulgora",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/129.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/129"
-  },
-  {
-    "id": 148,
-    "name": "Goddess Beth",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/148.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/148"
-  },
-  {
-    "id": 149,
-    "name": "Gordon Lunas",
+    "id": 632,
+    "name": "Train Cop",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/149.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/632.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+    "url": "https://therickandmortyapi.vercel.app/api/character/632"
   },
   {
-    "id": 265,
-    "name": "Pickle Rick",
-    "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/265.jpeg",
-    "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/265"
-  },
-  {
-    "id": 574,
-    "name": "Snake Lincoln",
+    "id": 676,
+    "name": "Japheth's Middle Son",
     "status": "Dead",
-    "species": "Animal",
+    "species": "Humanoid",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Narnia Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/110"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/574.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/676.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Mort Dinner Rick Andre",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/574"
+    "url": "https://therickandmortyapi.vercel.app/api/character/676"
   }
 ]
