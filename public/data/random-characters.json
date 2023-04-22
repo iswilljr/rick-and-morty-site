@@ -1,98 +1,98 @@
 [
   {
-    "id": 25,
-    "name": "Armothy",
-    "status": "Dead",
-    "species": "unknown",
-    "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/25.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/25"
-  },
-  {
-    "id": 114,
-    "name": "Ethan",
-    "status": "unknown",
+    "id": 185,
+    "name": "Joseph Eli Lipkip",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/114.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/185.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/114"
+    "url": "https://therickandmortyapi.vercel.app/api/character/185"
   },
   {
-    "id": 273,
-    "name": "Purge Planet Ruler",
-    "status": "Dead",
+    "id": 435,
+    "name": "Pripudlian",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Purge Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/9"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/273.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/435.jpeg",
     "episode": {
-      "name": "Look Who's Purging Now",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/273"
+    "url": "https://therickandmortyapi.vercel.app/api/character/435"
   },
   {
-    "id": 382,
-    "name": "Worldender",
-    "status": "Dead",
+    "id": 449,
+    "name": "Roy's Mum",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Roy: A Life Well Lived",
+      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/449.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/449"
+  },
+  {
+    "id": 527,
+    "name": "Mothership Intern",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/382.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/527.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/382"
+    "url": "https://therickandmortyapi.vercel.app/api/character/527"
   },
   {
-    "id": 488,
-    "name": "Colonial Rick",
+    "id": 619,
+    "name": "Professor Sanchez",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/488.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/619.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/488"
+    "url": "https://therickandmortyapi.vercel.app/api/character/619"
   },
   {
-    "id": 792,
-    "name": "Alien Crow",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 813,
+    "name": "Crow Horse",
+    "status": "Alive",
+    "species": "Robot",
     "location": {
-      "name": "Avian Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/122"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/792.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/813.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/792"
+    "url": "https://therickandmortyapi.vercel.app/api/character/813"
   }
 ]
