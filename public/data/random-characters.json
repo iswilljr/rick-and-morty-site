@@ -1,98 +1,98 @@
 [
   {
-    "id": 120,
-    "name": "Evil Summer Clone",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/120.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/120"
-  },
-  {
-    "id": 231,
-    "name": "Morty Rick",
-    "status": "unknown",
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/231.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/1.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/231"
+    "url": "https://therickandmortyapi.vercel.app/api/character/1"
   },
   {
-    "id": 353,
-    "name": "Tiny Rick",
+    "id": 98,
+    "name": "Hepatitis A",
+    "status": "Dead",
+    "species": "Disease",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/98.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/98"
+  },
+  {
+    "id": 135,
+    "name": "Garment District Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/135.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/135"
+  },
+  {
+    "id": 138,
+    "name": "General Nathan",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/353.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/138.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/353"
+    "url": "https://therickandmortyapi.vercel.app/api/character/138"
   },
   {
-    "id": 393,
-    "name": "Roy",
+    "id": 158,
+    "name": "Hookah Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Customs",
+      "url": "https://therickandmortyapi.vercel.app/api/location/38"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/158.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/158"
+  },
+  {
+    "id": 661,
+    "name": "Morty’s Girlfriend",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/393.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/661.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/393"
-  },
-  {
-    "id": 453,
-    "name": "Vampire Master's Assistant",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/453.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/453"
-  },
-  {
-    "id": 583,
-    "name": "80's snake",
-    "status": "unknown",
-    "species": "Animal",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/583.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/583"
+    "url": "https://therickandmortyapi.vercel.app/api/character/661"
   }
 ]
