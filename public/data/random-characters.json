@@ -1,98 +1,98 @@
 [
   {
-    "id": 97,
-    "name": "Gonorrhea",
-    "status": "Dead",
-    "species": "Disease",
+    "id": 15,
+    "name": "Alien Rick",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/97.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/15.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/97"
+    "url": "https://therickandmortyapi.vercel.app/api/character/15"
   },
   {
-    "id": 103,
-    "name": "Doofus Rick",
-    "status": "unknown",
+    "id": 58,
+    "name": "Brad",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/103.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/58.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/103"
+    "url": "https://therickandmortyapi.vercel.app/api/character/58"
   },
   {
-    "id": 294,
-    "name": "Ricktiminus Sancheziminius",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/294.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/294"
-  },
-  {
-    "id": 314,
-    "name": "Shmlamantha Shmlicelli",
+    "id": 264,
+    "name": "Pichael Thompson",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/314.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/264.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/314"
+    "url": "https://therickandmortyapi.vercel.app/api/character/264"
   },
   {
-    "id": 596,
-    "name": "Floaty Non-Gasm Brotherhood Member Friend",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 432,
+    "name": "Chair-waiter",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Earth (Chair Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/74"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/596.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/432.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/596"
+    "url": "https://therickandmortyapi.vercel.app/api/character/432"
   },
   {
-    "id": 779,
-    "name": "Young Memory Rick",
+    "id": 763,
+    "name": "Marvin",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/779.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/763.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/763"
+  },
+  {
+    "id": 786,
+    "name": "Birdperson & Tammy's Child",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/786.jpeg",
     "episode": {
       "name": "Rickternal Friendshine of the Spotless Mort",
       "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/779"
+    "url": "https://therickandmortyapi.vercel.app/api/character/786"
   }
 ]
