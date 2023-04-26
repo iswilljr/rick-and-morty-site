@@ -1,98 +1,98 @@
 [
   {
-    "id": 2,
-    "name": "Morty Smith",
+    "id": 264,
+    "name": "Pichael Thompson",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/2.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/2"
-  },
-  {
-    "id": 51,
-    "name": "Blue Diplomat",
-    "status": "Alive",
-    "species": "Alien",
+    "species": "Humanoid",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/51.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/264.jpeg",
     "episode": {
       "name": "Interdimensional Cable 2: Tempting Fate",
       "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/51"
+    "url": "https://therickandmortyapi.vercel.app/api/character/264"
   },
   {
-    "id": 559,
-    "name": "Gramuflackian Anchorman",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Gramuflack",
-      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/559.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/317.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/317"
+  },
+  {
+    "id": 416,
+    "name": "Muscular Mannie",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/416.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/416"
+  },
+  {
+    "id": 555,
+    "name": "Randotron",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/555.jpeg",
     "episode": {
       "name": "One Crew Over the Crewcoo's Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/559"
+    "url": "https://therickandmortyapi.vercel.app/api/character/555"
   },
   {
-    "id": 623,
-    "name": "Shrek The Musical Fan",
+    "id": 607,
+    "name": "Hairspray Fan",
     "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/623.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/607.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/623"
+    "url": "https://therickandmortyapi.vercel.app/api/character/607"
   },
   {
-    "id": 654,
-    "name": "Plane Crash Survivor",
-    "status": "unknown",
+    "id": 638,
+    "name": "Rick’s Disguise",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Near-Duplicate Reality",
-      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/654.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/638.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/654"
-  },
-  {
-    "id": 718,
-    "name": "Daphne",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Ferkus 9",
-      "url": "https://therickandmortyapi.vercel.app/api/location/113"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/718.jpeg",
-    "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/718"
+    "url": "https://therickandmortyapi.vercel.app/api/character/638"
   }
 ]
