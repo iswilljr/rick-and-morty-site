@@ -1,98 +1,98 @@
 [
   {
-    "id": 416,
-    "name": "Muscular Mannie",
-    "status": "Alive",
-    "species": "Human",
+    "id": 126,
+    "name": "Fleeb",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/416.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/126.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/416"
+    "url": "https://therickandmortyapi.vercel.app/api/character/126"
   },
   {
-    "id": 518,
-    "name": "Wasp Morty",
+    "id": 239,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/239.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/239"
+  },
+  {
+    "id": 361,
+    "name": "Toxic Rick",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/361.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/361"
+  },
+  {
+    "id": 513,
+    "name": "Judge",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/513.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/513"
+  },
+  {
+    "id": 519,
+    "name": "Wasp Summer",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Earth (Wasp Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/82"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/518.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/519.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/518"
+    "url": "https://therickandmortyapi.vercel.app/api/character/519"
   },
   {
-    "id": 533,
-    "name": "Monogatron Queen",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/533.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/533"
-  },
-  {
-    "id": 562,
-    "name": "Balthromaw",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/562.jpeg",
-    "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/562"
-  },
-  {
-    "id": 741,
-    "name": "Cirque du Soleil Zumanity Member",
-    "status": "Alive",
+    "id": 590,
+    "name": "High Pilot",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/741.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/590.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/741"
-  },
-  {
-    "id": 791,
-    "name": "Harold's Wife",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/791.jpeg",
-    "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/791"
+    "url": "https://therickandmortyapi.vercel.app/api/character/590"
   }
 ]
