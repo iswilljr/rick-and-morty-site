@@ -1,98 +1,98 @@
 [
   {
-    "id": 126,
-    "name": "Fleeb",
-    "status": "unknown",
+    "id": 90,
+    "name": "Daron Jefferson",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/126.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/90.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/126"
+    "url": "https://therickandmortyapi.vercel.app/api/character/90"
   },
   {
-    "id": 239,
-    "name": "Mr. Goldenfold",
+    "id": 158,
+    "name": "Hookah Alien",
     "status": "Alive",
-    "species": "Cronenberg",
+    "species": "Alien",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Interdimensional Customs",
+      "url": "https://therickandmortyapi.vercel.app/api/location/38"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/239.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/158.jpeg",
     "episode": {
       "name": "Pilot",
       "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/239"
+    "url": "https://therickandmortyapi.vercel.app/api/character/158"
   },
   {
-    "id": 361,
-    "name": "Toxic Rick",
+    "id": 259,
+    "name": "Pencilvester",
     "status": "Dead",
-    "species": "Humanoid",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/361.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/259.jpeg",
     "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/361"
+    "url": "https://therickandmortyapi.vercel.app/api/character/259"
   },
   {
-    "id": 513,
-    "name": "Judge",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/513.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/513"
-  },
-  {
-    "id": 519,
-    "name": "Wasp Summer",
+    "id": 417,
+    "name": "Baby Legs Chief",
     "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/519.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/519"
-  },
-  {
-    "id": 590,
-    "name": "High Pilot",
-    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/590.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/590"
+    "url": "https://therickandmortyapi.vercel.app/api/character/417"
+  },
+  {
+    "id": 420,
+    "name": "Plutonian Host",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/420.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/420"
+  },
+  {
+    "id": 595,
+    "name": "Floaty Non-Gasm Brotherhood Member",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/595.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/595"
   }
 ]
