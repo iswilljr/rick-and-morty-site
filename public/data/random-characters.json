@@ -1,98 +1,98 @@
 [
   {
-    "id": 75,
-    "name": "Courier Flap",
+    "id": 79,
+    "name": "Crab Spider",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Hideout Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/27"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/75.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/79.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/75"
+    "url": "https://therickandmortyapi.vercel.app/api/character/79"
   },
   {
-    "id": 133,
-    "name": "Garblovian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/133.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/133"
-  },
-  {
-    "id": 197,
-    "name": "Kyle",
-    "status": "Dead",
-    "species": "Humanoid",
-    "location": {
-      "name": "Kyle's Teenyverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/50"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/197.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/197"
-  },
-  {
-    "id": 451,
-    "name": "Roy's Son",
+    "id": 292,
+    "name": "Rick K-22",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/451.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/292.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/451"
+    "url": "https://therickandmortyapi.vercel.app/api/character/292"
   },
   {
-    "id": 577,
-    "name": "Snake Terminator",
-    "status": "unknown",
-    "species": "Robot",
+    "id": 512,
+    "name": "Morty’s Lawyer",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/577.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/512.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/577"
+    "url": "https://therickandmortyapi.vercel.app/api/character/512"
   },
   {
-    "id": 664,
-    "name": "Ticktock",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 668,
+    "name": "Defiance Squanchette",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+      "name": "Defiance's Ship",
+      "url": "https://therickandmortyapi.vercel.app/api/location/107"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/664.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/668.jpeg",
     "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/664"
+    "url": "https://therickandmortyapi.vercel.app/api/character/668"
+  },
+  {
+    "id": 671,
+    "name": "New Improved Galactic Federation Guard",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "NX-5 Planet Remover",
+      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/671.jpeg",
+    "episode": {
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/671"
+  },
+  {
+    "id": 719,
+    "name": "Diesel Weasel",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/719.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/719"
   }
 ]
