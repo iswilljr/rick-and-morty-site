@@ -1,98 +1,98 @@
 [
   {
-    "id": 79,
-    "name": "Crab Spider",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Hideout Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/27"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/79.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/79"
-  },
-  {
-    "id": 292,
-    "name": "Rick K-22",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/292.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/292"
-  },
-  {
-    "id": 512,
-    "name": "Morty’s Lawyer",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/512.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/512"
-  },
-  {
-    "id": 668,
-    "name": "Defiance Squanchette",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Defiance's Ship",
-      "url": "https://therickandmortyapi.vercel.app/api/location/107"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/668.jpeg",
-    "episode": {
-      "name": "Star Mort: Rickturn of the Jerri",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/668"
-  },
-  {
-    "id": 671,
-    "name": "New Improved Galactic Federation Guard",
+    "id": 40,
+    "name": "Beth's Mytholog",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Mythological Creature",
     "location": {
-      "name": "NX-5 Planet Remover",
-      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/671.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/40.jpeg",
     "episode": {
-      "name": "Star Mort: Rickturn of the Jerri",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/671"
+    "url": "https://therickandmortyapi.vercel.app/api/character/40"
   },
   {
-    "id": 719,
-    "name": "Diesel Weasel",
+    "id": 176,
+    "name": "Celebrity Jerry",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/719.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/176.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/719"
+    "url": "https://therickandmortyapi.vercel.app/api/character/176"
+  },
+  {
+    "id": 442,
+    "name": "Shaved Head Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/442.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/442"
+  },
+  {
+    "id": 568,
+    "name": "Slut Dragon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/568.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/568"
+  },
+  {
+    "id": 658,
+    "name": "Sonia Sotomayor",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/658.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/658"
+  },
+  {
+    "id": 661,
+    "name": "Morty’s Girlfriend",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/661.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/661"
   }
 ]
