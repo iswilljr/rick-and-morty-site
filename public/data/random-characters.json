@@ -1,98 +1,98 @@
 [
   {
-    "id": 11,
-    "name": "Albert Einstein",
-    "status": "Dead",
-    "species": "Human",
+    "id": 146,
+    "name": "Glexo Slim Slom",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/11.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/146.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/11"
+    "url": "https://therickandmortyapi.vercel.app/api/character/146"
   },
   {
-    "id": 167,
-    "name": "Izzy",
+    "id": 186,
+    "name": "Joyce Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/186.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/186"
+  },
+  {
+    "id": 197,
+    "name": "Kyle",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Kyle's Teenyverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/50"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/197.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/197"
+  },
+  {
+    "id": 403,
+    "name": "Corn detective",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/403.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/403"
+  },
+  {
+    "id": 423,
+    "name": "Synthetic Laser Eels",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/167.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/423.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/167"
+    "url": "https://therickandmortyapi.vercel.app/api/character/423"
   },
   {
-    "id": 206,
-    "name": "Lizard Morty",
+    "id": 545,
+    "name": "Heist-Con Receptionist",
     "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/206.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/206"
-  },
-  {
-    "id": 628,
-    "name": "Beth Smith",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/628.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/628"
-  },
-  {
-    "id": 754,
-    "name": "Coop",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/754.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/754"
-  },
-  {
-    "id": 785,
-    "name": "Memory Geardude",
-    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/785.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/545.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/785"
+    "url": "https://therickandmortyapi.vercel.app/api/character/545"
   }
 ]
