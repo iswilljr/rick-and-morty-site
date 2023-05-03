@@ -1,98 +1,98 @@
 [
   {
-    "id": 122,
-    "name": "Fart",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/122.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/122"
-  },
-  {
-    "id": 208,
-    "name": "Logic",
+    "id": 77,
+    "name": "Cowboy Morty",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/208.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/77.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/208"
+    "url": "https://therickandmortyapi.vercel.app/api/character/77"
   },
   {
-    "id": 222,
-    "name": "Michael Denny and the Denny Singers",
+    "id": 129,
+    "name": "Fulgora",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/222.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/129.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/222"
+    "url": "https://therickandmortyapi.vercel.app/api/character/129"
   },
   {
-    "id": 270,
-    "name": "Prince Nebulon",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/270.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/249.jpeg",
     "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/270"
+    "url": "https://therickandmortyapi.vercel.app/api/character/249"
   },
   {
-    "id": 662,
-    "name": "Gaia",
+    "id": 251,
+    "name": "Nancy",
     "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/662.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/662"
-  },
-  {
-    "id": 702,
-    "name": "Gun Brain Rick",
-    "status": "Dead",
-    "species": "Robot",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/702.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/251.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/702"
+    "url": "https://therickandmortyapi.vercel.app/api/character/251"
+  },
+  {
+    "id": 542,
+    "name": "Mountain Sweat Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Globaflyn",
+      "url": "https://therickandmortyapi.vercel.app/api/location/87"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/542.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/542"
+  },
+  {
+    "id": 665,
+    "name": "Florflock",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/665.jpeg",
+    "episode": {
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/665"
   }
 ]
