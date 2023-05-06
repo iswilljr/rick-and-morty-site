@@ -1,98 +1,98 @@
 [
   {
-    "id": 35,
-    "name": "Bepisian",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Bepis 9",
-      "url": "https://therickandmortyapi.vercel.app/api/location/11"
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/35.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/7.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/35"
+    "url": "https://therickandmortyapi.vercel.app/api/character/7"
   },
   {
-    "id": 142,
-    "name": "Gibble Snake",
+    "id": 64,
+    "name": "Chris",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/142.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/64.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/142"
+    "url": "https://therickandmortyapi.vercel.app/api/character/64"
   },
   {
-    "id": 278,
-    "name": "Regional Manager Rick",
+    "id": 216,
+    "name": "MC Haps",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/216.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/216"
+  },
+  {
+    "id": 285,
+    "name": "Rick Prime",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/278.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/285.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/285"
+  },
+  {
+    "id": 344,
+    "name": "Tammy Guetermann",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "NX-5 Planet Remover",
+      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/344.jpeg",
+    "episode": {
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/344"
+  },
+  {
+    "id": 392,
+    "name": "Bearded Morty",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/392.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/278"
-  },
-  {
-    "id": 557,
-    "name": "Ventriloquiver",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/557.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/557"
-  },
-  {
-    "id": 646,
-    "name": "Steve",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/646.jpeg",
-    "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/646"
-  },
-  {
-    "id": 741,
-    "name": "Cirque du Soleil Zumanity Member",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/741.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/741"
+    "url": "https://therickandmortyapi.vercel.app/api/character/392"
   }
 ]
