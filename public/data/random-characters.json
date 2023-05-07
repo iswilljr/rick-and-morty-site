@@ -1,98 +1,98 @@
 [
   {
-    "id": 148,
-    "name": "Goddess Beth",
+    "id": 187,
+    "name": "Juggling Rick",
     "status": "unknown",
-    "species": "Mythological Creature",
+    "species": "Human",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/148.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/187.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/148"
+    "url": "https://therickandmortyapi.vercel.app/api/character/187"
   },
   {
-    "id": 185,
-    "name": "Joseph Eli Lipkip",
+    "id": 235,
+    "name": "Mortytown Loco",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/235.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/235"
+  },
+  {
+    "id": 340,
+    "name": "Supernova",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/185.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/340.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/185"
+    "url": "https://therickandmortyapi.vercel.app/api/character/340"
   },
   {
-    "id": 431,
-    "name": "Chair-homeless",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Chair Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/74"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/431.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/431"
-  },
-  {
-    "id": 438,
-    "name": "Michael's Lawyer",
+    "id": 356,
+    "name": "Tom Randolph",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/438.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/356.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/438"
+    "url": "https://therickandmortyapi.vercel.app/api/character/356"
   },
   {
-    "id": 533,
-    "name": "Monogatron Queen",
-    "status": "Alive",
+    "id": 369,
+    "name": "Tusked Assassin",
+    "status": "unknown",
     "species": "Alien",
     "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+      "name": "Resort Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/37"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/533.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/369.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/533"
+    "url": "https://therickandmortyapi.vercel.app/api/character/369"
   },
   {
-    "id": 659,
-    "name": "Morty’s Father-in-law",
-    "status": "Alive",
+    "id": 479,
+    "name": "Private Sector Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Near-Duplicate Reality",
-      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/659.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/479.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/659"
+    "url": "https://therickandmortyapi.vercel.app/api/character/479"
   }
 ]
