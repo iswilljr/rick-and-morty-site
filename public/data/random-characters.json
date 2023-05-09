@@ -1,98 +1,98 @@
 [
   {
-    "id": 30,
-    "name": "Baby Poopybutthole",
+    "id": 48,
+    "name": "Black Rick",
     "status": "Alive",
-    "species": "Poopybutthole",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/30.jpeg",
-    "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/30"
-  },
-  {
-    "id": 86,
-    "name": "Cyclops Rick",
-    "status": "Dead",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/86.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/86"
+    "url": "https://therickandmortyapi.vercel.app/api/character/48"
   },
   {
-    "id": 292,
-    "name": "Rick K-22",
-    "status": "Alive",
+    "id": 325,
+    "name": "Slick Morty",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/292.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/325.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/292"
+    "url": "https://therickandmortyapi.vercel.app/api/character/325"
   },
   {
-    "id": 490,
-    "name": "Chang",
-    "status": "Alive",
+    "id": 359,
+    "name": "Tortured Morty",
+    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "The Menagerie",
-      "url": "https://therickandmortyapi.vercel.app/api/location/25"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/490.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/359.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/490"
+    "url": "https://therickandmortyapi.vercel.app/api/character/359"
   },
   {
-    "id": 716,
-    "name": "Too Cute to Murder Summer",
+    "id": 553,
+    "name": "The Shapeshiftress",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/553.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/553"
+  },
+  {
+    "id": 592,
+    "name": "Phoenixperson",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/716.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/592.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/716"
+    "url": "https://therickandmortyapi.vercel.app/api/character/592"
   },
   {
-    "id": 744,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
+    "id": 666,
+    "name": "Squeeb",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/744.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/666.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/744"
+    "url": "https://therickandmortyapi.vercel.app/api/character/666"
   }
 ]
