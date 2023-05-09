@@ -1,98 +1,98 @@
 [
   {
-    "id": 48,
-    "name": "Black Rick",
+    "id": 89,
+    "name": "Dale",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Giant's Town",
+      "url": "https://therickandmortyapi.vercel.app/api/location/14"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/89.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/89"
+  },
+  {
+    "id": 91,
+    "name": "David Letterman",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/91.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/48"
+    "url": "https://therickandmortyapi.vercel.app/api/character/91"
   },
   {
-    "id": 325,
-    "name": "Slick Morty",
-    "status": "Dead",
+    "id": 260,
+    "name": "Phillip Jacobs",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/325.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/260.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/325"
+    "url": "https://therickandmortyapi.vercel.app/api/character/260"
   },
   {
-    "id": 359,
-    "name": "Tortured Morty",
-    "status": "unknown",
+    "id": 393,
+    "name": "Roy",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Roy: A Life Well Lived",
+      "url": "https://therickandmortyapi.vercel.app/api/location/32"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/359.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/393.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/359"
+    "url": "https://therickandmortyapi.vercel.app/api/character/393"
   },
   {
-    "id": 553,
-    "name": "The Shapeshiftress",
+    "id": 527,
+    "name": "Mothership Intern",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/553.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/527.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/553"
+    "url": "https://therickandmortyapi.vercel.app/api/character/527"
   },
   {
-    "id": 592,
-    "name": "Phoenixperson",
+    "id": 723,
+    "name": "Water Tina-Teer",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/592.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/723.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/592"
-  },
-  {
-    "id": 666,
-    "name": "Squeeb",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/666.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/666"
+    "url": "https://therickandmortyapi.vercel.app/api/character/723"
   }
 ]
