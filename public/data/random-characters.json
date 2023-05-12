@@ -1,98 +1,98 @@
 [
   {
-    "id": 44,
-    "name": "Body Guard Morty",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/44.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/44"
-  },
-  {
-    "id": 257,
-    "name": "Paul Fleishman",
+    "id": 225,
+    "name": "Michael Thompson",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/257.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/257"
-  },
-  {
-    "id": 457,
-    "name": "Funny Songs Presenter",
-    "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/457.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/225.jpeg",
     "episode": {
       "name": "Interdimensional Cable 2: Tempting Fate",
       "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/457"
+    "url": "https://therickandmortyapi.vercel.app/api/character/225"
   },
   {
-    "id": 478,
-    "name": "Journalist Rick",
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/249.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/249"
+  },
+  {
+    "id": 556,
+    "name": "Hephaestus",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/556.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/556"
+  },
+  {
+    "id": 625,
+    "name": "Storylord",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/478.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/625.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/478"
+    "url": "https://therickandmortyapi.vercel.app/api/character/625"
   },
   {
-    "id": 520,
-    "name": "Wasp Jerry",
+    "id": 627,
+    "name": "The Concept of Time",
     "status": "Alive",
-    "species": "Animal",
+    "species": "unknown",
     "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/520.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/627.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/520"
+    "url": "https://therickandmortyapi.vercel.app/api/character/627"
   },
   {
-    "id": 579,
-    "name": "Snake with Legs",
+    "id": 781,
+    "name": "Rick's Garage",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Robot",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/579.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/781.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/579"
+    "url": "https://therickandmortyapi.vercel.app/api/character/781"
   }
 ]
