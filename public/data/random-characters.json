@@ -1,98 +1,98 @@
 [
   {
-    "id": 159,
-    "name": "Hunter",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Giant Telepathic Spiders Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/42"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/159.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/159"
-  },
-  {
-    "id": 206,
-    "name": "Lizard Morty",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/206.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/206"
-  },
-  {
-    "id": 332,
-    "name": "Stacy",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/332.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/332"
-  },
-  {
-    "id": 532,
-    "name": "Tony’s Wife",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Globaflyn",
-      "url": "https://therickandmortyapi.vercel.app/api/location/87"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/532.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/532"
-  },
-  {
-    "id": 684,
-    "name": "Mr. Nimbus Secretary",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/684.jpeg",
-    "episode": {
-      "name": "Mort Dinner Rick Andre",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/684"
-  },
-  {
-    "id": 818,
-    "name": "Long Hair Rick",
+    "id": 164,
+    "name": "Insurance Rick",
     "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/818.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/164.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/818"
+    "url": "https://therickandmortyapi.vercel.app/api/character/164"
+  },
+  {
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/249.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/249"
+  },
+  {
+    "id": 368,
+    "name": "Truth Tortoise",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/368.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/368"
+  },
+  {
+    "id": 371,
+    "name": "Tumblorkian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Plopstar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/66"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/371.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/371"
+  },
+  {
+    "id": 505,
+    "name": "Fascist Shrimp Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/505.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/505"
+  },
+  {
+    "id": 563,
+    "name": "The Wizard",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/563.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/563"
   }
 ]
