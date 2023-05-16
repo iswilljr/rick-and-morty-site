@@ -64,12 +64,6 @@ The production build will generate client and server modules by running both cli
 pnpm build # or `yarn build`
 ```
 
-## Static Site Generator (Node.js)
-
-```
-pnpm build.server
-```
-
 ## Vercel Edge
 
 This starter site is configured to deploy to [Vercel Edge Functions](https://vercel.com/docs/concepts/functions/edge-functions), which means it will be rendered at an edge location near to your users.
