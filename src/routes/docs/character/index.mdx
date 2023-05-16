@@ -1,0 +1,200 @@
+---
+title: Character
+---
+
+import { Query } from '~/components/query/query'
+
+# Character
+
+There is a total of `826` characters sorted by id.
+
+## Character schema
+
+| Key      | Type         | Description                                                                                                                                   |
+| -------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| id       | int          | The id of the character.                                                                                                                      |
+| name     | string       | The name of the character.                                                                                                                    |
+| status   | string       | The status of the character ('Alive', 'Dead' or 'unknown').                                                                                   |
+| species  | string       | The species of the character.                                                                                                                 |
+| type     | string       | The type or subspecies of the character.                                                                                                      |
+| gender   | string       | The gender of the character ('Female', 'Male', 'Genderless' or 'unknown').                                                                    |
+| origin   | object       | Name and link to the character's origin location.                                                                                             |
+| location | object       | Name and link to the character's last known location endpoint.                                                                                |
+| image    | string (url) | Link to the character's image. All images are 300x300px and most are medium shots or portraits since they are intended to be used as avatars. |
+| episode  | array (urls) | List of episodes in which this character appeared.                                                                                            |
+| url      | string (url) | Link to the character's own URL endpoint.                                                                                                     |
+| created  | string       | Time at which the character was created in the database.                                                                                      |
+
+## Get all characters
+
+You can access the list of characters by using the `/character` endpoint.
+
+<Query endpoint='/character' />
+
+```json
+{
+  "info": {
+    "count": 826,
+    "pages": 42,
+    "next": "https://therickandmortyapi.vercel.app/api/character?page=2",
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male",
+      "location": {
+        "name": "Citadel of Ricks",
+        "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      },
+      "origin": {
+        "name": "Earth (C-137)",
+        "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      },
+      "image": "https://therickandmortyapi.vercel.app/api/character/avatar/1.jpeg",
+      "episode": [
+        "https://therickandmortyapi.vercel.app/api/episode/1",
+        "https://therickandmortyapi.vercel.app/api/episode/2"
+        // ...
+      ],
+      "url": "https://therickandmortyapi.vercel.app/api/character/1",
+      "created": "2017-11-04T13:48:46.250Z"
+    }
+    // ...
+  ]
+}
+```
+
+## Get a single character
+
+You can get a single character by adding the `id` as a parameter: `/character/101`
+
+<Query endpoint='/character/101' />
+
+```json
+{
+  "id": 101,
+  "name": "E. Coli",
+  "status": "Dead",
+  "species": "Disease",
+  "type": "",
+  "gender": "unknown",
+  "location": {
+    "name": "Anatomy Park",
+    "url": "https://therickandmortyapi.vercel.app/api/location/5"
+  },
+  "origin": {
+    "name": "Anatomy Park",
+    "url": "https://therickandmortyapi.vercel.app/api/location/5"
+  },
+  "image": "https://therickandmortyapi.vercel.app/api/character/avatar/101.jpeg",
+  "episode": ["https://therickandmortyapi.vercel.app/api/episode/3"],
+  "url": "https://therickandmortyapi.vercel.app/api/character/101",
+  "created": "2017-12-01T07:03:31.433Z"
+}
+```
+
+## Get multiple characters
+
+You can get multiple characters by adding an array of `ids` as parameter: `/character/1,2,3`
+
+<Query endpoint='/character/9,11' />
+
+```json
+[
+  {
+    "id": 9,
+    "name": "Agency Director",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "origin": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/9.jpeg",
+    "episode": ["https://therickandmortyapi.vercel.app/api/episode/24"],
+    "url": "https://therickandmortyapi.vercel.app/api/character/9",
+    "created": "2017-11-04T15:06:54.976Z"
+  },
+  {
+    "id": 11,
+    "name": "Albert Einstein",
+    "status": "Dead",
+    "species": "Human",
+    "type": "",
+    "gender": "Male",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "origin": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/11.jpeg",
+    "episode": ["https://therickandmortyapi.vercel.app/api/episode/12"],
+    "url": "https://therickandmortyapi.vercel.app/api/character/11",
+    "created": "2017-11-04T15:20:20.965Z"
+  }
+]
+```
+
+## Filter characters
+
+You can also include filters in the URL by including additional query parameters. To start filtering add a `?` followed by the query `<query>=<value>`. If you want to chain several queries in the same call, use `&` followed by the query.
+
+For example, If you want to check how many alive Ricks exist, just add `?name=rick&status=alive` to the URL.
+
+Available parameters:
+
+- `name`: filter by the given name.
+- `status`: filter by the given status (`alive`, `dead` or `unknown`).
+- `species`: filter by the given species.
+- `type`: filter by the given type.
+- `gender`: filter by the given gender (`female`, `male`, `genderless` or `unknown`).
+
+<Query endpoint='/character?name=morty&status=dead' />
+
+```json
+{
+  "info": {
+    "count": 18,
+    "pages": 1,
+    "next": null,
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 43,
+      "name": "Big Morty",
+      "status": "Dead",
+      "species": "Human",
+      "type": "",
+      "gender": "Male",
+      "location": {
+        "name": "Citadel of Ricks",
+        "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      },
+      "origin": {
+        "name": "unknown",
+        "url": ""
+      },
+      "image": "https://therickandmortyapi.vercel.app/api/character/avatar/43.jpeg",
+      "episode": ["https://therickandmortyapi.vercel.app/api/episode/28"],
+      "url": "https://therickandmortyapi.vercel.app/api/character/43",
+      "created": "2017-11-05T05:17:04.997Z"
+    }
+    // ...
+  ]
+}
+```
