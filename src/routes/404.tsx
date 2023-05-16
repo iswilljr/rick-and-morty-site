@@ -1,4 +1,5 @@
 import { component$ } from '@builder.io/qwik'
+import type { DocumentHead } from '@builder.io/qwik-city'
 
 export default component$(() => {
   return (
@@ -8,3 +9,7 @@ export default component$(() => {
     </main>
   )
 })
+
+export const head: DocumentHead = {
+  title: 'Oh Jeez Rick!',
+}
