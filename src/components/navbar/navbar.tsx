@@ -1,4 +1,4 @@
-import { $, component$, useSignal, useVisibleTask$ } from '@builder.io/qwik'
+import { $, component$, useSignal, useTask$ } from '@builder.io/qwik'
 import { Link } from '@builder.io/qwik-city'
 import { useDocLinks } from '~/routes/docs/layout'
 
@@ -10,7 +10,7 @@ export const Navbar = component$(() => {
     isNavbarOpened.value = false
   })
 
-  useVisibleTask$(({ track }) => {
+  useTask$(({ track }) => {
     track(() => isNavbarOpened.value)
 
     if (!isNavbarOpened.value) return
