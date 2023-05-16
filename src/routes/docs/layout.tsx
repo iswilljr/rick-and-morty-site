@@ -1,5 +1,5 @@
 import { Slot, component$, useStyles$ } from '@builder.io/qwik'
-import { routeLoader$ } from '@builder.io/qwik-city'
+import { type DocumentHead, routeLoader$ } from '@builder.io/qwik-city'
 import { Navbar } from '~/components/navbar/navbar'
 import draculaTheme from 'prism-themes/themes/prism-dracula.min.css?inline'
 
@@ -53,4 +53,15 @@ export default component$(() => {
       </div>
     </div>
   )
+})
+
+export const head: DocumentHead = ({ head }) => ({
+  title: `${head.title} - Documentation`,
+  meta: [
+    {
+      name: 'description',
+      content:
+        'This documentation will help you get familiar with the resources of the Rick and Morty API and show you how to make different queries.',
+    },
+  ],
 })
