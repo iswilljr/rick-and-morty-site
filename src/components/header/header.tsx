@@ -28,17 +28,17 @@ export const Header = component$(() => {
         </Link>
         <ul class='flex items-center justify-center space-x-3 text-sm uppercase md:space-x-7 md:text-base'>
           <li>
-            <Link class='hover:text-primary text-dark-secondary font-bold duration-100' href='/api' reload>
+            <Link class='font-bold text-dark-secondary duration-100 hover:text-primary' href='/api' reload>
               API
             </Link>
           </li>
           <li>
-            <Link class='hover:text-primary text-dark-secondary font-bold duration-100' href='/docs/introduction'>
+            <Link class='font-bold text-dark-secondary duration-100 hover:text-primary' href='/docs/introduction'>
               Docs
             </Link>
           </li>
           <li>
-            <Link class='hover:text-primary text-dark-secondary font-bold duration-100' href='/official' reload>
+            <Link class='font-bold text-dark-secondary duration-100 hover:text-primary' href='/official' reload>
               Official API
             </Link>
           </li>
