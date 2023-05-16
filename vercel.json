@@ -1,4 +1,41 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/docs",
+      "destination": "/docs/introduction"
+    },
+    {
+      "source": "/documentation",
+      "destination": "/docs/introduction"
+    },
+    {
+      "source": "/documentation/:path*",
+      "destination": "/docs/:path*"
+    },
+    {
+      "source": "/about",
+      "destination": "https://rickandmortyapi.com/about"
+    },
+    {
+      "source": "/support",
+      "destination": "https://rickandmortyapi.com/support-us"
+    },
+    {
+      "source": "/official",
+      "destination": "https://rickandmortyapi.com"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://rickandmortyapi.iswilljr.vercel.app/:path*"
+    },
+    {
+      "source": "/graphql",
+      "destination": "https://rickandmorty.stellate.sh"
+    }
+  ],
   "headers": [
     {
       "source": "/build/(.*)",
@@ -9,5 +46,6 @@
         }
       ]
     }
-  ]
+  ],
+  "trailingSlash": false
 }
