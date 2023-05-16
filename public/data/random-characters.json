@@ -1,98 +1,98 @@
 [
   {
-    "id": 226,
-    "name": "Million Ants",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/226.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/226"
-  },
-  {
-    "id": 325,
-    "name": "Slick Morty",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/325.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/325"
-  },
-  {
-    "id": 485,
-    "name": "Modern Rick",
+    "id": 267,
+    "name": "Plumber Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/485.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/267.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/485"
+    "url": "https://therickandmortyapi.vercel.app/api/character/267"
   },
   {
-    "id": 531,
-    "name": "Tony",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 373,
+    "name": "Unmuscular Michael",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Mount Space Everest",
-      "url": "https://therickandmortyapi.vercel.app/api/location/86"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/531.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/373.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/531"
+    "url": "https://therickandmortyapi.vercel.app/api/character/373"
   },
   {
-    "id": 708,
-    "name": "Squid Costume Summer",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/708.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/708"
-  },
-  {
-    "id": 775,
-    "name": "Voiceoverian",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 374,
+    "name": "Vampire Master",
+    "status": "Alive",
+    "species": "Mythological Creature",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/775.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/374.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/775"
+    "url": "https://therickandmortyapi.vercel.app/api/character/374"
+  },
+  {
+    "id": 381,
+    "name": "Woman Rick",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/381.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/381"
+  },
+  {
+    "id": 728,
+    "name": "Sperm Queen",
+    "status": "Dead",
+    "species": "unknown",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/728.jpeg",
+    "episode": {
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/728"
+  },
+  {
+    "id": 804,
+    "name": "Andy",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/804.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/804"
   }
 ]
