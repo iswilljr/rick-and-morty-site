@@ -1,5 +1,4 @@
 import { component$ } from '@builder.io/qwik'
-import { cx } from '~/utils/cx'
 import type { Character, Status } from '~/types/character'
 
 export interface CardProps extends Character {}
@@ -26,11 +25,14 @@ export const Card = component$<CardProps>(({ episode, image, location, name, spe
           </a>
           <span class='flex items-center text-[16px] font-medium capitalize'>
             <span
-              class={cx('mr-2 h-2 w-2 rounded-full', {
-                'bg-status-alive': characterStatus === 'alive',
-                'bg-status-dead': characterStatus === 'dead',
-                'bg-status-unknown': characterStatus === 'unknown',
-              })}
+              class={[
+                'mr-2 h-2 w-2 rounded-full',
+                {
+                  'bg-status-alive': characterStatus === 'alive',
+                  'bg-status-dead': characterStatus === 'dead',
+                  'bg-status-unknown': characterStatus === 'unknown',
+                },
+              ]}
             />
             {characterStatus} - {species}
           </span>

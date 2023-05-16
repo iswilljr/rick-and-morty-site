@@ -1,6 +1,5 @@
 import { component$ } from '@builder.io/qwik'
 import { Link, useLocation } from '@builder.io/qwik-city'
-import { cx } from '~/utils/cx'
 import { Logo } from '../icons/logo'
 
 export const Header = component$(() => {
@@ -10,18 +9,21 @@ export const Header = component$(() => {
 
   return (
     <header
-      class={cx('z-50 bg-white', {
-        sticky: isDocsPathname,
-        'top-0': isDocsPathname,
-      })}
+      class={[
+        'z-50 bg-white',
+        {
+          sticky: isDocsPathname,
+          'top-0': isDocsPathname,
+        },
+      ]}
     >
       <nav
-        class={cx(
+        class={[
           'mx-auto flex min-h-[60px] w-full items-center justify-between border border-transparent px-2 md:px-6',
           {
             'border-b-slate-200': isDocsPathname,
-          }
-        )}
+          },
+        ]}
       >
         <Link href='/' aria-label='Home'>
           <Logo />

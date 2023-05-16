@@ -1,6 +1,5 @@
 import { $, component$, useSignal, useVisibleTask$ } from '@builder.io/qwik'
 import { Link } from '@builder.io/qwik-city'
-import { cx } from '~/utils/cx'
 import { useDocLinks } from '~/routes/docs/layout'
 
 export const Navbar = component$(() => {
@@ -26,17 +25,17 @@ export const Navbar = component$(() => {
   return (
     <>
       <nav
-        class={cx(
+        class={[
           'fixed top-[60px] z-10 h-[calc(100vh-60px)] w-full overflow-y-auto bg-white p-6 duration-100 md:sticky md:w-60 md:translate-x-0',
           {
             '-translate-x-full': !isNavbarOpened.value,
-          }
-        )}
+          },
+        ]}
       >
         <ul class='[&_a:hover]:text-primary [&_a]:duration-100'>
           {docLinks.value.map(doc => (
             <li key={doc.href} class='mb-6 last:mb-0'>
-              <Link class={cx('text-xl font-bold', { 'text-primary': false })} href={doc.href} onClick$={handleClick}>
+              <Link class={['text-xl font-bold', { 'text-primary': false }]} href={doc.href} onClick$={handleClick}>
                 {doc.label}
               </Link>
               <ul class='mt-2'>
@@ -62,7 +61,7 @@ export const Navbar = component$(() => {
         aria-label='Open Navbar'
       >
         <svg
-          class={cx('duration-700', { 'rotate-45': isNavbarOpened.value })}
+          class={['duration-700', { 'rotate-45': isNavbarOpened.value }]}
           width={20}
           height={20}
           viewBox='0 0 459 459'
