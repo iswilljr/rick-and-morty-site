@@ -14,7 +14,6 @@ export default component$(() => {
 })
 
 export const head: DocumentHead = {
-  title: 'The Rick And Morty API',
   links: [
     { rel: 'icon', href: '/favicon.png', type: 'image/png' },
     { rel: 'apple-touch-icon', sizes: '48x48', href: '/icon-48x48.png' },

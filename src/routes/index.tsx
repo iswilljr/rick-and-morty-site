@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik'
-import { routeLoader$ } from '@builder.io/qwik-city'
+import { type DocumentHead, routeLoader$ } from '@builder.io/qwik-city'
 import { RANDOM_CHARACTER_URL } from '~/utils/constants'
 import { Card } from '~/components/card/card'
 import { Hero } from '~/components/icons/hero'
@@ -42,3 +42,7 @@ export default component$(() => {
     </>
   )
 })
+
+export const head: DocumentHead = {
+  title: 'The Rick And Morty API',
+}
