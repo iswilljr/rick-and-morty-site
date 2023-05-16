@@ -1,5 +1,7 @@
 # Qwik City App ⚡️
 
+[![Rick and Morty Site E2E Testing](https://github.com/iswilljr/rick-and-morty-site-qwik/actions/workflows/test.yml/badge.svg)](https://github.com/iswilljr/rick-and-morty-site-qwik/actions/workflows/test.yml)
+
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
 - [Qwik GitHub](https://github.com/BuilderIO/qwik)
