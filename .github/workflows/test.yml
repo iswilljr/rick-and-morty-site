@@ -18,5 +18,7 @@ jobs:
           cache: pnpm
       - name: Install dependencies
         run: pnpm install
+      - name: Install Playwright Browsers
+        run: pnpm exec playwright install --with-deps
       - name: Site E2E Testing
         run: pnpm run test.e2e
