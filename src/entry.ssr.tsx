@@ -8,6 +8,7 @@ export default function (opts: RenderToStreamOptions) {
     ...opts,
     containerAttributes: {
       lang: 'en-us',
+      class: 'overflow-auto',
       ...opts.containerAttributes,
     },
   })
