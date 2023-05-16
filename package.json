@@ -19,11 +19,13 @@
     "lint": "eslint \"src/**/*.ts*\"",
     "preview": "qwik build preview && vite preview --open",
     "start": "vite --open --mode ssr",
+    "test.e2e": "playwright test",
     "qwik": "qwik"
   },
   "devDependencies": {
     "@builder.io/qwik": "1.1.2",
     "@builder.io/qwik-city": "1.1.2",
+    "@playwright/test": "^1.32.3",
     "@tailwindcss/typography": "0.5.9",
     "@types/eslint": "8.37.0",
     "@types/node": "20.1.5",
