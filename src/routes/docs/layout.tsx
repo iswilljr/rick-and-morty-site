@@ -40,7 +40,6 @@ export const useDocLinks = routeLoader$(() => {
 
 export default component$(() => {
   useStyles$(draculaTheme)
-  useLoader()
 
   return (
     <div class='flex'>
@@ -54,14 +53,4 @@ export default component$(() => {
       </div>
     </div>
   )
-})
-
-export const useLoader = routeLoader$(async ({ request, redirect }) => {
-  const { pathname } = new URL(request.url)
-
-  if (pathname.replace(/\/$/, '') === '/docs') {
-    redirect(307, '/docs/introduction')
-  }
-
-  return null
 })
