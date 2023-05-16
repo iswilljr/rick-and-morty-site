@@ -12,7 +12,7 @@ export const Navbar = component$(() => {
   })
 
   useVisibleTask$(({ track }) => {
-    track(() => isNavbarOpened)
+    track(() => isNavbarOpened.value)
 
     if (!isNavbarOpened.value) return
 
