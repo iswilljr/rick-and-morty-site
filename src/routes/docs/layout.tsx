@@ -25,8 +25,8 @@ export const useDocLinks = routeLoader$(() => {
       label: 'Introduction',
       href: '/docs/introduction',
       categories: [
-        { label: 'REST', href: '#rest' },
         { label: 'GraphQL', href: '#graphql' },
+        { label: 'REST', href: '#rest' },
         { label: 'Info and Pagination', href: '#info-and-pagination' },
       ],
     },

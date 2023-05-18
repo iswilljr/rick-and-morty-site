@@ -39,8 +39,9 @@ export const Navbar = component$(() => {
                 {doc.label}
               </Link>
               <ul class='mt-2'>
-                {doc.categories.map(category => {
-                  const link = `${doc.href}/?${category.href.replaceAll('#', '')}${category.href}`
+                {doc.categories.map((category, index) => {
+                  // place the index as query parameter so <Link /> can navigate properly
+                  const link = `${doc.href}?${index}${category.href}`
 
                   return (
                     <li key={category.href} class='my-1'>
