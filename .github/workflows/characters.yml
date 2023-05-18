@@ -18,5 +18,5 @@ jobs:
           git config user.name iswilljr
           git config user.email iswilljr@gmail.com
           git add .
-          git commit -m "feat: add new random characters"
+          git commit -m "add new random characters"
           git push
