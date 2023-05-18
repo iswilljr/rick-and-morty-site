@@ -1,0 +1,22 @@
+name: Get Random Characters
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0,12 * * *
+
+jobs:
+  characters:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run get-random-characters
+      - run: |
+          git config user.name iswilljr
+          git config user.email iswilljr@gmail.com
+          git add .
+          git commit -m "feat: add new random characters"
+          git push
