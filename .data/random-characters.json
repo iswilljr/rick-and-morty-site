@@ -1,98 +1,98 @@
 [
   {
-    "id": 9,
-    "name": "Agency Director",
+    "id": 97,
+    "name": "Gonorrhea",
     "status": "Dead",
-    "species": "Human",
+    "species": "Disease",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/9.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/97.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/9"
+    "url": "https://therickandmortyapi.vercel.app/api/character/97"
   },
   {
-    "id": 36,
-    "name": "Beta-Seven",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 98,
+    "name": "Hepatitis A",
+    "status": "Dead",
+    "species": "Disease",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/36.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/98.jpeg",
     "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/36"
+    "url": "https://therickandmortyapi.vercel.app/api/character/98"
   },
   {
-    "id": 442,
-    "name": "Shaved Head Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/442.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/442"
-  },
-  {
-    "id": 480,
-    "name": "Purple Morty",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 119,
+    "name": "Evil Rick",
+    "status": "Dead",
+    "species": "Humanoid",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/480.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/119.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/119"
+  },
+  {
+    "id": 204,
+    "name": "Lisa",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/204.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/204"
+  },
+  {
+    "id": 481,
+    "name": "Retired General Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/481.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/480"
+    "url": "https://therickandmortyapi.vercel.app/api/character/481"
   },
   {
-    "id": 746,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/746.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/746"
-  },
-  {
-    "id": 783,
-    "name": "Memory Rick",
+    "id": 559,
+    "name": "Gramuflackian Anchorman",
     "status": "Dead",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/783.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/559.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/783"
+    "url": "https://therickandmortyapi.vercel.app/api/character/559"
   }
 ]
