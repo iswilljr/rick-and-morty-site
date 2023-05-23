@@ -1,98 +1,98 @@
 [
   {
-    "id": 88,
-    "name": "Cynthia",
+    "id": 395,
+    "name": "Greebybobe",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/88.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/88"
-  },
-  {
-    "id": 92,
-    "name": "Davin",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/92.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/395.jpeg",
     "episode": {
       "name": "Pilot",
       "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/92"
+    "url": "https://therickandmortyapi.vercel.app/api/character/395"
   },
   {
-    "id": 305,
-    "name": "Scary Glenn",
+    "id": 404,
+    "name": "Michael Jackson",
     "status": "Alive",
-    "species": "Mythological Creature",
+    "species": "Humanoid",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Earth (Phone Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/72"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/305.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/404.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/305"
+    "url": "https://therickandmortyapi.vercel.app/api/character/404"
   },
   {
-    "id": 580,
-    "name": "Secret Service Snake",
+    "id": 476,
+    "name": "Flower Morty",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/476.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/476"
+  },
+  {
+    "id": 518,
+    "name": "Wasp Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/518.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/518"
+  },
+  {
+    "id": 545,
+    "name": "Heist-Con Receptionist",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/545.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/545"
+  },
+  {
+    "id": 582,
+    "name": "Anchosnake",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Snake Planet",
       "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/580.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/582.jpeg",
     "episode": {
       "name": "Rattlestar Ricklactica",
       "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/580"
-  },
-  {
-    "id": 636,
-    "name": "Evil Morty",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/636.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/636"
-  },
-  {
-    "id": 755,
-    "name": "Dwayne",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/755.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/755"
+    "url": "https://therickandmortyapi.vercel.app/api/character/582"
   }
 ]
