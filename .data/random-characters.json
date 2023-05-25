@@ -1,98 +1,98 @@
 [
   {
-    "id": 146,
-    "name": "Glexo Slim Slom",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/146.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/146"
-  },
-  {
-    "id": 220,
-    "name": "Mega Fruit Farmer Rick",
-    "status": "Alive",
+    "id": 42,
+    "name": "Big Head Morty",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/220.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/42.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/220"
+    "url": "https://therickandmortyapi.vercel.app/api/character/42"
   },
   {
-    "id": 254,
-    "name": "Octopus Man",
+    "id": 226,
+    "name": "Million Ants",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/226.jpeg",
+    "episode": {
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/226"
+  },
+  {
+    "id": 380,
+    "name": "Unknown Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/380.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/380"
+  },
+  {
+    "id": 417,
+    "name": "Baby Legs Chief",
     "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/254.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/254"
-  },
-  {
-    "id": 336,
-    "name": "Steven Phillips",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Unity's Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/28"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/336.jpeg",
-    "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/336"
-  },
-  {
-    "id": 404,
-    "name": "Michael Jackson",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/404.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/404"
+    "url": "https://therickandmortyapi.vercel.app/api/character/417"
   },
   {
-    "id": 746,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
+    "id": 759,
+    "name": "Turkey Morty",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/746.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/759.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/746"
+    "url": "https://therickandmortyapi.vercel.app/api/character/759"
+  },
+  {
+    "id": 796,
+    "name": "Sarge",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Normal Size Bug Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/123"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/796.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/796"
   }
 ]
