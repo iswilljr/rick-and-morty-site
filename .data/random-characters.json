@@ -1,98 +1,98 @@
 [
   {
-    "id": 159,
-    "name": "Hunter",
-    "status": "Dead",
-    "species": "Human",
+    "id": 41,
+    "name": "Big Boobed Waitress",
+    "status": "Alive",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Giant Telepathic Spiders Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/42"
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/159.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/41.jpeg",
     "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/159"
+    "url": "https://therickandmortyapi.vercel.app/api/character/41"
   },
   {
-    "id": 199,
-    "name": "Larva Alien",
+    "id": 79,
+    "name": "Crab Spider",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Hideout Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/27"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/199.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/79.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/79"
+  },
+  {
+    "id": 182,
+    "name": "Jim",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/182.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/199"
+    "url": "https://therickandmortyapi.vercel.app/api/character/182"
   },
   {
-    "id": 417,
-    "name": "Baby Legs Chief",
-    "status": "Alive",
+    "id": 268,
+    "name": "Poncho",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/268.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/417"
+    "url": "https://therickandmortyapi.vercel.app/api/character/268"
   },
   {
-    "id": 441,
-    "name": "Bearded Jerry",
-    "status": "Alive",
-    "species": "Human",
+    "id": 502,
+    "name": "Revolio Clockberg Jr.",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/441.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/441"
-  },
-  {
-    "id": 518,
-    "name": "Wasp Morty",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/518.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/502.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/518"
+    "url": "https://therickandmortyapi.vercel.app/api/character/502"
   },
   {
-    "id": 601,
-    "name": "Christmas Storyteller",
+    "id": 512,
+    "name": "Morty’s Lawyer",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/601.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/512.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/601"
+    "url": "https://therickandmortyapi.vercel.app/api/character/512"
   }
 ]
