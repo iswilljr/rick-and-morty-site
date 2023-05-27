@@ -1,98 +1,98 @@
 [
   {
-    "id": 115,
-    "name": "Ethan",
-    "status": "Alive",
+    "id": 159,
+    "name": "Hunter",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (Giant Telepathic Spiders Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/42"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/115.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/159.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/159"
+  },
+  {
+    "id": 199,
+    "name": "Larva Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/199.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/115"
+    "url": "https://therickandmortyapi.vercel.app/api/character/199"
   },
   {
-    "id": 133,
-    "name": "Garblovian",
+    "id": 417,
+    "name": "Baby Legs Chief",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/133.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/417"
+  },
+  {
+    "id": 441,
+    "name": "Bearded Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/441.jpeg",
     "episode": {
       "name": "Mortynight Run",
       "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/133"
+    "url": "https://therickandmortyapi.vercel.app/api/character/441"
   },
   {
-    "id": 303,
-    "name": "Samantha",
+    "id": 518,
+    "name": "Wasp Morty",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/303.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/518.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/303"
+    "url": "https://therickandmortyapi.vercel.app/api/character/518"
   },
   {
-    "id": 338,
-    "name": "Summer Smith",
+    "id": 601,
+    "name": "Christmas Storyteller",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/338.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/338"
-  },
-  {
-    "id": 654,
-    "name": "Plane Crash Survivor",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Near-Duplicate Reality",
-      "url": "https://therickandmortyapi.vercel.app/api/location/104"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/654.jpeg",
-    "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/654"
-  },
-  {
-    "id": 792,
-    "name": "Alien Crow",
-    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Avian Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/122"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/792.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/601.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/792"
+    "url": "https://therickandmortyapi.vercel.app/api/character/601"
   }
 ]
