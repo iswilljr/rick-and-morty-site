@@ -1,98 +1,98 @@
 [
   {
-    "id": 515,
-    "name": "Caterpillar Mr. Goldenfold",
-    "status": "Dead",
-    "species": "Animal",
+    "id": 39,
+    "name": "Beth Smith",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/34"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/515.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/39.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/515"
+    "url": "https://therickandmortyapi.vercel.app/api/character/39"
   },
   {
-    "id": 555,
-    "name": "Randotron",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 54,
+    "name": "Bobby Moynihan",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/555.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/54.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/555"
+    "url": "https://therickandmortyapi.vercel.app/api/character/54"
   },
   {
-    "id": 559,
-    "name": "Gramuflackian Anchorman",
+    "id": 165,
+    "name": "Investigator Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/165.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/165"
+  },
+  {
+    "id": 204,
+    "name": "Lisa",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Gramuflack",
-      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/559.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/204.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/559"
+    "url": "https://therickandmortyapi.vercel.app/api/character/204"
   },
   {
-    "id": 570,
-    "name": "Chachi",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 733,
+    "name": "Kathy Ireland",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/570.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/733.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/570"
+    "url": "https://therickandmortyapi.vercel.app/api/character/733"
   },
   {
-    "id": 618,
-    "name": "Private Smith",
+    "id": 822,
+    "name": "Young Jerry",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/618.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/822.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/618"
-  },
-  {
-    "id": 772,
-    "name": "Wrap-it-up Little Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/772.jpeg",
-    "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/772"
+    "url": "https://therickandmortyapi.vercel.app/api/character/822"
   }
 ]
