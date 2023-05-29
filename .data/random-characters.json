@@ -1,98 +1,98 @@
 [
   {
-    "id": 39,
-    "name": "Beth Smith",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/39.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/39"
-  },
-  {
-    "id": 54,
-    "name": "Bobby Moynihan",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/54.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/54"
-  },
-  {
-    "id": 165,
-    "name": "Investigator Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/165.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/165"
-  },
-  {
-    "id": 204,
-    "name": "Lisa",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Immortality Field Resort",
-      "url": "https://therickandmortyapi.vercel.app/api/location/7"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/204.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/204"
-  },
-  {
-    "id": 733,
-    "name": "Kathy Ireland",
+    "id": 180,
+    "name": "Jessica",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/733.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/180.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/733"
+    "url": "https://therickandmortyapi.vercel.app/api/character/180"
   },
   {
-    "id": 822,
-    "name": "Young Jerry",
+    "id": 235,
+    "name": "Mortytown Loco",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/235.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/235"
+  },
+  {
+    "id": 466,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/466.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/466"
+  },
+  {
+    "id": 591,
+    "name": "High Pilot",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/822.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/591.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/822"
+    "url": "https://therickandmortyapi.vercel.app/api/character/591"
+  },
+  {
+    "id": 748,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/748.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/748"
+  },
+  {
+    "id": 788,
+    "name": "Mr. Cookie President",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/788.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/788"
   }
 ]
