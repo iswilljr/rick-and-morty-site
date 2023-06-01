@@ -1,98 +1,98 @@
 [
   {
-    "id": 58,
-    "name": "Brad",
+    "id": 348,
+    "name": "The President of the Miniverse",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Zeep Xanflorp's Miniverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/49"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/348.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/348"
+  },
+  {
+    "id": 396,
+    "name": "Scary Teacher",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/396.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/396"
+  },
+  {
+    "id": 631,
+    "name": "Rick Sanchez",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/58.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/631.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/58"
+    "url": "https://therickandmortyapi.vercel.app/api/character/631"
   },
   {
-    "id": 87,
-    "name": "Cynthia",
+    "id": 646,
+    "name": "Steve",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/87.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/646.jpeg",
     "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/87"
+    "url": "https://therickandmortyapi.vercel.app/api/character/646"
   },
   {
-    "id": 107,
-    "name": "Dr. Wong",
+    "id": 659,
+    "name": "Morty’s Father-in-law",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Near-Duplicate Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/104"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/107.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/659.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/107"
+    "url": "https://therickandmortyapi.vercel.app/api/character/659"
   },
   {
-    "id": 252,
-    "name": "Noob-Noob",
-    "status": "Alive",
-    "species": "Poopybutthole",
-    "location": {
-      "name": "Vindicator's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/54"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/252.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/252"
-  },
-  {
-    "id": 368,
-    "name": "Truth Tortoise",
+    "id": 823,
+    "name": "Young Beth",
     "status": "unknown",
-    "species": "Mythological Creature",
+    "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/368.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/823.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/368"
-  },
-  {
-    "id": 379,
-    "name": "Wedding Bartender",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/379.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/379"
+    "url": "https://therickandmortyapi.vercel.app/api/character/823"
   }
 ]
