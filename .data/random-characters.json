@@ -1,98 +1,98 @@
 [
   {
-    "id": 157,
-    "name": "Hole in the Wall Where the Men Can See it All",
-    "status": "unknown",
-    "species": "unknown",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/157.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/157"
-  },
-  {
-    "id": 218,
-    "name": "Mechanical Rick",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/218.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/218"
-  },
-  {
-    "id": 317,
-    "name": "Shmlonathan Shmlower",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/317.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/317"
-  },
-  {
-    "id": 510,
-    "name": "Anchorman",
+    "id": 58,
+    "name": "Brad",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/510.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/58.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/510"
+    "url": "https://therickandmortyapi.vercel.app/api/character/58"
   },
   {
-    "id": 605,
-    "name": "Floaty Bloody Man’s Daughter",
+    "id": 87,
+    "name": "Cynthia",
     "status": "Dead",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/605.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/87.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/605"
+    "url": "https://therickandmortyapi.vercel.app/api/character/87"
   },
   {
-    "id": 636,
-    "name": "Evil Morty",
+    "id": 107,
+    "name": "Dr. Wong",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/636.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/107.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Pickle Rick",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/636"
+    "url": "https://therickandmortyapi.vercel.app/api/character/107"
+  },
+  {
+    "id": 252,
+    "name": "Noob-Noob",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "Vindicator's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/54"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/252.jpeg",
+    "episode": {
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/252"
+  },
+  {
+    "id": 368,
+    "name": "Truth Tortoise",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/368.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/368"
+  },
+  {
+    "id": 379,
+    "name": "Wedding Bartender",
+    "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/379.jpeg",
+    "episode": {
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/379"
   }
 ]
