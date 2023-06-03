@@ -1,98 +1,98 @@
 [
   {
-    "id": 54,
-    "name": "Bobby Moynihan",
-    "status": "Alive",
+    "id": 11,
+    "name": "Albert Einstein",
+    "status": "Dead",
     "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/54.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/54"
-  },
-  {
-    "id": 157,
-    "name": "Hole in the Wall Where the Men Can See it All",
-    "status": "unknown",
-    "species": "unknown",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/157.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/157"
-  },
-  {
-    "id": 158,
-    "name": "Hookah Alien",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Interdimensional Customs",
-      "url": "https://therickandmortyapi.vercel.app/api/location/38"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/158.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/158"
-  },
-  {
-    "id": 453,
-    "name": "Vampire Master's Assistant",
-    "status": "Alive",
-    "species": "Mythological Creature",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/453.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/11.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/453"
+    "url": "https://therickandmortyapi.vercel.app/api/character/11"
   },
   {
-    "id": 579,
-    "name": "Snake with Legs",
+    "id": 17,
+    "name": "Annie",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Human",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/579.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/17.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/579"
+    "url": "https://therickandmortyapi.vercel.app/api/character/17"
   },
   {
-    "id": 595,
-    "name": "Floaty Non-Gasm Brotherhood Member",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 112,
+    "name": "Eric McMan",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/595.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/112.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/595"
+    "url": "https://therickandmortyapi.vercel.app/api/character/112"
+  },
+  {
+    "id": 234,
+    "name": "Morty Smith",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/234.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/234"
+  },
+  {
+    "id": 431,
+    "name": "Chair-homeless",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Chair Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/74"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/431.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/431"
+  },
+  {
+    "id": 660,
+    "name": "Morty’s Mother-in-law",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Near-Duplicate Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/660.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/660"
   }
 ]
