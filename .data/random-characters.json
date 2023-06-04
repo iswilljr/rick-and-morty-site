@@ -1,98 +1,98 @@
 [
   {
-    "id": 21,
-    "name": "Aqua Morty",
+    "id": 64,
+    "name": "Chris",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/64.jpeg",
+    "episode": {
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/64"
+  },
+  {
+    "id": 330,
+    "name": "Solicitor Rick",
     "status": "unknown",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/21.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/330.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/21"
+    "url": "https://therickandmortyapi.vercel.app/api/character/330"
   },
   {
-    "id": 132,
-    "name": "Gar's Mytholog",
+    "id": 377,
+    "name": "Voltematron",
     "status": "Dead",
-    "species": "Mythological Creature",
+    "species": "Alien",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/132.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/377.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/132"
+    "url": "https://therickandmortyapi.vercel.app/api/character/377"
   },
   {
-    "id": 233,
-    "name": "Morty K-22",
+    "id": 499,
+    "name": "Fascist Morty",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/499.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/499"
+  },
+  {
+    "id": 511,
+    "name": "Anchorwoman",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/233.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/511.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/233"
+    "url": "https://therickandmortyapi.vercel.app/api/character/511"
   },
   {
-    "id": 569,
-    "name": "Shadow Jacker",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 642,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Draygon",
-      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/569.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/642.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/569"
-  },
-  {
-    "id": 633,
-    "name": "Train Cops",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/633.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/633"
-  },
-  {
-    "id": 824,
-    "name": "Young Beth",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/824.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/824"
+    "url": "https://therickandmortyapi.vercel.app/api/character/642"
   }
 ]
