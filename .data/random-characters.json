@@ -1,98 +1,98 @@
 [
   {
-    "id": 44,
-    "name": "Body Guard Morty",
+    "id": 109,
+    "name": "Duck With Muscles",
     "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/44.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/44"
-  },
-  {
-    "id": 69,
-    "name": "Commander Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/69.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/69"
-  },
-  {
-    "id": 347,
-    "name": "President Curtis",
-    "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/347.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/109.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/347"
+    "url": "https://therickandmortyapi.vercel.app/api/character/109"
   },
   {
-    "id": 662,
-    "name": "Gaia",
+    "id": 184,
+    "name": "Jon",
     "status": "Alive",
-    "species": "unknown",
+    "species": "Alien",
     "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/662.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/184.jpeg",
     "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/662"
+    "url": "https://therickandmortyapi.vercel.app/api/character/184"
   },
   {
-    "id": 808,
-    "name": "Crow Scare",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/808.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/808"
-  },
-  {
-    "id": 809,
-    "name": "Pussifer",
+    "id": 377,
+    "name": "Voltematron",
     "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/377.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/377"
+  },
+  {
+    "id": 568,
+    "name": "Slut Dragon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/568.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/568"
+  },
+  {
+    "id": 581,
+    "name": "Anchosnake",
+    "status": "Alive",
     "species": "Animal",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/809.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/581.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/809"
+    "url": "https://therickandmortyapi.vercel.app/api/character/581"
+  },
+  {
+    "id": 751,
+    "name": "Changeformer",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Space Tahoe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/118"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/751.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/751"
   }
 ]
