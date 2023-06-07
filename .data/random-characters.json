@@ -1,98 +1,98 @@
 [
   {
-    "id": 109,
-    "name": "Duck With Muscles",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/109.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/109"
-  },
-  {
-    "id": 184,
-    "name": "Jon",
+    "id": 91,
+    "name": "David Letterman",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/184.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/91.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/184"
+    "url": "https://therickandmortyapi.vercel.app/api/character/91"
   },
   {
-    "id": 377,
-    "name": "Voltematron",
+    "id": 138,
+    "name": "General Nathan",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/377.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/138.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/377"
+    "url": "https://therickandmortyapi.vercel.app/api/character/138"
   },
   {
-    "id": 568,
-    "name": "Slut Dragon",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 290,
+    "name": "Rick Sanchez",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Draygon",
-      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/34"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/568.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/290.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/568"
+    "url": "https://therickandmortyapi.vercel.app/api/character/290"
   },
   {
-    "id": 581,
-    "name": "Anchosnake",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/581.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/581"
-  },
-  {
-    "id": 751,
-    "name": "Changeformer",
+    "id": 690,
+    "name": "Scarecrow Morty",
     "status": "Dead",
     "species": "Robot",
     "location": {
-      "name": "Space Tahoe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/118"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/751.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/690.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/751"
+    "url": "https://therickandmortyapi.vercel.app/api/character/690"
+  },
+  {
+    "id": 692,
+    "name": "Glockenspiel Jerry",
+    "status": "Alive",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/692.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/692"
+  },
+  {
+    "id": 819,
+    "name": "Redhead Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/819.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/819"
   }
 ]
