@@ -1,98 +1,98 @@
 [
   {
-    "id": 91,
-    "name": "David Letterman",
+    "id": 28,
+    "name": "Attila Starwar",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/91.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/28.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/91"
+    "url": "https://therickandmortyapi.vercel.app/api/character/28"
   },
   {
-    "id": 138,
-    "name": "General Nathan",
-    "status": "Dead",
-    "species": "Human",
+    "id": 243,
+    "name": "Mr. Needful",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/138.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/243.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/138"
+    "url": "https://therickandmortyapi.vercel.app/api/character/243"
   },
   {
-    "id": 290,
-    "name": "Rick Sanchez",
-    "status": "Dead",
+    "id": 409,
+    "name": "Mr. Sneezy",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/290.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/409.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/409"
+  },
+  {
+    "id": 424,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Pizza Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/71"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/424.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/290"
+    "url": "https://therickandmortyapi.vercel.app/api/character/424"
   },
   {
-    "id": 690,
-    "name": "Scarecrow Morty",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/690.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/690"
-  },
-  {
-    "id": 692,
-    "name": "Glockenspiel Jerry",
+    "id": 450,
+    "name": "Roy's Wife",
     "status": "Alive",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/692.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/692"
-  },
-  {
-    "id": 819,
-    "name": "Redhead Rick",
-    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Roy: A Life Well Lived",
+      "url": "https://therickandmortyapi.vercel.app/api/location/32"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/819.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/450.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/819"
+    "url": "https://therickandmortyapi.vercel.app/api/character/450"
+  },
+  {
+    "id": 544,
+    "name": "Miles Knightly",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/544.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/544"
   }
 ]
