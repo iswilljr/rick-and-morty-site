@@ -1,98 +1,98 @@
 [
   {
-    "id": 22,
-    "name": "Aqua Rick",
+    "id": 83,
+    "name": "Cronenberg Morty",
     "status": "unknown",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/83.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/83"
+  },
+  {
+    "id": 119,
+    "name": "Evil Rick",
+    "status": "Dead",
     "species": "Humanoid",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/22.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/119.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/22"
+    "url": "https://therickandmortyapi.vercel.app/api/character/119"
   },
   {
-    "id": 379,
-    "name": "Wedding Bartender",
-    "status": "unknown",
+    "id": 125,
+    "name": "Flansian",
+    "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "Planet Squanch",
       "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/379.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/125.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/379"
+    "url": "https://therickandmortyapi.vercel.app/api/character/125"
   },
   {
-    "id": 395,
-    "name": "Greebybobe",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 463,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/395.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/463.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/395"
+    "url": "https://therickandmortyapi.vercel.app/api/character/463"
   },
   {
-    "id": 420,
-    "name": "Plutonian Host",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/420.jpeg",
-    "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/420"
-  },
-  {
-    "id": 533,
-    "name": "Monogatron Queen",
+    "id": 525,
+    "name": "Glootie",
     "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "Monogatron Mothership",
       "url": "https://therickandmortyapi.vercel.app/api/location/83"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/533.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/525.jpeg",
     "episode": {
       "name": "The Old Man and the Seat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/533"
+    "url": "https://therickandmortyapi.vercel.app/api/character/525"
   },
   {
-    "id": 734,
-    "name": "Amazing Johnathan",
-    "status": "Alive",
+    "id": 618,
+    "name": "Private Smith",
+    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/734.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/618.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/734"
+    "url": "https://therickandmortyapi.vercel.app/api/character/618"
   }
 ]
