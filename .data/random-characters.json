@@ -1,5 +1,53 @@
 [
   {
+    "id": 44,
+    "name": "Body Guard Morty",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/44.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/44"
+  },
+  {
+    "id": 175,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/175.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/175"
+  },
+  {
+    "id": 238,
+    "name": "Mr. Booby Buyer",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/238.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/238"
+  },
+  {
     "id": 303,
     "name": "Samantha",
     "status": "Alive",
@@ -16,83 +64,35 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/303"
   },
   {
-    "id": 421,
-    "name": "Rich Plutonian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/421.jpeg",
-    "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/421"
-  },
-  {
-    "id": 445,
-    "name": "Jerryboree Keeper",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/445.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/445"
-  },
-  {
-    "id": 490,
-    "name": "Chang",
-    "status": "Alive",
+    "id": 465,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "The Menagerie",
-      "url": "https://therickandmortyapi.vercel.app/api/location/25"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/490.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/465.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/490"
+    "url": "https://therickandmortyapi.vercel.app/api/character/465"
   },
   {
-    "id": 665,
-    "name": "Florflock",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/665.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/665"
-  },
-  {
-    "id": 825,
-    "name": "Young Jerry",
+    "id": 572,
+    "name": "Robot Snake",
     "status": "unknown",
-    "species": "Human",
+    "species": "Robot",
     "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/825.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/572.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/825"
+    "url": "https://therickandmortyapi.vercel.app/api/character/572"
   }
 ]
