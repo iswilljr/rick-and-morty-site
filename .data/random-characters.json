@@ -1,98 +1,98 @@
 [
   {
-    "id": 131,
-    "name": "Gar Gloonch",
-    "status": "Dead",
+    "id": 213,
+    "name": "Magnesium-J",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/131.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/213.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/131"
+    "url": "https://therickandmortyapi.vercel.app/api/character/213"
   },
   {
-    "id": 231,
-    "name": "Morty Rick",
-    "status": "unknown",
+    "id": 333,
+    "name": "Stair Goblin",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/333.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/333"
+  },
+  {
+    "id": 488,
+    "name": "Colonial Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/231.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/488.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/231"
+    "url": "https://therickandmortyapi.vercel.app/api/character/488"
   },
   {
-    "id": 313,
-    "name": "Shleemypants",
+    "id": 514,
+    "name": "Public Opinion Judge",
     "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/313.jpeg",
-    "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/313"
-  },
-  {
-    "id": 371,
-    "name": "Tumblorkian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Plopstar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/66"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/371.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/371"
-  },
-  {
-    "id": 425,
-    "name": "Pizza-person",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Pizza Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/71"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/425.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/425"
-  },
-  {
-    "id": 735,
-    "name": "Foal Sanchez",
-    "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/735.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/514.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/735"
+    "url": "https://therickandmortyapi.vercel.app/api/character/514"
+  },
+  {
+    "id": 662,
+    "name": "Gaia",
+    "status": "Alive",
+    "species": "unknown",
+    "location": {
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/662.jpeg",
+    "episode": {
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/662"
+  },
+  {
+    "id": 687,
+    "name": "Scarecrow Rick",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/687.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/687"
   }
 ]
