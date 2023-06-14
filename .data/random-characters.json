@@ -1,98 +1,98 @@
 [
   {
-    "id": 254,
-    "name": "Octopus Man",
-    "status": "Alive",
-    "species": "Humanoid",
+    "id": 131,
+    "name": "Gar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/254.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/131.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/254"
+    "url": "https://therickandmortyapi.vercel.app/api/character/131"
   },
   {
-    "id": 314,
-    "name": "Shmlamantha Shmlicelli",
-    "status": "Alive",
+    "id": 231,
+    "name": "Morty Rick",
+    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/314.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/231.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/314"
+    "url": "https://therickandmortyapi.vercel.app/api/character/231"
   },
   {
-    "id": 439,
-    "name": "Veterinary",
+    "id": 313,
+    "name": "Shleemypants",
     "status": "Alive",
-    "species": "Human",
+    "species": "unknown",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/439.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/313.jpeg",
     "episode": {
       "name": "A Rickle in Time",
       "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/439"
+    "url": "https://therickandmortyapi.vercel.app/api/character/313"
   },
   {
-    "id": 514,
-    "name": "Public Opinion Judge",
+    "id": 371,
+    "name": "Tumblorkian",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
+    "location": {
+      "name": "Plopstar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/66"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/371.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/371"
+  },
+  {
+    "id": 425,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Pizza Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/71"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/425.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/425"
+  },
+  {
+    "id": 735,
+    "name": "Foal Sanchez",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/514.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/735.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/514"
-  },
-  {
-    "id": 519,
-    "name": "Wasp Summer",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/519.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/519"
-  },
-  {
-    "id": 814,
-    "name": "Bald Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/814.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/814"
+    "url": "https://therickandmortyapi.vercel.app/api/character/735"
   }
 ]
