@@ -1,98 +1,98 @@
 [
   {
-    "id": 183,
-    "name": "Johnny Depp",
+    "id": 37,
+    "name": "Beth Sanchez",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (C-500A)",
       "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/183.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/37.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/183"
+    "url": "https://therickandmortyapi.vercel.app/api/character/37"
   },
   {
-    "id": 192,
-    "name": "King Flippy Nips",
-    "status": "Alive",
+    "id": 87,
+    "name": "Cynthia",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/192.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/87.jpeg",
     "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/192"
+    "url": "https://therickandmortyapi.vercel.app/api/character/87"
   },
   {
-    "id": 420,
-    "name": "Plutonian Host",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 200,
+    "name": "Lawyer Morty",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/420.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/200.jpeg",
     "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/420"
+    "url": "https://therickandmortyapi.vercel.app/api/character/200"
   },
   {
-    "id": 426,
-    "name": "Greasy Grandma",
+    "id": 232,
+    "name": "Morty Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Greasy Grandma World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/73"
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/34"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/426.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/232.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/426"
+    "url": "https://therickandmortyapi.vercel.app/api/character/232"
   },
   {
-    "id": 433,
-    "name": "Doopidoo",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/433.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/433"
-  },
-  {
-    "id": 780,
-    "name": "Memory Tammy",
+    "id": 605,
+    "name": "Floaty Bloody Man’s Daughter",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/780.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/605.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/780"
+    "url": "https://therickandmortyapi.vercel.app/api/character/605"
+  },
+  {
+    "id": 741,
+    "name": "Cirque du Soleil Zumanity Member",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/741.jpeg",
+    "episode": {
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/741"
   }
 ]
