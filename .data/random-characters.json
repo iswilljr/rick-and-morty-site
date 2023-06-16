@@ -1,98 +1,98 @@
 [
   {
-    "id": 258,
-    "name": "Pawnshop Clerk",
+    "id": 183,
+    "name": "Johnny Depp",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/183.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/183"
+  },
+  {
+    "id": 192,
+    "name": "King Flippy Nips",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Pawn Shop Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/55"
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/258.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/192.jpeg",
     "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/258"
+    "url": "https://therickandmortyapi.vercel.app/api/character/192"
   },
   {
-    "id": 611,
-    "name": "Leah",
+    "id": 420,
+    "name": "Plutonian Host",
     "status": "Alive",
-    "species": "unknown",
+    "species": "Alien",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/611.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/420.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/611"
+    "url": "https://therickandmortyapi.vercel.app/api/character/420"
   },
   {
-    "id": 629,
-    "name": "Summer Smith",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/629.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/629"
-  },
-  {
-    "id": 630,
-    "name": "Morty Smith",
+    "id": 426,
+    "name": "Greasy Grandma",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Greasy Grandma World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/73"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/630.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/426.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/630"
+    "url": "https://therickandmortyapi.vercel.app/api/character/426"
   },
   {
-    "id": 695,
-    "name": "Glockenspiel Summer",
+    "id": 433,
+    "name": "Doopidoo",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/433.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/433"
+  },
+  {
+    "id": 780,
+    "name": "Memory Tammy",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/695.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/780.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/695"
-  },
-  {
-    "id": 796,
-    "name": "Sarge",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Normal Size Bug Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/123"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/796.jpeg",
-    "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/796"
+    "url": "https://therickandmortyapi.vercel.app/api/character/780"
   }
 ]
