@@ -1,98 +1,98 @@
 [
   {
-    "id": 37,
-    "name": "Beth Sanchez",
+    "id": 554,
+    "name": "Heistotron",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/554.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/554"
+  },
+  {
+    "id": 625,
+    "name": "Storylord",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/37.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/37"
-  },
-  {
-    "id": 87,
-    "name": "Cynthia",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/87.jpeg",
-    "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/87"
-  },
-  {
-    "id": 200,
-    "name": "Lawyer Morty",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/200.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/200"
-  },
-  {
-    "id": 232,
-    "name": "Morty Smith",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/232.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/232"
-  },
-  {
-    "id": 605,
-    "name": "Floaty Bloody Man’s Daughter",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/605.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/625.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/605"
+    "url": "https://therickandmortyapi.vercel.app/api/character/625"
   },
   {
-    "id": 741,
-    "name": "Cirque du Soleil Zumanity Member",
+    "id": 718,
+    "name": "Daphne",
     "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Ferkus 9",
+      "url": "https://therickandmortyapi.vercel.app/api/location/113"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/718.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/718"
+  },
+  {
+    "id": 727,
+    "name": "Professor Shabooboo",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/741.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/727.jpeg",
     "episode": {
       "name": "Rickdependence Spray",
       "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/741"
+    "url": "https://therickandmortyapi.vercel.app/api/character/727"
+  },
+  {
+    "id": 773,
+    "name": "Yo-yo Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/773.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/773"
+  },
+  {
+    "id": 781,
+    "name": "Rick's Garage",
+    "status": "Alive",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/781.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/781"
   }
 ]
