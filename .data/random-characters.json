@@ -1,98 +1,98 @@
 [
   {
-    "id": 554,
-    "name": "Heistotron",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 271,
+    "name": "Principal Vagina",
+    "status": "Alive",
+    "species": "Cronenberg",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/554.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/271.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/554"
+    "url": "https://therickandmortyapi.vercel.app/api/character/271"
   },
   {
-    "id": 625,
-    "name": "Storylord",
-    "status": "Alive",
-    "species": "Human",
+    "id": 273,
+    "name": "Purge Planet Ruler",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+      "name": "Purge Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/9"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/625.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/273.jpeg",
+    "episode": {
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/273"
+  },
+  {
+    "id": 468,
+    "name": "Morphizer-XE Customer Support",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/468.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/468"
+  },
+  {
+    "id": 568,
+    "name": "Slut Dragon",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/568.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/568"
+  },
+  {
+    "id": 639,
+    "name": "Uncle Nibbles",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/639.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/625"
+    "url": "https://therickandmortyapi.vercel.app/api/character/639"
   },
   {
-    "id": 718,
-    "name": "Daphne",
+    "id": 733,
+    "name": "Kathy Ireland",
     "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Ferkus 9",
-      "url": "https://therickandmortyapi.vercel.app/api/location/113"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/718.jpeg",
-    "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/718"
-  },
-  {
-    "id": 727,
-    "name": "Professor Shabooboo",
-    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/727.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/733.jpeg",
     "episode": {
       "name": "Rickdependence Spray",
       "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/727"
-  },
-  {
-    "id": 773,
-    "name": "Yo-yo Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/773.jpeg",
-    "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/773"
-  },
-  {
-    "id": 781,
-    "name": "Rick's Garage",
-    "status": "Alive",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/781.jpeg",
-    "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/781"
+    "url": "https://therickandmortyapi.vercel.app/api/character/733"
   }
 ]
