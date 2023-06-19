@@ -1,98 +1,98 @@
 [
   {
-    "id": 35,
-    "name": "Bepisian",
+    "id": 221,
+    "name": "Melissa",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Bepis 9",
-      "url": "https://therickandmortyapi.vercel.app/api/location/11"
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/35.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/221.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/35"
+    "url": "https://therickandmortyapi.vercel.app/api/character/221"
   },
   {
-    "id": 94,
-    "name": "Diane Sanchez",
-    "status": "Dead",
+    "id": 231,
+    "name": "Morty Rick",
+    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/94.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/231.jpeg",
     "episode": {
       "name": "The Rickshank Rickdemption",
       "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/94"
+    "url": "https://therickandmortyapi.vercel.app/api/character/231"
   },
   {
-    "id": 233,
-    "name": "Morty K-22",
+    "id": 241,
+    "name": "Mr. Marklovitz",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/233.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/241.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/233"
+    "url": "https://therickandmortyapi.vercel.app/api/character/241"
   },
   {
-    "id": 302,
-    "name": "Ruben",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/302.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/302"
-  },
-  {
-    "id": 472,
-    "name": "Baby Rick",
+    "id": 445,
+    "name": "Jerryboree Keeper",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/472.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/445.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/472"
+    "url": "https://therickandmortyapi.vercel.app/api/character/445"
   },
   {
-    "id": 809,
-    "name": "Pussifer",
-    "status": "Dead",
-    "species": "Animal",
+    "id": 552,
+    "name": "Key Catcher",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/809.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/552.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/809"
+    "url": "https://therickandmortyapi.vercel.app/api/character/552"
+  },
+  {
+    "id": 785,
+    "name": "Memory Geardude",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/785.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/785"
   }
 ]
