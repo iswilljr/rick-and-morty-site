@@ -1,98 +1,98 @@
 [
   {
-    "id": 112,
-    "name": "Eric McMan",
+    "id": 28,
+    "name": "Attila Starwar",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/112.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/28.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/112"
+    "url": "https://therickandmortyapi.vercel.app/api/character/28"
   },
   {
-    "id": 161,
-    "name": "Hydrogen-F",
-    "status": "Alive",
+    "id": 122,
+    "name": "Fart",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/161.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/122.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/161"
+    "url": "https://therickandmortyapi.vercel.app/api/character/122"
   },
   {
-    "id": 367,
-    "name": "Trunk Man",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/367.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/367"
-  },
-  {
-    "id": 417,
-    "name": "Baby Legs Chief",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/417"
-  },
-  {
-    "id": 505,
-    "name": "Fascist Shrimp Morty",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Fascist Shrimp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/80"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/505.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/505"
-  },
-  {
-    "id": 656,
-    "name": "Impervious to Acid SWAT Officer",
+    "id": 280,
+    "name": "Reverse Giraffe",
     "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/280.jpeg",
+    "episode": {
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/280"
+  },
+  {
+    "id": 392,
+    "name": "Bearded Morty",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/656.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/392.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/656"
+    "url": "https://therickandmortyapi.vercel.app/api/character/392"
+  },
+  {
+    "id": 642,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/642.jpeg",
+    "episode": {
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/642"
+  },
+  {
+    "id": 662,
+    "name": "Gaia",
+    "status": "Alive",
+    "species": "unknown",
+    "location": {
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/662.jpeg",
+    "episode": {
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/662"
   }
 ]
