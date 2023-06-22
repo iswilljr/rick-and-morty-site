@@ -1,98 +1,98 @@
 [
   {
-    "id": 5,
-    "name": "Jerry Smith",
+    "id": 112,
+    "name": "Eric McMan",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/5.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/112.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/5"
+    "url": "https://therickandmortyapi.vercel.app/api/character/112"
   },
   {
-    "id": 65,
-    "name": "Chris",
+    "id": 161,
+    "name": "Hydrogen-F",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/161.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/161"
+  },
+  {
+    "id": 367,
+    "name": "Trunk Man",
     "status": "Alive",
     "species": "Humanoid",
     "location": {
-      "name": "Rick's Battery Microverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/24"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/65.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/367.jpeg",
     "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/65"
+    "url": "https://therickandmortyapi.vercel.app/api/character/367"
   },
   {
-    "id": 208,
-    "name": "Logic",
+    "id": 417,
+    "name": "Baby Legs Chief",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/208.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/417.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/208"
+    "url": "https://therickandmortyapi.vercel.app/api/character/417"
   },
   {
-    "id": 379,
-    "name": "Wedding Bartender",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/379.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/379"
-  },
-  {
-    "id": 401,
-    "name": "Morty Jr's interviewer",
+    "id": 505,
+    "name": "Fascist Shrimp Morty",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/401.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/505.jpeg",
     "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/401"
+    "url": "https://therickandmortyapi.vercel.app/api/character/505"
   },
   {
-    "id": 466,
-    "name": "SEAL Team Rick",
+    "id": 656,
+    "name": "Impervious to Acid SWAT Officer",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/466.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/656.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/466"
+    "url": "https://therickandmortyapi.vercel.app/api/character/656"
   }
 ]
