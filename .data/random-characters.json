@@ -1,98 +1,98 @@
 [
   {
-    "id": 72,
-    "name": "Cool Rick",
+    "id": 50,
+    "name": "Blim Blam",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/72.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/72"
-  },
-  {
-    "id": 119,
-    "name": "Evil Rick",
-    "status": "Dead",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/119.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/119"
-  },
-  {
-    "id": 344,
-    "name": "Tammy Guetermann",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "NX-5 Planet Remover",
-      "url": "https://therickandmortyapi.vercel.app/api/location/105"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/344.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/344"
-  },
-  {
-    "id": 357,
-    "name": "Tommy's Clone",
-    "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/357.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/50.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/357"
+    "url": "https://therickandmortyapi.vercel.app/api/character/50"
   },
   {
-    "id": 387,
-    "name": "Zarbadar's Mytholog",
+    "id": 106,
+    "name": "Dr. Schmidt",
     "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/387.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/387"
-  },
-  {
-    "id": 489,
-    "name": "P-Coat Rick",
-    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Roy: A Life Well Lived",
+      "url": "https://therickandmortyapi.vercel.app/api/location/32"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/489.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/106.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/489"
+    "url": "https://therickandmortyapi.vercel.app/api/character/106"
+  },
+  {
+    "id": 248,
+    "name": "Mrs. Refrigerator",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/248.jpeg",
+    "episode": {
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/248"
+  },
+  {
+    "id": 382,
+    "name": "Worldender",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/382.jpeg",
+    "episode": {
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/382"
+  },
+  {
+    "id": 515,
+    "name": "Caterpillar Mr. Goldenfold",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/515.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/515"
+  },
+  {
+    "id": 668,
+    "name": "Defiance Squanchette",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Defiance's Ship",
+      "url": "https://therickandmortyapi.vercel.app/api/location/107"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/668.jpeg",
+    "episode": {
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/668"
   }
 ]
