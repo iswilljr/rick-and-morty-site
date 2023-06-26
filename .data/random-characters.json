@@ -1,98 +1,98 @@
 [
   {
-    "id": 38,
-    "name": "Beth Smith",
+    "id": 1,
+    "name": "Rick Sanchez",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/38.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/1.jpeg",
     "episode": {
       "name": "Pilot",
       "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/38"
+    "url": "https://therickandmortyapi.vercel.app/api/character/1"
   },
   {
-    "id": 203,
-    "name": "Lil B",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/203.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/203"
-  },
-  {
-    "id": 445,
-    "name": "Jerryboree Keeper",
+    "id": 133,
+    "name": "Garblovian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/445.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/133.jpeg",
     "episode": {
       "name": "Mortynight Run",
       "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/445"
+    "url": "https://therickandmortyapi.vercel.app/api/character/133"
   },
   {
-    "id": 546,
-    "name": "Angie Flint",
+    "id": 394,
+    "name": "Davin",
+    "status": "Dead",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/394.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/394"
+  },
+  {
+    "id": 506,
+    "name": "Fascist Shrimp SS",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/506.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+  },
+  {
+    "id": 574,
+    "name": "Snake Lincoln",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/574.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/574"
+  },
+  {
+    "id": 739,
+    "name": "Cirque du Soleil Zumanity Member",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/546.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/739.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/546"
-  },
-  {
-    "id": 664,
-    "name": "Ticktock",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/664.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/664"
-  },
-  {
-    "id": 666,
-    "name": "Squeeb",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/666.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/666"
+    "url": "https://therickandmortyapi.vercel.app/api/character/739"
   }
 ]
