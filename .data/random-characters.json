@@ -1,82 +1,98 @@
 [
   {
-    "id": 173,
-    "name": "Jan-Michael Vincent",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/173.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/173"
-  },
-  {
-    "id": 186,
-    "name": "Joyce Smith",
+    "id": 38,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (C-137)",
       "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/186.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/38.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/186"
+    "url": "https://therickandmortyapi.vercel.app/api/character/38"
   },
   {
-    "id": 248,
-    "name": "Mrs. Refrigerator",
+    "id": 203,
+    "name": "Lil B",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/248.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/203.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/248"
+    "url": "https://therickandmortyapi.vercel.app/api/character/203"
   },
   {
-    "id": 251,
-    "name": "Nancy",
+    "id": 445,
+    "name": "Jerryboree Keeper",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/445.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/445"
+  },
+  {
+    "id": 546,
+    "name": "Angie Flint",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/251.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/546.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/251"
+    "url": "https://therickandmortyapi.vercel.app/api/character/546"
   },
   {
-    "id": 325,
-    "name": "Slick Morty",
-    "status": "Dead",
-    "species": "Human",
+    "id": 664,
+    "name": "Ticktock",
+    "status": "unknown",
+    "species": "Humanoid",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/325.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/664.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/325"
+    "url": "https://therickandmortyapi.vercel.app/api/character/664"
+  },
+  {
+    "id": 666,
+    "name": "Squeeb",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/666.jpeg",
+    "episode": {
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/666"
   }
 ]
