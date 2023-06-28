@@ -1,98 +1,98 @@
 [
   {
-    "id": 28,
-    "name": "Attila Starwar",
+    "id": 257,
+    "name": "Paul Fleishman",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/28.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/257.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/28"
+    "url": "https://therickandmortyapi.vercel.app/api/character/257"
   },
   {
-    "id": 48,
-    "name": "Black Rick",
+    "id": 426,
+    "name": "Greasy Grandma",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Greasy Grandma World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/73"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/48"
-  },
-  {
-    "id": 134,
-    "name": "Garmanarnar",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/134.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/134"
-  },
-  {
-    "id": 349,
-    "name": "The Scientist Formerly Known as Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/349.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/426.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/349"
+    "url": "https://therickandmortyapi.vercel.app/api/character/426"
   },
   {
-    "id": 555,
-    "name": "Randotron",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/555.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/555"
-  },
-  {
-    "id": 764,
-    "name": "Jackey",
+    "id": 492,
+    "name": "Varrix",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/764.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/492.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/764"
+    "url": "https://therickandmortyapi.vercel.app/api/character/492"
+  },
+  {
+    "id": 546,
+    "name": "Angie Flint",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/546.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/546"
+  },
+  {
+    "id": 570,
+    "name": "Chachi",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/570.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/570"
+  },
+  {
+    "id": 809,
+    "name": "Pussifer",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/809.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/809"
   }
 ]
