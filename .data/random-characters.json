@@ -1,67 +1,51 @@
 [
   {
-    "id": 77,
-    "name": "Cowboy Morty",
-    "status": "Alive",
+    "id": 95,
+    "name": "Dipper and Mabel Mortys",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/77.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/95.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/77"
+    "url": "https://therickandmortyapi.vercel.app/api/character/95"
   },
   {
-    "id": 242,
-    "name": "Mr. Meeseeks",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/242.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/242"
-  },
-  {
-    "id": 313,
-    "name": "Shleemypants",
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
     "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/313.jpeg",
-    "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/313"
-  },
-  {
-    "id": 590,
-    "name": "High Pilot",
-    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/590.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/317.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/590"
+    "url": "https://therickandmortyapi.vercel.app/api/character/317"
+  },
+  {
+    "id": 559,
+    "name": "Gramuflackian Anchorman",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/559.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/559"
   },
   {
     "id": 634,
@@ -80,19 +64,35 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/634"
   },
   {
-    "id": 675,
-    "name": "Japheth",
+    "id": 687,
+    "name": "Scarecrow Rick",
     "status": "Dead",
-    "species": "Humanoid",
+    "species": "Robot",
     "location": {
-      "name": "Narnia Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/110"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/675.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/687.jpeg",
     "episode": {
-      "name": "Mort Dinner Rick Andre",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/675"
+    "url": "https://therickandmortyapi.vercel.app/api/character/687"
+  },
+  {
+    "id": 753,
+    "name": "Space Cruiser",
+    "status": "Alive",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/753.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/753"
   }
 ]
