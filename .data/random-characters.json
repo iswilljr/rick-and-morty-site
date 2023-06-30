@@ -1,98 +1,98 @@
 [
   {
-    "id": 338,
-    "name": "Summer Smith",
+    "id": 122,
+    "name": "Fart",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/122.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/122"
+  },
+  {
+    "id": 155,
+    "name": "Harold",
     "status": "Alive",
-    "species": "Human",
+    "species": "Cronenberg",
     "location": {
       "name": "Earth (C-137)",
       "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/338.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/155.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/338"
+    "url": "https://therickandmortyapi.vercel.app/api/character/155"
   },
   {
-    "id": 374,
-    "name": "Vampire Master",
-    "status": "Alive",
+    "id": 215,
+    "name": "Maximums Rickimus",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/215.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/215"
+  },
+  {
+    "id": 310,
+    "name": "Self-Congratulatory Jerry",
+    "status": "unknown",
     "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/374.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/310.jpeg",
     "episode": {
       "name": "Big Trouble in Little Sanchez",
       "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/374"
+    "url": "https://therickandmortyapi.vercel.app/api/character/310"
   },
   {
-    "id": 493,
-    "name": "Secretary of the Interior",
+    "id": 372,
+    "name": "Unity",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/493.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/372.jpeg",
     "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/493"
+    "url": "https://therickandmortyapi.vercel.app/api/character/372"
   },
   {
-    "id": 511,
-    "name": "Anchorwoman",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/511.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/511"
-  },
-  {
-    "id": 513,
-    "name": "Judge",
+    "id": 816,
+    "name": "Party Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/513.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/816.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/513"
-  },
-  {
-    "id": 632,
-    "name": "Train Cop",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/632.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/632"
+    "url": "https://therickandmortyapi.vercel.app/api/character/816"
   }
 ]
