@@ -1,98 +1,98 @@
 [
   {
-    "id": 67,
-    "name": "Collector",
-    "status": "Alive",
+    "id": 23,
+    "name": "Arcade Alien",
+    "status": "unknown",
     "species": "Alien",
     "location": {
-      "name": "The Menagerie",
-      "url": "https://therickandmortyapi.vercel.app/api/location/25"
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/67.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/23.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/67"
+    "url": "https://therickandmortyapi.vercel.app/api/character/23"
   },
   {
-    "id": 233,
-    "name": "Morty K-22",
-    "status": "Alive",
-    "species": "Human",
+    "id": 198,
+    "name": "Lady Katana",
+    "status": "Dead",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Dorian 5",
+      "url": "https://therickandmortyapi.vercel.app/api/location/29"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/233.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/198.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/233"
+    "url": "https://therickandmortyapi.vercel.app/api/character/198"
   },
   {
-    "id": 511,
-    "name": "Anchorwoman",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/511.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/511"
-  },
-  {
-    "id": 760,
-    "name": "Turkey Rick",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/760.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/760"
-  },
-  {
-    "id": 804,
-    "name": "Andy",
+    "id": 434,
+    "name": "Super Weird Rick",
     "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/434.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/434"
+  },
+  {
+    "id": 461,
+    "name": "Communication's Responsible Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/804.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/461.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/804"
+    "url": "https://therickandmortyapi.vercel.app/api/character/461"
   },
   {
-    "id": 821,
-    "name": "Gotron",
-    "status": "unknown",
-    "species": "Robot",
+    "id": 525,
+    "name": "Glootie",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/821.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/525.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/821"
+    "url": "https://therickandmortyapi.vercel.app/api/character/525"
+  },
+  {
+    "id": 559,
+    "name": "Gramuflackian Anchorman",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/559.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/559"
   }
 ]
