@@ -1,98 +1,98 @@
 [
   {
-    "id": 23,
-    "name": "Arcade Alien",
-    "status": "unknown",
+    "id": 24,
+    "name": "Armagheadon",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Immortality Field Resort",
-      "url": "https://therickandmortyapi.vercel.app/api/location/7"
+      "name": "Signus 5 Expanse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/22"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/23.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/24.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/24"
+  },
+  {
+    "id": 443,
+    "name": "Tank Top Jerry",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/443.jpeg",
     "episode": {
       "name": "Mortynight Run",
       "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/23"
+    "url": "https://therickandmortyapi.vercel.app/api/character/443"
   },
   {
-    "id": 198,
-    "name": "Lady Katana",
-    "status": "Dead",
-    "species": "Humanoid",
-    "location": {
-      "name": "Dorian 5",
-      "url": "https://therickandmortyapi.vercel.app/api/location/29"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/198.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/198"
-  },
-  {
-    "id": 434,
-    "name": "Super Weird Rick",
+    "id": 572,
+    "name": "Robot Snake",
     "status": "unknown",
-    "species": "Human",
+    "species": "Robot",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/434.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/572.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/434"
+    "url": "https://therickandmortyapi.vercel.app/api/character/572"
   },
   {
-    "id": 461,
-    "name": "Communication's Responsible Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/461.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/461"
-  },
-  {
-    "id": 525,
-    "name": "Glootie",
+    "id": 588,
+    "name": "Pet Shop Employee",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/525.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/588.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/525"
+    "url": "https://therickandmortyapi.vercel.app/api/character/588"
   },
   {
-    "id": 559,
-    "name": "Gramuflackian Anchorman",
+    "id": 594,
+    "name": "Floaty Bloody Man",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/594.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/594"
+  },
+  {
+    "id": 650,
+    "name": "Crystal Dealer",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Gramuflack",
-      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/559.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/650.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/559"
+    "url": "https://therickandmortyapi.vercel.app/api/character/650"
   }
 ]
