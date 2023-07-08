@@ -1,98 +1,98 @@
 [
   {
-    "id": 38,
-    "name": "Beth Smith",
+    "id": 78,
+    "name": "Cowboy Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/38.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/78.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/38"
+    "url": "https://therickandmortyapi.vercel.app/api/character/78"
   },
   {
-    "id": 137,
-    "name": "Gene",
+    "id": 185,
+    "name": "Joseph Eli Lipkip",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/137.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/185.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/137"
+    "url": "https://therickandmortyapi.vercel.app/api/character/185"
   },
   {
-    "id": 371,
-    "name": "Tumblorkian",
+    "id": 512,
+    "name": "Morty’s Lawyer",
     "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/512.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/512"
+  },
+  {
+    "id": 670,
+    "name": "New Improved Galactic Federation Guard",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Plopstar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/66"
+      "name": "NX-5 Planet Remover",
+      "url": "https://therickandmortyapi.vercel.app/api/location/105"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/371.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/670.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/371"
+    "url": "https://therickandmortyapi.vercel.app/api/character/670"
   },
   {
-    "id": 378,
-    "name": "Wall Crawling Rick",
-    "status": "unknown",
+    "id": 787,
+    "name": "Two Crows",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/787.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/787"
+  },
+  {
+    "id": 812,
+    "name": "Deformed Morty",
+    "status": "Dead",
     "species": "Humanoid",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/378.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/812.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/378"
-  },
-  {
-    "id": 583,
-    "name": "80's snake",
-    "status": "unknown",
-    "species": "Animal",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/583.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/583"
-  },
-  {
-    "id": 704,
-    "name": "Squid Costume Beth",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/704"
+    "url": "https://therickandmortyapi.vercel.app/api/character/812"
   }
 ]
