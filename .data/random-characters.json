@@ -1,98 +1,82 @@
 [
   {
-    "id": 78,
-    "name": "Cowboy Rick",
+    "id": 90,
+    "name": "Daron Jefferson",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/78.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/78"
-  },
-  {
-    "id": 185,
-    "name": "Joseph Eli Lipkip",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/185.jpeg",
-    "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/185"
-  },
-  {
-    "id": 512,
-    "name": "Morty’s Lawyer",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/512.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/512"
-  },
-  {
-    "id": 670,
-    "name": "New Improved Galactic Federation Guard",
-    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "NX-5 Planet Remover",
-      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/670.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/90.jpeg",
     "episode": {
-      "name": "Star Mort: Rickturn of the Jerri",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/670"
+    "url": "https://therickandmortyapi.vercel.app/api/character/90"
   },
   {
-    "id": 787,
-    "name": "Two Crows",
+    "id": 321,
+    "name": "Shrimply Pibbles",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Alien",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/787.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/321.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/787"
+    "url": "https://therickandmortyapi.vercel.app/api/character/321"
   },
   {
-    "id": 812,
-    "name": "Deformed Morty",
-    "status": "Dead",
-    "species": "Humanoid",
+    "id": 400,
+    "name": "Giant Judge",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Giant's Town",
+      "url": "https://therickandmortyapi.vercel.app/api/location/14"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/400.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/400"
+  },
+  {
+    "id": 462,
+    "name": "Teleportation's Responsible Rick",
+    "status": "unknown",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/812.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/462.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/812"
+    "url": "https://therickandmortyapi.vercel.app/api/character/462"
+  },
+  {
+    "id": 777,
+    "name": "Gotron Pilot",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/777.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/777"
   }
 ]
