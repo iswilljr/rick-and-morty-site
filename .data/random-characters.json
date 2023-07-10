@@ -1,98 +1,98 @@
 [
   {
-    "id": 379,
-    "name": "Wedding Bartender",
+    "id": 83,
+    "name": "Cronenberg Morty",
     "status": "unknown",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/83.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/83"
+  },
+  {
+    "id": 236,
+    "name": "Mr. Beauregard",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/379.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/379"
-  },
-  {
-    "id": 452,
-    "name": "Simon",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/452.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/236.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/452"
+    "url": "https://therickandmortyapi.vercel.app/api/character/236"
   },
   {
-    "id": 514,
-    "name": "Public Opinion Judge",
+    "id": 356,
+    "name": "Tom Randolph",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/514.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/356.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/514"
+    "url": "https://therickandmortyapi.vercel.app/api/character/356"
   },
   {
-    "id": 604,
-    "name": "Female Scorpion",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/604.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/604"
-  },
-  {
-    "id": 619,
-    "name": "Professor Sanchez",
-    "status": "Dead",
-    "species": "Human",
+    "id": 627,
+    "name": "The Concept of Time",
+    "status": "Alive",
+    "species": "unknown",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/619.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/627.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/619"
+    "url": "https://therickandmortyapi.vercel.app/api/character/627"
   },
   {
-    "id": 791,
-    "name": "Harold's Wife",
-    "status": "Alive",
+    "id": 648,
+    "name": "Crystal Dealers Boss",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/791.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/648.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/791"
+    "url": "https://therickandmortyapi.vercel.app/api/character/648"
+  },
+  {
+    "id": 746,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/746.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/746"
   }
 ]
