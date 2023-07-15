@@ -1,98 +1,98 @@
 [
   {
-    "id": 56,
-    "name": "Bootleg Portal Chemist Rick",
-    "status": "Dead",
+    "id": 208,
+    "name": "Logic",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/56.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/208.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/56"
+    "url": "https://therickandmortyapi.vercel.app/api/character/208"
   },
   {
-    "id": 330,
-    "name": "Solicitor Rick",
-    "status": "unknown",
+    "id": 410,
+    "name": "Two Brothers",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/330.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/410.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/330"
+    "url": "https://therickandmortyapi.vercel.app/api/character/410"
   },
   {
-    "id": 368,
-    "name": "Truth Tortoise",
-    "status": "unknown",
-    "species": "Mythological Creature",
+    "id": 581,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/368.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/581.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/368"
+    "url": "https://therickandmortyapi.vercel.app/api/character/581"
   },
   {
-    "id": 377,
-    "name": "Voltematron",
+    "id": 705,
+    "name": "Squid Costume Jerry",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/377.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/705.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/377"
+    "url": "https://therickandmortyapi.vercel.app/api/character/705"
   },
   {
-    "id": 752,
-    "name": "Changeformer",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 725,
+    "name": "Tony Galopagus",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Space Tahoe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/118"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/752.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/725.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/725"
+  },
+  {
+    "id": 746,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/746.jpeg",
     "episode": {
       "name": "Amortycan Grickfitti",
       "url": "https://therickandmortyapi.vercel.app/api/episode/46"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/752"
-  },
-  {
-    "id": 758,
-    "name": "Giant Assassin Hidden in the Statue of Liberty",
-    "status": "Alive",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/758.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/758"
+    "url": "https://therickandmortyapi.vercel.app/api/character/746"
   }
 ]
