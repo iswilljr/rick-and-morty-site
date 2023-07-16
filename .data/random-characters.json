@@ -1,98 +1,98 @@
 [
   {
-    "id": 320,
-    "name": "Shnoopy Bloopers",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Immortality Field Resort",
-      "url": "https://therickandmortyapi.vercel.app/api/location/7"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/320.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/320"
-  },
-  {
-    "id": 373,
-    "name": "Unmuscular Michael",
+    "id": 143,
+    "name": "Glasses Morty",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/373.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/373"
-  },
-  {
-    "id": 404,
-    "name": "Michael Jackson",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/404.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/404"
-  },
-  {
-    "id": 465,
-    "name": "SEAL Team Rick",
-    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/465.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/143.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/465"
+    "url": "https://therickandmortyapi.vercel.app/api/character/143"
   },
   {
-    "id": 602,
-    "name": "Cookies Guy",
+    "id": 312,
+    "name": "Shlaammi",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/312.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/312"
+  },
+  {
+    "id": 343,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/343.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/343"
+  },
+  {
+    "id": 346,
+    "name": "Terry",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/346.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/346"
+  },
+  {
+    "id": 482,
+    "name": "Secret Service Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/602.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/482.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/482"
+  },
+  {
+    "id": 626,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/626.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/602"
-  },
-  {
-    "id": 625,
-    "name": "Storylord",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/625.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/625"
+    "url": "https://therickandmortyapi.vercel.app/api/character/626"
   }
 ]
