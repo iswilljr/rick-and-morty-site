@@ -1,98 +1,98 @@
 [
   {
-    "id": 208,
-    "name": "Logic",
-    "status": "Alive",
-    "species": "Human",
+    "id": 320,
+    "name": "Shnoopy Bloopers",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/208.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/320.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/208"
+    "url": "https://therickandmortyapi.vercel.app/api/character/320"
   },
   {
-    "id": 410,
-    "name": "Two Brothers",
+    "id": 373,
+    "name": "Unmuscular Michael",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/410.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/373.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/410"
+    "url": "https://therickandmortyapi.vercel.app/api/character/373"
   },
   {
-    "id": 581,
-    "name": "Anchosnake",
+    "id": 404,
+    "name": "Michael Jackson",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Humanoid",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Earth (Phone Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/72"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/581.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/404.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/581"
+    "url": "https://therickandmortyapi.vercel.app/api/character/404"
   },
   {
-    "id": 705,
-    "name": "Squid Costume Jerry",
+    "id": 465,
+    "name": "SEAL Team Rick",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/705.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/465.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/705"
+    "url": "https://therickandmortyapi.vercel.app/api/character/465"
   },
   {
-    "id": 725,
-    "name": "Tony Galopagus",
+    "id": 602,
+    "name": "Cookies Guy",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/725.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/602.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/725"
+    "url": "https://therickandmortyapi.vercel.app/api/character/602"
   },
   {
-    "id": 746,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
+    "id": 625,
+    "name": "Storylord",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/746.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/625.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/746"
+    "url": "https://therickandmortyapi.vercel.app/api/character/625"
   }
 ]
