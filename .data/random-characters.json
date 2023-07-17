@@ -1,98 +1,98 @@
 [
   {
-    "id": 201,
-    "name": "Leonard Smith",
-    "status": "Alive",
+    "id": 223,
+    "name": "Michael Jenkins",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/223.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/223"
+  },
+  {
+    "id": 302,
+    "name": "Ruben",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (C-137)",
       "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/201.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/302.jpeg",
     "episode": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/201"
+    "url": "https://therickandmortyapi.vercel.app/api/character/302"
   },
   {
-    "id": 367,
-    "name": "Trunk Man",
-    "status": "Alive",
-    "species": "Humanoid",
+    "id": 413,
+    "name": "Old Women",
+    "status": "unknown",
+    "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/367.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/413.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/367"
+    "url": "https://therickandmortyapi.vercel.app/api/character/413"
   },
   {
-    "id": 372,
-    "name": "Unity",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 501,
+    "name": "Fascist Rick’s Clone",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Unity's Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/372.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/501.jpeg",
     "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/372"
+    "url": "https://therickandmortyapi.vercel.app/api/character/501"
   },
   {
-    "id": 462,
-    "name": "Teleportation's Responsible Rick",
+    "id": 598,
+    "name": "Biblesaurus",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/598.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/598"
+  },
+  {
+    "id": 821,
+    "name": "Gotron",
     "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/462.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/462"
-  },
-  {
-    "id": 741,
-    "name": "Cirque du Soleil Zumanity Member",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/741.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/741"
-  },
-  {
-    "id": 813,
-    "name": "Crow Horse",
-    "status": "Alive",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/813.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/821.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/813"
+    "url": "https://therickandmortyapi.vercel.app/api/character/821"
   }
 ]
