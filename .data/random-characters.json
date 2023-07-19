@@ -1,98 +1,98 @@
 [
   {
-    "id": 449,
-    "name": "Roy's Mum",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/449.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/449"
-  },
-  {
-    "id": 462,
-    "name": "Teleportation's Responsible Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/462.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/462"
-  },
-  {
-    "id": 531,
-    "name": "Tony",
+    "id": 154,
+    "name": "Hamurai",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Mount Space Everest",
-      "url": "https://therickandmortyapi.vercel.app/api/location/86"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/531.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/154.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/531"
+    "url": "https://therickandmortyapi.vercel.app/api/character/154"
   },
   {
-    "id": 550,
-    "name": "Double Microwawe",
+    "id": 336,
+    "name": "Steven Phillips",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/336.jpeg",
+    "episode": {
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/336"
+  },
+  {
+    "id": 424,
+    "name": "Pizza-person",
     "status": "Alive",
     "species": "Humanoid",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Earth (Pizza Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/71"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/550.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/424.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/550"
+    "url": "https://therickandmortyapi.vercel.app/api/character/424"
   },
   {
-    "id": 638,
-    "name": "Rick’s Disguise",
+    "id": 506,
+    "name": "Fascist Shrimp SS",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/638.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/506.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/638"
+    "url": "https://therickandmortyapi.vercel.app/api/character/506"
   },
   {
-    "id": 768,
-    "name": "Mary-Lou",
+    "id": 739,
+    "name": "Cirque du Soleil Zumanity Member",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/768.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/739.jpeg",
+    "episode": {
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/739"
+  },
+  {
+    "id": 764,
+    "name": "Jackey",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/764.jpeg",
     "episode": {
       "name": "Rick & Morty's Thanksploitation Spectacular",
       "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/768"
+    "url": "https://therickandmortyapi.vercel.app/api/character/764"
   }
 ]
