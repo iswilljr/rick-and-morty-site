@@ -1,98 +1,98 @@
 [
   {
-    "id": 154,
-    "name": "Hamurai",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/154.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/154"
-  },
-  {
-    "id": 336,
-    "name": "Steven Phillips",
+    "id": 188,
+    "name": "Karen Entity",
     "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "Unity's Planet",
       "url": "https://therickandmortyapi.vercel.app/api/location/28"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/336.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/188.jpeg",
     "episode": {
       "name": "Auto Erotic Assimilation",
       "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/336"
+    "url": "https://therickandmortyapi.vercel.app/api/character/188"
   },
   {
-    "id": 424,
-    "name": "Pizza-person",
-    "status": "Alive",
-    "species": "Humanoid",
+    "id": 215,
+    "name": "Maximums Rickimus",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Earth (Pizza Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/71"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/424.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/215.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/424"
+    "url": "https://therickandmortyapi.vercel.app/api/character/215"
   },
   {
-    "id": 506,
-    "name": "Fascist Shrimp SS",
+    "id": 231,
+    "name": "Morty Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/231.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/231"
+  },
+  {
+    "id": 329,
+    "name": "Snuffles (Snowball)",
     "status": "Alive",
     "species": "Animal",
     "location": {
-      "name": "Earth (Fascist Shrimp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/506.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/329.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+    "url": "https://therickandmortyapi.vercel.app/api/character/329"
   },
   {
-    "id": 739,
-    "name": "Cirque du Soleil Zumanity Member",
-    "status": "Alive",
-    "species": "Human",
+    "id": 352,
+    "name": "Tinkles",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/739.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/352.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/739"
+    "url": "https://therickandmortyapi.vercel.app/api/character/352"
   },
   {
-    "id": 764,
-    "name": "Jackey",
+    "id": 490,
+    "name": "Chang",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "The Menagerie",
+      "url": "https://therickandmortyapi.vercel.app/api/location/25"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/764.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/490.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/764"
+    "url": "https://therickandmortyapi.vercel.app/api/character/490"
   }
 ]
