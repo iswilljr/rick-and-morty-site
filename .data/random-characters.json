@@ -1,98 +1,98 @@
 [
   {
-    "id": 24,
-    "name": "Armagheadon",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Signus 5 Expanse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/22"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/24.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/24"
-  },
-  {
-    "id": 86,
-    "name": "Cyclops Rick",
-    "status": "Dead",
+    "id": 21,
+    "name": "Aqua Morty",
+    "status": "unknown",
     "species": "Humanoid",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/86.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/21.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/86"
+    "url": "https://therickandmortyapi.vercel.app/api/character/21"
   },
   {
-    "id": 308,
-    "name": "Scropon",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/308.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/308"
-  },
-  {
-    "id": 455,
-    "name": "St. Gloopy Noops Nurse",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/455.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/455"
-  },
-  {
-    "id": 550,
-    "name": "Double Microwawe",
-    "status": "Alive",
+    "id": 360,
+    "name": "Toxic Morty",
+    "status": "Dead",
     "species": "Humanoid",
-    "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/550.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/550"
-  },
-  {
-    "id": 813,
-    "name": "Crow Horse",
-    "status": "Alive",
-    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/813.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/360.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/813"
+    "url": "https://therickandmortyapi.vercel.app/api/character/360"
+  },
+  {
+    "id": 541,
+    "name": "Secretary at Tony's",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/541.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/541"
+  },
+  {
+    "id": 553,
+    "name": "The Shapeshiftress",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/553.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/553"
+  },
+  {
+    "id": 671,
+    "name": "New Improved Galactic Federation Guard",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "NX-5 Planet Remover",
+      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/671.jpeg",
+    "episode": {
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/671"
+  },
+  {
+    "id": 791,
+    "name": "Harold's Wife",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/791.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/791"
   }
 ]
