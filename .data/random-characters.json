@@ -1,98 +1,98 @@
 [
   {
-    "id": 68,
-    "name": "Colossus",
+    "id": 60,
+    "name": "Calypso",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/68.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/60.jpeg",
     "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/68"
+    "url": "https://therickandmortyapi.vercel.app/api/character/60"
   },
   {
-    "id": 94,
-    "name": "Diane Sanchez",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/94.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/94"
-  },
-  {
-    "id": 285,
-    "name": "Rick Prime",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/285.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/285"
-  },
-  {
-    "id": 390,
-    "name": "Zick Zack",
-    "status": "Dead",
+    "id": 162,
+    "name": "Ice-T",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/390.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/162.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/390"
+    "url": "https://therickandmortyapi.vercel.app/api/character/162"
   },
   {
-    "id": 540,
-    "name": "Running Bird",
+    "id": 335,
+    "name": "Steve",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/540.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/335.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/540"
+    "url": "https://therickandmortyapi.vercel.app/api/character/335"
   },
   {
-    "id": 643,
-    "name": "Council of Glorzos Member",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 578,
+    "name": "Snake Soldier",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/643.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/578.jpeg",
     "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/643"
+    "url": "https://therickandmortyapi.vercel.app/api/character/578"
+  },
+  {
+    "id": 704,
+    "name": "Squid Costume Beth",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/704"
+  },
+  {
+    "id": 749,
+    "name": "Coat Rack Head",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/749.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/749"
   }
 ]
