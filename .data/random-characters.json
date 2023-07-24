@@ -1,98 +1,98 @@
 [
   {
-    "id": 60,
-    "name": "Calypso",
-    "status": "Dead",
-    "species": "Human",
+    "id": 244,
+    "name": "Mr. Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/60.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/244.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/60"
+    "url": "https://therickandmortyapi.vercel.app/api/character/244"
   },
   {
-    "id": 162,
-    "name": "Ice-T",
+    "id": 415,
+    "name": "Pro trunk people marriage guy",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/415.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/415"
+  },
+  {
+    "id": 419,
+    "name": "Plutonian Hostess",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/162.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/419.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/162"
+    "url": "https://therickandmortyapi.vercel.app/api/character/419"
   },
   {
-    "id": 335,
-    "name": "Steve",
-    "status": "Alive",
+    "id": 479,
+    "name": "Private Sector Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/335.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/479.jpeg",
     "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/335"
+    "url": "https://therickandmortyapi.vercel.app/api/character/479"
   },
   {
-    "id": 578,
-    "name": "Snake Soldier",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/578.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/578"
-  },
-  {
-    "id": 704,
-    "name": "Squid Costume Beth",
+    "id": 530,
+    "name": "Deliverance",
     "status": "Dead",
     "species": "Robot",
     "location": {
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/530.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/530"
+  },
+  {
+    "id": 790,
+    "name": "Harold (Garbage Goober)",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/704.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/790.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/704"
-  },
-  {
-    "id": 749,
-    "name": "Coat Rack Head",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/749.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/749"
+    "url": "https://therickandmortyapi.vercel.app/api/character/790"
   }
 ]
