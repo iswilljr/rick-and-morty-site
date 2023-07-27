@@ -1,98 +1,98 @@
 [
   {
-    "id": 151,
-    "name": "Gwendolyn",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/151.jpeg",
-    "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/151"
-  },
-  {
-    "id": 229,
-    "name": "Morty Mart Manager Morty",
+    "id": 224,
+    "name": "Michael McLick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/229.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/224.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/229"
+    "url": "https://therickandmortyapi.vercel.app/api/character/224"
   },
   {
-    "id": 464,
-    "name": "SEAL Team Rick",
-    "status": "Dead",
+    "id": 385,
+    "name": "Yellow Shirt Rick",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/464.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/385.jpeg",
     "episode": {
       "name": "The Rickshank Rickdemption",
       "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/464"
+    "url": "https://therickandmortyapi.vercel.app/api/character/385"
   },
   {
-    "id": 514,
-    "name": "Public Opinion Judge",
-    "status": "Alive",
+    "id": 386,
+    "name": "Zarbadar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/386.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/386"
+  },
+  {
+    "id": 498,
+    "name": "Fascist Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/514.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/498.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/514"
+    "url": "https://therickandmortyapi.vercel.app/api/character/498"
   },
   {
-    "id": 585,
-    "name": "Bartender",
+    "id": 543,
+    "name": "Vermigurber",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
+    "location": {
+      "name": "Gorgon Quadrant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/84"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/543.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/543"
+  },
+  {
+    "id": 761,
+    "name": "Turkey President Curtis",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/585.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/761.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/585"
-  },
-  {
-    "id": 600,
-    "name": "Cats Fan",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/600.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/600"
+    "url": "https://therickandmortyapi.vercel.app/api/character/761"
   }
 ]
