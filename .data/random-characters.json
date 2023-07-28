@@ -1,98 +1,98 @@
 [
   {
-    "id": 224,
-    "name": "Michael McLick",
+    "id": 143,
+    "name": "Glasses Morty",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/224.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/224"
-  },
-  {
-    "id": 385,
-    "name": "Yellow Shirt Rick",
-    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/385.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/143.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/385"
+    "url": "https://therickandmortyapi.vercel.app/api/character/143"
   },
   {
-    "id": 386,
-    "name": "Zarbadar Gloonch",
-    "status": "Dead",
+    "id": 192,
+    "name": "King Flippy Nips",
+    "status": "Alive",
     "species": "Alien",
+    "location": {
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/192.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/192"
+  },
+  {
+    "id": 254,
+    "name": "Octopus Man",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/254.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/254"
+  },
+  {
+    "id": 310,
+    "name": "Self-Congratulatory Jerry",
+    "status": "unknown",
+    "species": "Mythological Creature",
     "location": {
       "name": "Nuptia 4",
       "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/386.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/310.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/386"
+    "url": "https://therickandmortyapi.vercel.app/api/character/310"
   },
   {
-    "id": 498,
-    "name": "Fascist Rick",
+    "id": 681,
+    "name": "Adam's Mother",
     "status": "Dead",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Narnia Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/110"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/498.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/681.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Mort Dinner Rick Andre",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/498"
+    "url": "https://therickandmortyapi.vercel.app/api/character/681"
   },
   {
-    "id": 543,
-    "name": "Vermigurber",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Gorgon Quadrant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/84"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/543.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/543"
-  },
-  {
-    "id": 761,
-    "name": "Turkey President Curtis",
-    "status": "Alive",
-    "species": "Animal",
+    "id": 690,
+    "name": "Scarecrow Morty",
+    "status": "Dead",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/761.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/690.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/761"
+    "url": "https://therickandmortyapi.vercel.app/api/character/690"
   }
 ]
