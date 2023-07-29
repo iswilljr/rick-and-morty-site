@@ -1,98 +1,98 @@
 [
   {
-    "id": 171,
-    "name": "Jaguar",
+    "id": 4,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/171.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/4.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/171"
+    "url": "https://therickandmortyapi.vercel.app/api/character/4"
   },
   {
-    "id": 178,
-    "name": "Jerry's Mytholog",
+    "id": 132,
+    "name": "Gar's Mytholog",
     "status": "Dead",
     "species": "Mythological Creature",
     "location": {
       "name": "Nuptia 4",
       "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/178.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/132.jpeg",
     "episode": {
       "name": "Big Trouble in Little Sanchez",
       "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/178"
+    "url": "https://therickandmortyapi.vercel.app/api/character/132"
   },
   {
-    "id": 196,
-    "name": "Krombopulos Michael",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/196.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/196"
-  },
-  {
-    "id": 454,
-    "name": "Arbolian Mentirososian",
+    "id": 136,
+    "name": "Gazorpazorpfield",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/454.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/136.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/454"
+    "url": "https://therickandmortyapi.vercel.app/api/character/136"
   },
   {
-    "id": 634,
-    "name": "Train Cops Instructor",
+    "id": 251,
+    "name": "Nancy",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/251.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/251"
+  },
+  {
+    "id": 294,
+    "name": "Ricktiminus Sancheziminius",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/634.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/294.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/634"
+    "url": "https://therickandmortyapi.vercel.app/api/character/294"
   },
   {
-    "id": 745,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
+    "id": 743,
+    "name": "Alyson Hannigan",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+      "name": "Z. Q. P. D.",
+      "url": "https://therickandmortyapi.vercel.app/api/location/117"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/745.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/743.jpeg",
     "episode": {
       "name": "Amortycan Grickfitti",
       "url": "https://therickandmortyapi.vercel.app/api/episode/46"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/745"
+    "url": "https://therickandmortyapi.vercel.app/api/character/743"
   }
 ]
