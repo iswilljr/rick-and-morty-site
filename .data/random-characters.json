@@ -1,98 +1,98 @@
 [
   {
-    "id": 248,
-    "name": "Mrs. Refrigerator",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 95,
+    "name": "Dipper and Mabel Mortys",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/248.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/95.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/248"
+    "url": "https://therickandmortyapi.vercel.app/api/character/95"
   },
   {
-    "id": 275,
-    "name": "Randy Dicknose",
-    "status": "Alive",
-    "species": "Human",
+    "id": 126,
+    "name": "Fleeb",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/275.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/126.jpeg",
     "episode": {
       "name": "Interdimensional Cable 2: Tempting Fate",
       "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/275"
+    "url": "https://therickandmortyapi.vercel.app/api/character/126"
   },
   {
-    "id": 357,
-    "name": "Tommy's Clone",
+    "id": 150,
+    "name": "Cornvelious Daniel",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Galactic Federation Prison",
+      "url": "https://therickandmortyapi.vercel.app/api/location/39"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/150.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/150"
+  },
+  {
+    "id": 172,
+    "name": "Jamey",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/357.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/172.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/357"
+    "url": "https://therickandmortyapi.vercel.app/api/character/172"
   },
   {
-    "id": 361,
-    "name": "Toxic Rick",
+    "id": 463,
+    "name": "SEAL Team Rick",
     "status": "Dead",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/361.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/463.jpeg",
     "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/361"
+    "url": "https://therickandmortyapi.vercel.app/api/character/463"
   },
   {
-    "id": 515,
-    "name": "Caterpillar Mr. Goldenfold",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/515.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/515"
-  },
-  {
-    "id": 753,
-    "name": "Space Cruiser",
-    "status": "Alive",
+    "id": 572,
+    "name": "Robot Snake",
+    "status": "unknown",
     "species": "Robot",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/753.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/572.jpeg",
     "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/753"
+    "url": "https://therickandmortyapi.vercel.app/api/character/572"
   }
 ]
