@@ -1,98 +1,98 @@
 [
   {
-    "id": 32,
-    "name": "Bearded Lady",
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/7.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/7"
+  },
+  {
+    "id": 69,
+    "name": "Commander Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/69.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/69"
+  },
+  {
+    "id": 544,
+    "name": "Miles Knightly",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/32.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/544.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/32"
+    "url": "https://therickandmortyapi.vercel.app/api/character/544"
   },
   {
-    "id": 292,
-    "name": "Rick K-22",
+    "id": 603,
+    "name": "Crossy",
     "status": "Alive",
-    "species": "Human",
+    "species": "unknown",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/292.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/603.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/292"
+    "url": "https://therickandmortyapi.vercel.app/api/character/603"
   },
   {
-    "id": 311,
-    "name": "Shimshamian",
+    "id": 623,
+    "name": "Shrek The Musical Fan",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/311.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/623.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/311"
+    "url": "https://therickandmortyapi.vercel.app/api/character/623"
   },
   {
-    "id": 663,
-    "name": "Reggie",
-    "status": "Dead",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/663.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/663"
-  },
-  {
-    "id": 733,
-    "name": "Kathy Ireland",
-    "status": "Alive",
+    "id": 773,
+    "name": "Yo-yo Rick",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/733.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/773.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/733"
-  },
-  {
-    "id": 737,
-    "name": "Cirque du Soleil Zumanity Member",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/737.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/737"
+    "url": "https://therickandmortyapi.vercel.app/api/character/773"
   }
 ]
