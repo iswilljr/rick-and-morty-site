@@ -1,98 +1,98 @@
 [
   {
-    "id": 146,
-    "name": "Glexo Slim Slom",
+    "id": 48,
+    "name": "Black Rick",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/146.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/146"
+    "url": "https://therickandmortyapi.vercel.app/api/character/48"
   },
   {
-    "id": 207,
-    "name": "Loggins",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/207.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/207"
-  },
-  {
-    "id": 508,
-    "name": "Fascist Teddy Bear Rick’s Clone",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Fascist Teddy Bear Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/81"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/508.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/508"
-  },
-  {
-    "id": 557,
-    "name": "Ventriloquiver",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/557.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/557"
-  },
-  {
-    "id": 725,
-    "name": "Tony Galopagus",
+    "id": 180,
+    "name": "Jessica",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/725.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/180.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/725"
+    "url": "https://therickandmortyapi.vercel.app/api/character/180"
   },
   {
-    "id": 782,
-    "name": "Memory Squanchy",
-    "status": "Dead",
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/782.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/384.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/782"
+    "url": "https://therickandmortyapi.vercel.app/api/character/384"
+  },
+  {
+    "id": 687,
+    "name": "Scarecrow Rick",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/687.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/687"
+  },
+  {
+    "id": 697,
+    "name": "Wicker Beth",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/697.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/697"
+  },
+  {
+    "id": 790,
+    "name": "Harold (Garbage Goober)",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/790.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/790"
   }
 ]
