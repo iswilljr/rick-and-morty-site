@@ -1,98 +1,98 @@
 [
   {
-    "id": 48,
-    "name": "Black Rick",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/48.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/48"
-  },
-  {
-    "id": 180,
-    "name": "Jessica",
-    "status": "Alive",
+    "id": 234,
+    "name": "Morty Smith",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/180.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/234.jpeg",
     "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/180"
+    "url": "https://therickandmortyapi.vercel.app/api/character/234"
   },
   {
-    "id": 384,
-    "name": "Yellow Headed Doctor",
+    "id": 360,
+    "name": "Toxic Morty",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/360.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/360"
+  },
+  {
+    "id": 365,
+    "name": "Tricia Lange",
     "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/365.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/365"
+  },
+  {
+    "id": 536,
+    "name": "Josiah",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/536.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/536"
+  },
+  {
+    "id": 598,
+    "name": "Biblesaurus",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/598.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/598"
+  },
+  {
+    "id": 643,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/384.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/643.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/384"
-  },
-  {
-    "id": 687,
-    "name": "Scarecrow Rick",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/687.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/687"
-  },
-  {
-    "id": 697,
-    "name": "Wicker Beth",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/697.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/697"
-  },
-  {
-    "id": 790,
-    "name": "Harold (Garbage Goober)",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/790.jpeg",
-    "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/790"
+    "url": "https://therickandmortyapi.vercel.app/api/character/643"
   }
 ]
