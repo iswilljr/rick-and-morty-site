@@ -1,98 +1,98 @@
 [
   {
-    "id": 196,
-    "name": "Krombopulos Michael",
+    "id": 128,
+    "name": "Frankenstein's Monster",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/196.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/128.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/196"
+    "url": "https://therickandmortyapi.vercel.app/api/character/128"
   },
   {
-    "id": 316,
-    "name": "Shmlona Shmlobinson",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/316.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/316"
-  },
-  {
-    "id": 542,
-    "name": "Mountain Sweat Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Globaflyn",
-      "url": "https://therickandmortyapi.vercel.app/api/location/87"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/542.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/542"
-  },
-  {
-    "id": 596,
-    "name": "Floaty Non-Gasm Brotherhood Member Friend",
+    "id": 149,
+    "name": "Gordon Lunas",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/596.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/149.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/596"
+    "url": "https://therickandmortyapi.vercel.app/api/character/149"
   },
   {
-    "id": 718,
-    "name": "Daphne",
-    "status": "Alive",
+    "id": 253,
+    "name": "Numbericon",
+    "status": "unknown",
     "species": "Alien",
     "location": {
-      "name": "Ferkus 9",
-      "url": "https://therickandmortyapi.vercel.app/api/location/113"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/718.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/253.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/718"
+    "url": "https://therickandmortyapi.vercel.app/api/character/253"
   },
   {
-    "id": 808,
-    "name": "Crow Scare",
+    "id": 483,
+    "name": "Steve Jobs Rick",
     "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/808.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/483.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/808"
+    "url": "https://therickandmortyapi.vercel.app/api/character/483"
+  },
+  {
+    "id": 689,
+    "name": "Scarecrow Jerry",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/689.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/689"
+  },
+  {
+    "id": 705,
+    "name": "Squid Costume Jerry",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/705.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/705"
   }
 ]
