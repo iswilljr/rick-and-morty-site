@@ -1,5 +1,5 @@
-import type { PlaywrightTestConfig } from '@playwright/test';
-import { devices } from '@playwright/test';
+import type { PlaywrightTestConfig } from '@playwright/test'
+import { devices } from '@playwright/test'
 
 /**
  * See https://playwright.dev/docs/test-configuration.
@@ -35,6 +35,6 @@ const config: PlaywrightTestConfig = {
     command: 'npm run preview',
     port: 4173,
   },
-};
+}
 
-export default config;
+export default config
