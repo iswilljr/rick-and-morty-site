@@ -1,35 +1,19 @@
 [
   {
-    "id": 128,
-    "name": "Frankenstein's Monster",
+    "id": 55,
+    "name": "Boobloosian",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/128.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/55.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/128"
-  },
-  {
-    "id": 149,
-    "name": "Gordon Lunas",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/149.jpeg",
-    "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+    "url": "https://therickandmortyapi.vercel.app/api/character/55"
   },
   {
     "id": 253,
@@ -48,51 +32,67 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/253"
   },
   {
-    "id": 483,
-    "name": "Steve Jobs Rick",
+    "id": 277,
+    "name": "Real Fake Doors Salesman",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/483.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/277.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/483"
+    "url": "https://therickandmortyapi.vercel.app/api/character/277"
   },
   {
-    "id": 689,
-    "name": "Scarecrow Jerry",
+    "id": 558,
+    "name": "Elon Tusk",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/558.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/558"
+  },
+  {
+    "id": 712,
+    "name": "Too Cute to Murder Beth",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/689.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/712.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/689"
+    "url": "https://therickandmortyapi.vercel.app/api/character/712"
   },
   {
-    "id": 705,
-    "name": "Squid Costume Jerry",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 760,
+    "name": "Turkey Rick",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/705.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/760.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/705"
+    "url": "https://therickandmortyapi.vercel.app/api/character/760"
   }
 ]
