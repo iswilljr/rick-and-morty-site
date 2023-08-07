@@ -1,98 +1,98 @@
 [
   {
-    "id": 242,
-    "name": "Mr. Meeseeks",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 52,
+    "name": "Blue Footprint Guy",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/242.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/52.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/242"
+    "url": "https://therickandmortyapi.vercel.app/api/character/52"
   },
   {
-    "id": 354,
-    "name": "Toby Matthews",
-    "status": "Alive",
+    "id": 94,
+    "name": "Diane Sanchez",
+    "status": "Dead",
     "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/94.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/94"
+  },
+  {
+    "id": 262,
+    "name": "Photography Raptor",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/354.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/262.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/354"
+    "url": "https://therickandmortyapi.vercel.app/api/character/262"
   },
   {
-    "id": 410,
-    "name": "Two Brothers",
+    "id": 416,
+    "name": "Muscular Mannie",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/410.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/416.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/410"
+    "url": "https://therickandmortyapi.vercel.app/api/character/416"
   },
   {
-    "id": 456,
-    "name": "Nano Doctor",
+    "id": 718,
+    "name": "Daphne",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+      "name": "Ferkus 9",
+      "url": "https://therickandmortyapi.vercel.app/api/location/113"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/456.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/718.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/456"
+    "url": "https://therickandmortyapi.vercel.app/api/character/718"
   },
   {
-    "id": 590,
-    "name": "High Pilot",
+    "id": 823,
+    "name": "Young Beth",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
     },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/590.jpeg",
+    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/823.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/590"
-  },
-  {
-    "id": 692,
-    "name": "Glockenspiel Jerry",
-    "status": "Alive",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://therickandmortyapi.vercel.app/api/character/avatar/692.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/692"
+    "url": "https://therickandmortyapi.vercel.app/api/character/823"
   }
 ]
