@@ -1,3 +1,4 @@
+import { Image } from '@unpic/qwik'
 import { component$ } from '@builder.io/qwik'
 import type { Character, Status } from '~/types/character'
 
@@ -9,7 +10,7 @@ export const Card = component$<CardProps>(({ episode, image, location, name, spe
   return (
     <article class='m-3 flex w-full flex-col rounded-lg bg-[#3c3e44] shadow-sm sm:h-[240px] sm:w-[600px] sm:flex-row'>
       <div class='w-full sm:w-[240px]'>
-        <img
+        <Image
           loading='lazy'
           class='w-full rounded-t-lg object-cover object-center sm:h-full sm:rounded-none sm:rounded-l-lg'
           width={240}

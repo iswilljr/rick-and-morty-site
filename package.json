@@ -25,6 +25,9 @@
     "test.e2e": "playwright test",
     "qwik": "qwik"
   },
+  "dependencies": {
+    "@unpic/qwik": "0.0.25"
+  },
   "devDependencies": {
     "@builder.io/qwik": "1.2.6",
     "@builder.io/qwik-city": "1.2.6",
