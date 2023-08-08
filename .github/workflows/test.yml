@@ -2,6 +2,14 @@ name: Rick and Morty Site E2E Testing
 on:
   push:
     branches: [master]
+    paths:
+      - 'src/**'
+      - 'test/**'
+      - 'package.json'
+      - 'tsconfig.json'
+      - 'pnpm-lock.yaml'
+      - 'vite.config.ts'
+      - 'playwright.config.ts'
   pull_request:
     branches: [master]
 jobs:
