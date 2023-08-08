@@ -1,8 +1,12 @@
 const fs = require('fs')
 const path = require('path')
 
+const BASE_URL = 'https://therickandmortyapi.vercel.app/api'
+const API_IMAGE_BASE_URL = 'https://therickandmortyapi.vercel.app/api/character/avatar'
+const IMAGE_BASE_URL = 'https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images'
+
 const request = async path => {
-  const res = await fetch(`https://therickandmortyapi.vercel.app/api/${path}`)
+  const res = await fetch(`${BASE_URL}/${path}`)
 
   if (!res.ok) {
     const err = {
@@ -54,7 +58,9 @@ const getRandomGroupOfCharacters = async () => {
     const { id, name, species, status, location, image, url } = character
     const episode = getEpisodeFromUrl(character.episode[0])
 
-    return { id, name, status, species, location, image, episode, url }
+    const characterImage = image.replace(API_IMAGE_BASE_URL, IMAGE_BASE_URL)
+
+    return { id, name, status, species, location, image: characterImage, episode, url }
   })
 }
 
