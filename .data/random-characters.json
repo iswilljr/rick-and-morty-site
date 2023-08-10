@@ -1,98 +1,98 @@
 [
   {
-    "id": 111,
-    "name": "Eli's Girlfriend",
+    "id": 54,
+    "name": "Bobby Moynihan",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/111.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/54.jpeg",
     "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/111"
+    "url": "https://therickandmortyapi.vercel.app/api/character/54"
   },
   {
-    "id": 172,
-    "name": "Jamey",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/172.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/172"
-  },
-  {
-    "id": 333,
-    "name": "Stair Goblin",
-    "status": "Alive",
+    "id": 148,
+    "name": "Goddess Beth",
+    "status": "unknown",
     "species": "Mythological Creature",
     "location": {
-      "name": "Fantasy World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/48"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/333.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/148.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/333"
+    "url": "https://therickandmortyapi.vercel.app/api/character/148"
   },
   {
-    "id": 355,
-    "name": "Todd Crystal",
-    "status": "Alive",
+    "id": 204,
+    "name": "Lisa",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Unity's Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/355.jpeg",
-    "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/355"
-  },
-  {
-    "id": 469,
-    "name": "Morphizer-XE Customer Support",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/469.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/204.jpeg",
     "episode": {
       "name": "The Whirly Dirly Conspiracy",
       "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/469"
+    "url": "https://therickandmortyapi.vercel.app/api/character/204"
   },
   {
-    "id": 775,
-    "name": "Voiceoverian",
+    "id": 284,
+    "name": "Rick Guilt Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/284.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/284"
+  },
+  {
+    "id": 362,
+    "name": "Traflorkian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/362.jpeg",
+    "episode": {
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/362"
+  },
+  {
+    "id": 595,
+    "name": "Floaty Non-Gasm Brotherhood Member",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/775.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/595.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/775"
+    "url": "https://therickandmortyapi.vercel.app/api/character/595"
   }
 ]
