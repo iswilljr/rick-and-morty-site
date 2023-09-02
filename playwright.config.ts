@@ -32,8 +32,8 @@ const config: PlaywrightTestConfig = {
   ],
 
   webServer: {
-    command: 'npm run preview',
-    port: 4173,
+    command: 'pnpm build && pnpm preview',
+    port: 4321,
   },
 }
 
