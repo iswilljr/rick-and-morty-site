@@ -38,3 +38,5 @@ yarn.lock
 server
 playwright-report
 playwright.config.ts
+env.d.ts
+.astro/

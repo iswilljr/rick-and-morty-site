@@ -37,3 +37,5 @@ package-lock.json
 yarn.lock
 server
 playwright-report
+env.d.ts
+.astro/
