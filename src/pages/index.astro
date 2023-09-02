@@ -1,0 +1,23 @@
+---
+import Card from '@/components/card.astro'
+import Hero from '@/components/icons/hero.astro'
+import BaseLayout from '@/layouts/base.astro'
+import { getRandomCharacters } from '@/services/characters'
+import { SITE_DESCRIPTION, SITE_TITLE } from '@/utils/constants'
+
+const characters = await getRandomCharacters()
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <section class='relative flex min-h-[285px] items-center justify-center px-5 py-2 text-center md:h-[50vh]'>
+    <h1 class='z-10 text-6xl font-black text-dark md:text-8xl'>The Rick and Morty API</h1>
+    <div class='absolute h-full w-full'>
+      <Hero />
+    </div>
+  </section>
+  <section class='flex min-h-[calc(50vh-60px)] items-center justify-center bg-section p-6 lg:py-20'>
+    <div class='flex max-w-[2000px] flex-wrap items-center justify-center'>
+      {characters.map(character => <Card {...character} />)}
+    </div>
+  </section>
+</BaseLayout>
