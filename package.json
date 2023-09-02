@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "license": "MIT",
   "description": "The Rick and Morty API is a REST API based on the television show Rick and Morty",
-  "engines": {
-    "node": ">=15.0.0"
-  },
   "private": true,
   "scripts": {
     "astro": "astro",
