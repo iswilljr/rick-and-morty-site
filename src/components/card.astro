@@ -31,7 +31,7 @@ const { image, name, species, status, url, episode, location } = Astro.props
       </span>
     </div>
     <div class='flex flex-1 flex-col justify-center'>
-      <span class='text-[16px] font-medium text-[#9e9e9e]'>Last known location:</span>
+      <span class='text-[16px] font-medium text-neutral-300/80'>Last known location:</span>
       {
         location != null && location.url !== '' ? (
           <a class='sm:truncate' href={location.url} rel='noopener noreferrer' target='_blank'>
@@ -43,7 +43,7 @@ const { image, name, species, status, url, episode, location } = Astro.props
       }
     </div>
     <div class='flex flex-1 flex-col justify-center'>
-      <span class='text-[16px] font-medium text-[#9e9e9e]'>First seen in:</span>
+      <span class='text-[16px] font-medium text-neutral-300/80'>First seen in:</span>
       {
         episode != null ? (
           <a class='sm:truncate' href={episode.url} rel='noopener noreferrer' target='_blank'>
