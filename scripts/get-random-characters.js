@@ -1,3 +1,7 @@
+/* eslint-disable @typescript-eslint/restrict-template-expressions */
+/* eslint-disable @typescript-eslint/no-throw-literal */
+/* eslint-disable @typescript-eslint/no-var-requires */
+
 const fs = require('fs')
 const path = require('path')
 
@@ -51,7 +55,7 @@ const getRandomGroupOfCharacters = async () => {
     const id = getIdFromUrl(url)
     const episode = episodes.find(episode => id === episode.id)
 
-    return episode ? { name: episode.name, url: episode.url } : undefined
+    return episode != null ? { name: episode.name, url: episode.url } : undefined
   }
 
   return characters.map(character => {
