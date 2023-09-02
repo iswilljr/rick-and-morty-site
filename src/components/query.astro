@@ -1,0 +1,14 @@
+---
+import { BASE_URL } from '@/utils/constants'
+
+interface Props {
+  endpoint?: string
+  method?: string
+}
+
+const { endpoint = '', method = 'GET' } = Astro.props
+---
+
+<pre
+  class='language-json'
+  style='margin-bottom: 2px;'><code class='language-json code-highlight'><span class="code-line"><span class='token property'>{method} </span><span class='token string'>{BASE_URL}</span><span class='token number'>{endpoint}</span></span></code></pre>

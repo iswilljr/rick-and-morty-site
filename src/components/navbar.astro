@@ -1,0 +1,114 @@
+---
+const createDocLinks = (id: string) => {
+  const capitalized = id.charAt(0).toUpperCase() + id.slice(1)
+
+  return {
+    label: capitalized,
+    href: `/docs/${id}`,
+    categories: [
+      { label: `${capitalized} schema`, href: `#${id}-schema` },
+      { label: `Get all ${id}s`, href: `#get-all-${id}s` },
+      { label: `Get a single ${id}`, href: `#get-a-single-${id}` },
+      { label: `Get multiple ${id}s`, href: `#get-multiple-${id}s` },
+      { label: `Filter ${id}s`, href: `#filter-${id}s` },
+    ],
+  }
+}
+
+const docLinks = [
+  {
+    label: 'Introduction',
+    href: '/docs/introduction',
+    categories: [
+      { label: 'GraphQL', href: '#graphql' },
+      { label: 'REST', href: '#rest' },
+      { label: 'Query Filters', href: '#query-filters' },
+      { label: 'Info and Pagination', href: '#info-and-pagination' },
+    ],
+  },
+  createDocLinks('character'),
+  createDocLinks('location'),
+  createDocLinks('episode'),
+]
+---
+
+<nav
+  id='docs-menu'
+  data-state='closed'
+  class='fixed top-[60px] z-10 h-[calc(100vh-60px)] w-full overflow-y-auto bg-white px-3 py-6 md:px-6 duration-100 md:sticky md:w-60 md:!translate-x-0 data-[state="closed"]:-translate-x-full'
+>
+  <ul class='[&_a:hover]:text-primary [&_a]:duration-100'>
+    {
+      docLinks.map(doc => (
+        <li class='mb-6 last:mb-0'>
+          <a data-docs-menu-link class='text-xl font-bold' href={doc.href}>
+            {doc.label}
+          </a>
+          <ul class='mt-2'>
+            {doc.categories.map(category => (
+              <li class='my-1'>
+                <a data-docs-menu-link href={`${doc.href}${category.href}`}>
+                  {category.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+<button
+  id='docs-menu-trigger'
+  data-state='closed'
+  class='fixed bottom-4 right-4 z-50 flex h-[60px] w-[60px] items-center justify-center rounded-full bg-primary [&_svg]:data-[state="open"]:rotate-45 md:hidden'
+  aria-label='Open Navbar'
+>
+  <svg class='duration-500' width={20} height={20} viewBox='0 0 459 459'>
+    <path
+      d='M459.319,229.668c0,22.201-17.992,40.193-40.205,40.193H269.85v149.271c0,22.207-17.998,40.199-40.196,40.193 c-11.101,0-21.149-4.492-28.416-11.763c-7.276-7.281-11.774-17.324-11.769-28.419l-0.006-149.288H40.181 c-11.094,0-21.134-4.492-28.416-11.774c-7.264-7.264-11.759-17.312-11.759-28.413C0,207.471,17.992,189.475,40.202,189.475h149.267 V40.202C189.469,17.998,207.471,0,229.671,0c22.192,0.006,40.178,17.986,40.19,40.187v149.288h149.282 C441.339,189.487,459.308,207.471,459.319,229.668z'
+    ></path>
+  </svg>
+</button>
+
+<script>
+  const docsMenu = document.querySelector('#docs-menu')
+  const docsMenuLinks = document.querySelectorAll('[data-docs-menu-link]')
+  const docsMenuTrigger = document.querySelector('#docs-menu-trigger')
+  const media = window.matchMedia('(min-width: 768px)')
+
+  function getDocsMenuState() {
+    return docsMenu?.getAttribute('data-state') === 'open' ? 'open' : 'closed'
+  }
+
+  console.log(docsMenuLinks.length)
+
+  media.addEventListener('change', ev => {
+    const { matches } = ev
+    const state = getDocsMenuState()
+    const overflow = matches ? 'initial' : state === 'open' ? 'hidden' : 'initial'
+
+    document.documentElement.style.setProperty('overflow', overflow)
+  })
+
+  docsMenuTrigger?.addEventListener('click', () => {
+    if (!docsMenu || !docsMenuTrigger) return
+
+    const state = getDocsMenuState()
+    const newState = state === 'open' ? 'closed' : 'open'
+    const overflow = newState === 'open' ? 'hidden' : 'initial'
+
+    docsMenu.setAttribute('data-state', newState)
+    docsMenuTrigger.setAttribute('data-state', newState)
+
+    document.documentElement.style.setProperty('overflow', overflow)
+  })
+
+  docsMenuLinks.forEach(link => {
+    link.addEventListener('click', () => {
+      docsMenu?.setAttribute('data-state', 'closed')
+      docsMenuTrigger?.setAttribute('data-state', 'closed')
+      document.documentElement.style.setProperty('overflow', 'initial')
+    })
+  })
+</script>

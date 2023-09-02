@@ -1,13 +1,13 @@
 import { test, expect } from '@playwright/test'
 
 test('should have documentation title', async ({ page }) => {
-  await page.goto('http://localhost:4173/docs/introduction')
+  await page.goto('http://localhost:4321/docs/introduction')
 
   await expect(page).toHaveTitle(/Documentation$/)
 })
 
 test('should have introduction heading', async ({ page }) => {
-  await page.goto('http://localhost:4173/docs/introduction')
+  await page.goto('http://localhost:4321/docs/introduction')
 
   const h1 = page.getByRole('heading', { name: /^Introduction$/ })
 
@@ -15,7 +15,7 @@ test('should have introduction heading', async ({ page }) => {
 })
 
 test('should have character heading', async ({ page }) => {
-  await page.goto('http://localhost:4173/docs/character')
+  await page.goto('http://localhost:4321/docs/character')
 
   const h1 = page.getByRole('heading', { name: /^Character$/ })
 
@@ -23,7 +23,7 @@ test('should have character heading', async ({ page }) => {
 })
 
 test('should have location heading', async ({ page }) => {
-  await page.goto('http://localhost:4173/docs/location')
+  await page.goto('http://localhost:4321/docs/location')
 
   const h1 = page.getByRole('heading', { name: /^Location$/ })
 
@@ -31,7 +31,7 @@ test('should have location heading', async ({ page }) => {
 })
 
 test('should have episode heading', async ({ page }) => {
-  await page.goto('http://localhost:4173/docs/episode')
+  await page.goto('http://localhost:4321/docs/episode')
 
   const h1 = page.getByRole('heading', { name: /^Episode$/ })
 
@@ -39,7 +39,7 @@ test('should have episode heading', async ({ page }) => {
 })
 
 test('should have documentation links', async ({ page }) => {
-  await page.goto('http://localhost:4173/docs')
+  await page.goto('http://localhost:4321/docs')
 
   const nav = page.getByRole('main').getByRole('navigation')
 
