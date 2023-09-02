@@ -151,10 +151,6 @@ You can get multiple characters by adding an array of `ids` as parameter: `/char
 
 ## Filter characters
 
-You can also include filters in the URL by including additional query parameters. To start filtering add a `?` followed by the query `<query>=<value>`. If you want to chain several queries in the same call, use `&` followed by the query.
-
-For example, If you want to check how many alive Ricks exist, just add `?name=rick&status=alive` to the URL.
-
 Available parameters:
 
 - `name`: filter by the given name.
@@ -163,38 +159,4 @@ Available parameters:
 - `type`: filter by the given type.
 - `gender`: filter by the given gender (`female`, `male`, `genderless` or `unknown`).
 
-<Query endpoint='/character?name=morty&status=dead' />
-
-```json
-{
-  "info": {
-    "count": 18,
-    "pages": 1,
-    "next": null,
-    "prev": null
-  },
-  "results": [
-    {
-      "id": 43,
-      "name": "Big Morty",
-      "status": "Dead",
-      "species": "Human",
-      "type": "",
-      "gender": "Male",
-      "location": {
-        "name": "Citadel of Ricks",
-        "url": "https://therickandmortyapi.vercel.app/api/location/3"
-      },
-      "origin": {
-        "name": "unknown",
-        "url": ""
-      },
-      "image": "https://therickandmortyapi.vercel.app/api/character/avatar/43.jpeg",
-      "episode": ["https://therickandmortyapi.vercel.app/api/episode/28"],
-      "url": "https://therickandmortyapi.vercel.app/api/character/43",
-      "created": "2017-11-05T05:17:04.997Z"
-    }
-    // ...
-  ]
-}
-```
+If you want to know how to use queries, check the [Query Filters Guide](/docs/introduction#query-filters).

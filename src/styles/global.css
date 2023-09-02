@@ -1,11 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  ::selection {
-    @apply bg-dark text-primary;
-  }
+::selection {
+  @apply bg-dark text-primary;
 }
 
 html {
@@ -23,4 +17,11 @@ html {
   box-sizing: border-box;
   overflow-y: auto;
   scroll-behavior: smooth;
+}
+
+.token.cdata,
+.token.comment,
+.token.doctype,
+.token.prolog {
+  color: #8290bc !important;
 }

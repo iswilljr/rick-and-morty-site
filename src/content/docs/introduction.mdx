@@ -8,7 +8,7 @@ import Query from '@/components/query.astro'
 
 This documentation will help you get familiar with the resources of the **Rick and Morty API** and show you how to make different queries, so that you can get the most out of it.
 
-### GraphQL
+## GraphQL
 
 https://therickandmortyapi.vercel.app/graphql
 
@@ -36,7 +36,7 @@ query {
 }
 ```
 
-> New to GraphQL? check the docs [here](https://graphql.org/learn/)
+> New to GraphQL? [read the docs](https://graphql.org/learn/)
 
 ## REST
 
@@ -60,6 +60,57 @@ There are currently three available resources:
 - [Character](/docs/character): used to get all the characters.
 - [Location](/docs/location): used to get all the locations.
 - [Episode](/docs/episode): used to get all the episodes.
+
+## Query Filters
+
+You can also include filters in the URL by including additional query parameters. To start filtering add a `?` followed by the query `<query>=<value>`. If you want to chain several queries in the same call, use `&` followed by the query.
+
+For example, in the [Characters](/docs/character) resource if you want to check how many alive Ricks exist, just add `?name=rick&status=alive` to the URL.
+
+<Query endpoint='/character?name=rick&status=alive' />
+
+```json
+{
+  "info": {
+    "count": 29,
+    "pages": 2,
+    "next": "https://therickandmortyapi.vercel.app/api/character?name=rick&status=alive&page=2",
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male",
+      "location": {
+        "name": "Citadel of Ricks",
+        "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      },
+      "origin": {
+        "name": "Earth (C-137)",
+        "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      },
+      "image": "https://therickandmortyapi.vercel.app/api/character/avatar/1.jpeg",
+      "episode": [
+        "https://therickandmortyapi.vercel.app/api/episode/1"
+        // ...
+      ],
+      "url": "https://therickandmortyapi.vercel.app/api/character/1",
+      "created": "2017-11-04T13:48:46.250Z"
+    }
+    // ...
+  ]
+}
+```
+
+Check the available parameters and their accepted values for every API resource:
+
+- [Character](/docs/character#filter-characters): name, status, species, type and gender.
+- [Location](/docs/location#filter-locations): name, type and dimension.
+- [Episode](/docs/episode#filter-episodes): name and episode.
 
 ## Info and Pagination
 
