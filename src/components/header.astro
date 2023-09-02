@@ -1,0 +1,36 @@
+---
+import clsx from 'clsx'
+import Logo from './icons/logo.astro'
+
+export interface HeaderProps {
+  isDocs?: boolean
+}
+
+type Props = HeaderProps
+
+const { isDocs = false } = Astro.props
+---
+
+<header class={clsx('z-50 bg-white', isDocs && 'sticky top-0')}>
+  <nav
+    class={clsx(
+      'mx-auto flex min-h-[60px] w-full items-center justify-between border border-transparent px-2 md:px-6',
+      isDocs && 'border-b-slate-200'
+    )}
+  >
+    <a href='/' aria-label='Home'>
+      <Logo />
+    </a>
+    <ul class='flex items-center justify-center space-x-3 text-sm uppercase md:space-x-7 md:text-base'>
+      <li>
+        <a class='font-bold text-dark-secondary duration-100 hover:text-primary' href='/api'> API</a>
+      </li>
+      <li>
+        <a class='font-bold text-dark-secondary duration-100 hover:text-primary' href='/docs/introduction'> Docs</a>
+      </li>
+      <li>
+        <a class='font-bold text-dark-secondary duration-100 hover:text-primary' href='/official'> Official API</a>
+      </li>
+    </ul>
+  </nav>
+</header>

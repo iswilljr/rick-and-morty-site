@@ -32,7 +32,8 @@
     "@astrojs/sitemap": "3.0.0",
     "@astrojs/tailwind": "5.0.0",
     "@unpic/qwik": "0.0.25",
-    "astro": "3.0.6"
+    "astro": "3.0.6",
+    "clsx": "2.0.0"
   },
   "devDependencies": {
     "@builder.io/qwik": "1.2.6",
