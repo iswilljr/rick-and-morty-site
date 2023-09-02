@@ -1,7 +1,6 @@
 import mdx from '@astrojs/mdx'
 import sitemap from '@astrojs/sitemap'
 import tailwind from '@astrojs/tailwind'
-import rehypeHighlight from 'rehype-prism-plus'
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
@@ -9,6 +8,5 @@ export default defineConfig({
   integrations: [mdx(), sitemap(), tailwind()],
   markdown: {
     syntaxHighlight: 'prism',
-    rehypePlugins: [rehypeHighlight],
   },
 })
