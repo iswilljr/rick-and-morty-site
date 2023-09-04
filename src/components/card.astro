@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets'
 import type { Character } from '@/types/character'
 
 type Props = Character
@@ -8,7 +9,7 @@ const { image, name, species, status, url, episode, location } = Astro.props
 
 <article class='m-3 flex w-full flex-col rounded-lg bg-[#3c3e44] shadow-sm sm:h-[240px] sm:w-[600px] sm:flex-row'>
   <div class='w-full sm:w-[240px]'>
-    <img
+    <Image
       loading='lazy'
       class='w-full rounded-t-lg object-cover object-center sm:h-full sm:rounded-none sm:rounded-l-lg'
       width={240}
