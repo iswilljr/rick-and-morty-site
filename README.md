@@ -26,7 +26,7 @@ pnpm dev
 #### Testing
 
 ```bash
-pnpm test:e2e
+pnpm test.e2e
 ```
 
 ## Website
