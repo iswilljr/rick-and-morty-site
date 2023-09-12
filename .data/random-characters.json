@@ -1,98 +1,98 @@
 [
   {
-    "id": 162,
-    "name": "Ice-T",
+    "id": 160,
+    "name": "Hunter's Father",
     "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Giant Telepathic Spiders Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/42"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/160.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/160"
+  },
+  {
+    "id": 253,
+    "name": "Numbericon",
+    "status": "unknown",
     "species": "Alien",
     "location": {
       "name": "Alphabetrium",
       "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/162.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/253.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/162"
+    "url": "https://therickandmortyapi.vercel.app/api/character/253"
   },
   {
-    "id": 277,
-    "name": "Real Fake Doors Salesman",
+    "id": 314,
+    "name": "Shmlamantha Shmlicelli",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/277.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/314.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/277"
+    "url": "https://therickandmortyapi.vercel.app/api/character/314"
   },
   {
-    "id": 506,
-    "name": "Fascist Shrimp SS",
-    "status": "Alive",
-    "species": "Animal",
+    "id": 495,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Fascist Shrimp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+      "name": "Forbodulon Prime",
+      "url": "https://therickandmortyapi.vercel.app/api/location/79"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/506.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/495.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+    "url": "https://therickandmortyapi.vercel.app/api/character/495"
   },
   {
-    "id": 580,
-    "name": "Secret Service Snake",
+    "id": 566,
+    "name": "Debrah’s Partner",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/580.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/566.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/580"
+    "url": "https://therickandmortyapi.vercel.app/api/character/566"
   },
   {
-    "id": 603,
-    "name": "Crossy",
-    "status": "Alive",
-    "species": "unknown",
+    "id": 785,
+    "name": "Memory Geardude",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/603.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/785.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/603"
-  },
-  {
-    "id": 730,
-    "name": "Princess Ponietta",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/730.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/730"
+    "url": "https://therickandmortyapi.vercel.app/api/character/785"
   }
 ]
