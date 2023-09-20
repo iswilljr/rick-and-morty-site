@@ -1,98 +1,98 @@
 [
   {
-    "id": 142,
-    "name": "Gibble Snake",
+    "id": 97,
+    "name": "Gonorrhea",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Disease",
     "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/142.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/97.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/142"
+    "url": "https://therickandmortyapi.vercel.app/api/character/97"
   },
   {
-    "id": 305,
-    "name": "Scary Glenn",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 151,
+    "name": "Gwendolyn",
+    "status": "unknown",
+    "species": "Robot",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/305.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/151.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/305"
+    "url": "https://therickandmortyapi.vercel.app/api/character/151"
   },
   {
-    "id": 351,
-    "name": "Three Unknown Things",
+    "id": 229,
+    "name": "Morty Mart Manager Morty",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/229.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/229"
+  },
+  {
+    "id": 266,
+    "name": "Piece of Toast",
+    "status": "Alive",
+    "species": "unknown",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/351.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/266.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/351"
+    "url": "https://therickandmortyapi.vercel.app/api/character/266"
   },
   {
-    "id": 447,
-    "name": "Anchor Gear",
+    "id": 467,
+    "name": "Morphizer-XE Customer Support",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Gear World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/57"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/447.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/467.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/447"
+    "url": "https://therickandmortyapi.vercel.app/api/character/467"
   },
   {
-    "id": 451,
-    "name": "Roy's Son",
+    "id": 798,
+    "name": "Ferkusian",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Ferkus 9",
+      "url": "https://therickandmortyapi.vercel.app/api/location/113"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/451.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/798.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/451"
-  },
-  {
-    "id": 629,
-    "name": "Summer Smith",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/629.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/629"
+    "url": "https://therickandmortyapi.vercel.app/api/character/798"
   }
 ]
