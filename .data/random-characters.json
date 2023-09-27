@@ -1,98 +1,98 @@
 [
   {
-    "id": 257,
-    "name": "Paul Fleishman",
+    "id": 37,
+    "name": "Beth Sanchez",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/257.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/37.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/257"
+    "url": "https://therickandmortyapi.vercel.app/api/character/37"
   },
   {
-    "id": 299,
-    "name": "Robot Rick",
-    "status": "unknown",
-    "species": "Robot",
+    "id": 132,
+    "name": "Gar's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/132.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/132"
+  },
+  {
+    "id": 135,
+    "name": "Garment District Rick",
+    "status": "Dead",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/299.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/135.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/299"
+    "url": "https://therickandmortyapi.vercel.app/api/character/135"
   },
   {
-    "id": 456,
-    "name": "Nano Doctor",
-    "status": "Alive",
+    "id": 592,
+    "name": "Phoenixperson",
+    "status": "Dead",
     "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/456.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/456"
-  },
-  {
-    "id": 493,
-    "name": "Secretary of the Interior",
-    "status": "Alive",
-    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/493.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/592.jpeg",
     "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/493"
+    "url": "https://therickandmortyapi.vercel.app/api/character/592"
   },
   {
-    "id": 560,
-    "name": "Gramuflackian General",
+    "id": 594,
+    "name": "Floaty Bloody Man",
     "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Gramuflack",
-      "url": "https://therickandmortyapi.vercel.app/api/location/93"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/560.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/560"
-  },
-  {
-    "id": 658,
-    "name": "Sonia Sotomayor",
-    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/658.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/594.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/658"
+    "url": "https://therickandmortyapi.vercel.app/api/character/594"
+  },
+  {
+    "id": 617,
+    "name": "Phoenixperson",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/617.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/617"
   }
 ]
