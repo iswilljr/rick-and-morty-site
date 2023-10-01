@@ -1,98 +1,98 @@
 [
   {
-    "id": 334,
-    "name": "Stealy",
-    "status": "Alive",
-    "species": "Poopybutthole",
+    "id": 96,
+    "name": "Tuberculosis",
+    "status": "Dead",
+    "species": "Disease",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/334.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/96.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/334"
+    "url": "https://therickandmortyapi.vercel.app/api/character/96"
   },
   {
-    "id": 337,
-    "name": "Stu",
-    "status": "Dead",
+    "id": 376,
+    "name": "Veronica Ann Bennet",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+      "name": "Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/location/40"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/337.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/376.jpeg",
     "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/337"
+    "url": "https://therickandmortyapi.vercel.app/api/character/376"
   },
   {
-    "id": 393,
-    "name": "Roy",
+    "id": 506,
+    "name": "Fascist Shrimp SS",
     "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/506.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+  },
+  {
+    "id": 589,
+    "name": "Snake Reporter",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/589.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/589"
+  },
+  {
+    "id": 691,
+    "name": "Scarecrow Beth",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/691.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/691"
+  },
+  {
+    "id": 776,
+    "name": "Gotron Pilot",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/393.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/393"
-  },
-  {
-    "id": 551,
-    "name": "Monitor Lord",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/551.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/551"
-  },
-  {
-    "id": 701,
-    "name": "Metal Rick",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/701.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/776.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/701"
-  },
-  {
-    "id": 714,
-    "name": "Too Cute to Murder Jerry",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/714.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/714"
+    "url": "https://therickandmortyapi.vercel.app/api/character/776"
   }
 ]
