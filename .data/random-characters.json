@@ -1,82 +1,98 @@
 [
   {
-    "id": 342,
-    "name": "Taint Washer",
+    "id": 61,
+    "name": "Campaign Manager Morty",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/61.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/61"
+  },
+  {
+    "id": 140,
+    "name": "Genital Washer",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Post-Apocalyptic Earth",
       "url": "https://therickandmortyapi.vercel.app/api/location/8"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/342.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/140.jpeg",
     "episode": {
       "name": "Rickmancing the Stone",
       "url": "https://therickandmortyapi.vercel.app/api/episode/23"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/342"
+    "url": "https://therickandmortyapi.vercel.app/api/character/140"
   },
   {
-    "id": 474,
-    "name": "Dancer Cowboy Morty",
+    "id": 268,
+    "name": "Poncho",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/268.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/268"
+  },
+  {
+    "id": 289,
+    "name": "Rick D716-C",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/474.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/289.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/474"
+    "url": "https://therickandmortyapi.vercel.app/api/character/289"
   },
   {
-    "id": 500,
-    "name": "Fascist Mr. President",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/500.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/500"
-  },
-  {
-    "id": 566,
-    "name": "Debrah’s Partner",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Draygon",
-      "url": "https://therickandmortyapi.vercel.app/api/location/94"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/566.jpeg",
-    "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/566"
-  },
-  {
-    "id": 616,
-    "name": "Phantom of the Opera Fan",
+    "id": 436,
+    "name": "Giant Testicle Monster",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/616.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/436.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/616"
+    "url": "https://therickandmortyapi.vercel.app/api/character/436"
+  },
+  {
+    "id": 470,
+    "name": "Alien Spa Employee",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Day Spa",
+      "url": "https://therickandmortyapi.vercel.app/api/location/76"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/470.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/470"
   }
 ]
