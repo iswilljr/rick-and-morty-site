@@ -1,19 +1,35 @@
 [
   {
-    "id": 110,
-    "name": "Eli",
-    "status": "Alive",
+    "id": 73,
+    "name": "Cop Morty",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/110.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/73.jpeg",
     "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/110"
+    "url": "https://therickandmortyapi.vercel.app/api/character/73"
+  },
+  {
+    "id": 83,
+    "name": "Cronenberg Morty",
+    "status": "unknown",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/83.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/83"
   },
   {
     "id": 247,
@@ -32,67 +48,51 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/247"
   },
   {
-    "id": 261,
-    "name": "Photography Cyborg",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/261.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/261"
-  },
-  {
-    "id": 471,
-    "name": "Little Voltron",
+    "id": 333,
+    "name": "Stair Goblin",
     "status": "Alive",
-    "species": "Robot",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/471.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/333.jpeg",
     "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/471"
+    "url": "https://therickandmortyapi.vercel.app/api/character/333"
   },
   {
-    "id": 690,
-    "name": "Scarecrow Morty",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 359,
+    "name": "Tortured Morty",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/690.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/359.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/690"
+    "url": "https://therickandmortyapi.vercel.app/api/character/359"
   },
   {
-    "id": 751,
-    "name": "Changeformer",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 380,
+    "name": "Unknown Rick",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Space Tahoe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/118"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/751.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/380.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/751"
+    "url": "https://therickandmortyapi.vercel.app/api/character/380"
   }
 ]
