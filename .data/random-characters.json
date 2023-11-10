@@ -1,98 +1,98 @@
 [
   {
-    "id": 36,
-    "name": "Beta-Seven",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/36.jpeg",
-    "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/36"
-  },
-  {
-    "id": 209,
-    "name": "Long Sleeved Morty",
-    "status": "unknown",
+    "id": 56,
+    "name": "Bootleg Portal Chemist Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/209.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/56.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/209"
+    "url": "https://therickandmortyapi.vercel.app/api/character/56"
   },
   {
-    "id": 402,
-    "name": "Guy from The Bachelor",
+    "id": 292,
+    "name": "Rick K-22",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/402.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/292.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/402"
+    "url": "https://therickandmortyapi.vercel.app/api/character/292"
   },
   {
-    "id": 405,
-    "name": "Trunkphobic suspenders guy",
+    "id": 397,
+    "name": "Fido",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Snuffles' Dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/70"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/405.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/397.jpeg",
     "episode": {
       "name": "Lawnmower Dog",
       "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/405"
+    "url": "https://therickandmortyapi.vercel.app/api/character/397"
   },
   {
-    "id": 429,
-    "name": "Chair-person",
-    "status": "Alive",
-    "species": "Humanoid",
+    "id": 785,
+    "name": "Memory Geardude",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Chair Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/74"
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/429.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/785.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/429"
+    "url": "https://therickandmortyapi.vercel.app/api/character/785"
   },
   {
-    "id": 587,
-    "name": "Cavesnake",
+    "id": 809,
+    "name": "Pussifer",
     "status": "Dead",
     "species": "Animal",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/587.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/809.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/587"
+    "url": "https://therickandmortyapi.vercel.app/api/character/809"
+  },
+  {
+    "id": 815,
+    "name": "Punk Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/815.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/815"
   }
 ]
