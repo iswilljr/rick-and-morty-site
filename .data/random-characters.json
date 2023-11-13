@@ -1,98 +1,98 @@
 [
   {
-    "id": 32,
-    "name": "Bearded Lady",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 255,
+    "name": "Orthodox Jew",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/32.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/255.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/32"
+    "url": "https://therickandmortyapi.vercel.app/api/character/255"
   },
   {
-    "id": 35,
-    "name": "Bepisian",
+    "id": 266,
+    "name": "Piece of Toast",
     "status": "Alive",
-    "species": "Alien",
+    "species": "unknown",
     "location": {
-      "name": "Bepis 9",
-      "url": "https://therickandmortyapi.vercel.app/api/location/11"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/35.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/266.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/35"
+    "url": "https://therickandmortyapi.vercel.app/api/character/266"
   },
   {
-    "id": 380,
-    "name": "Unknown Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/380.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/380"
-  },
-  {
-    "id": 486,
-    "name": "Tan Rick",
+    "id": 344,
+    "name": "Tammy Guetermann",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "NX-5 Planet Remover",
+      "url": "https://therickandmortyapi.vercel.app/api/location/105"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/486.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/344.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/486"
+    "url": "https://therickandmortyapi.vercel.app/api/character/344"
   },
   {
-    "id": 495,
-    "name": "Crystal Poacher",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 672,
+    "name": "Mr. Nimbus",
+    "status": "Alive",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Forbodulon Prime",
-      "url": "https://therickandmortyapi.vercel.app/api/location/79"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/495.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/672.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Mort Dinner Rick Andre",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/495"
+    "url": "https://therickandmortyapi.vercel.app/api/character/672"
   },
   {
-    "id": 659,
-    "name": "Morty’s Father-in-law",
+    "id": 739,
+    "name": "Cirque du Soleil Zumanity Member",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Near-Duplicate Reality",
-      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/659.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/739.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/659"
+    "url": "https://therickandmortyapi.vercel.app/api/character/739"
+  },
+  {
+    "id": 793,
+    "name": "Alien Crow",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Avian Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/122"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/793.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/793"
   }
 ]
