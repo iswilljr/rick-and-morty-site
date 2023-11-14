@@ -1,98 +1,98 @@
 [
   {
-    "id": 102,
-    "name": "Donna Gueterman",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 42,
+    "name": "Big Head Morty",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/102.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/42.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/102"
+    "url": "https://therickandmortyapi.vercel.app/api/character/42"
   },
   {
-    "id": 336,
-    "name": "Steven Phillips",
+    "id": 179,
+    "name": "Jessica",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Cronenberg",
     "location": {
-      "name": "Unity's Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/336.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/179.jpeg",
     "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/336"
+    "url": "https://therickandmortyapi.vercel.app/api/character/179"
   },
   {
-    "id": 529,
-    "name": "Lizard",
+    "id": 403,
+    "name": "Corn detective",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Humanoid",
     "location": {
-      "name": "Midland Quasar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/529.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/403.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/529"
+    "url": "https://therickandmortyapi.vercel.app/api/character/403"
   },
   {
-    "id": 549,
-    "name": "Snake Arms",
+    "id": 545,
+    "name": "Heist-Con Receptionist",
     "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "Heist-Con",
       "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/549.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/545.jpeg",
     "episode": {
       "name": "One Crew Over the Crewcoo's Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/549"
+    "url": "https://therickandmortyapi.vercel.app/api/character/545"
   },
   {
-    "id": 561,
-    "name": "Netflix Executive",
+    "id": 582,
+    "name": "Anchosnake",
     "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/582.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/582"
+  },
+  {
+    "id": 789,
+    "name": "Nick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/561.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/789.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/561"
-  },
-  {
-    "id": 664,
-    "name": "Ticktock",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/664.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/664"
+    "url": "https://therickandmortyapi.vercel.app/api/character/789"
   }
 ]
