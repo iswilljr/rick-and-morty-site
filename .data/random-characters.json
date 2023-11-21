@@ -1,98 +1,98 @@
 [
   {
-    "id": 63,
-    "name": "Centaur",
+    "id": 41,
+    "name": "Big Boobed Waitress",
     "status": "Alive",
     "species": "Mythological Creature",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/63.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/41.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/63"
+    "url": "https://therickandmortyapi.vercel.app/api/character/41"
   },
   {
-    "id": 109,
-    "name": "Duck With Muscles",
+    "id": 94,
+    "name": "Diane Sanchez",
     "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/109.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/109"
-  },
-  {
-    "id": 347,
-    "name": "President Curtis",
-    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/347.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/94.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/94"
+  },
+  {
+    "id": 162,
+    "name": "Ice-T",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/162.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/347"
+    "url": "https://therickandmortyapi.vercel.app/api/character/162"
   },
   {
-    "id": 461,
-    "name": "Communication's Responsible Rick",
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/249.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/249"
+  },
+  {
+    "id": 278,
+    "name": "Regional Manager Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/461.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/278.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/461"
+    "url": "https://therickandmortyapi.vercel.app/api/character/278"
   },
   {
-    "id": 638,
-    "name": "Rick’s Disguise",
-    "status": "Alive",
+    "id": 593,
+    "name": "Tickets Please Guy",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Non-Diegetic Alternative Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/97"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/638.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/593.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/638"
-  },
-  {
-    "id": 765,
-    "name": "Native Alien",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/765.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/765"
+    "url": "https://therickandmortyapi.vercel.app/api/character/593"
   }
 ]
