@@ -1,98 +1,98 @@
 [
   {
-    "id": 39,
-    "name": "Beth Smith",
+    "id": 176,
+    "name": "Celebrity Jerry",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/39.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/39"
-  },
-  {
-    "id": 151,
-    "name": "Gwendolyn",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/151.jpeg",
-    "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/151"
-  },
-  {
-    "id": 153,
-    "name": "Hamster In Butt",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Hamster in Butt World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/41"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/153.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/176.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/153"
+    "url": "https://therickandmortyapi.vercel.app/api/character/176"
   },
   {
-    "id": 356,
-    "name": "Tom Randolph",
+    "id": 220,
+    "name": "Mega Fruit Farmer Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/220.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/220"
+  },
+  {
+    "id": 268,
+    "name": "Poncho",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/268.jpeg",
     "episode": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/356"
+    "url": "https://therickandmortyapi.vercel.app/api/character/268"
   },
   {
-    "id": 399,
-    "name": "Tiny-persons advocacy group lawyer",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 532,
+    "name": "Tony’s Wife",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Giant's Town",
-      "url": "https://therickandmortyapi.vercel.app/api/location/14"
+      "name": "Globaflyn",
+      "url": "https://therickandmortyapi.vercel.app/api/location/87"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/399.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/532.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/399"
+    "url": "https://therickandmortyapi.vercel.app/api/character/532"
   },
   {
-    "id": 571,
-    "name": "Slippy",
+    "id": 578,
+    "name": "Snake Soldier",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Snake Planet",
       "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/571.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/578.jpeg",
     "episode": {
       "name": "Rattlestar Ricklactica",
       "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/571"
+    "url": "https://therickandmortyapi.vercel.app/api/character/578"
+  },
+  {
+    "id": 691,
+    "name": "Scarecrow Beth",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/691.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/691"
   }
 ]
