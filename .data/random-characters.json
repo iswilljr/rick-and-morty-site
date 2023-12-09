@@ -1,98 +1,98 @@
 [
   {
-    "id": 29,
-    "name": "Baby Legs",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/29.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/29"
-  },
-  {
-    "id": 91,
-    "name": "David Letterman",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/91.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/91"
-  },
-  {
-    "id": 181,
-    "name": "Jessica's Friend",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/181.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/181"
-  },
-  {
-    "id": 263,
-    "name": "Pibbles Bodyguard",
+    "id": 50,
+    "name": "Blim Blam",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/263.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/50.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/263"
+    "url": "https://therickandmortyapi.vercel.app/api/character/50"
   },
   {
-    "id": 590,
-    "name": "High Pilot",
-    "status": "unknown",
+    "id": 149,
+    "name": "Gordon Lunas",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/590.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/590"
+    "url": "https://therickandmortyapi.vercel.app/api/character/149"
   },
   {
-    "id": 639,
-    "name": "Uncle Nibbles",
+    "id": 292,
+    "name": "Rick K-22",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/292.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/292"
+  },
+  {
+    "id": 496,
+    "name": "Crystal Poacher",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Forbodulon Prime",
+      "url": "https://therickandmortyapi.vercel.app/api/location/79"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/639.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/496.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/639"
+    "url": "https://therickandmortyapi.vercel.app/api/character/496"
+  },
+  {
+    "id": 555,
+    "name": "Randotron",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/555.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/555"
+  },
+  {
+    "id": 719,
+    "name": "Diesel Weasel",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/719.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/719"
   }
 ]
