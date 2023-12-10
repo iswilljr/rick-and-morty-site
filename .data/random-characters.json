@@ -1,98 +1,98 @@
 [
   {
-    "id": 50,
-    "name": "Blim Blam",
+    "id": 57,
+    "name": "Borpocian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/50.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/57.jpeg",
     "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/50"
+    "url": "https://therickandmortyapi.vercel.app/api/character/57"
   },
   {
-    "id": 149,
-    "name": "Gordon Lunas",
+    "id": 250,
+    "name": "Mrs. Sullivan",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/250.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+    "url": "https://therickandmortyapi.vercel.app/api/character/250"
   },
   {
-    "id": 292,
-    "name": "Rick K-22",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/292.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/292"
-  },
-  {
-    "id": 496,
-    "name": "Crystal Poacher",
-    "status": "Dead",
+    "id": 282,
+    "name": "Revolio Clockberg Jr.",
+    "status": "unknown",
     "species": "Alien",
     "location": {
-      "name": "Forbodulon Prime",
-      "url": "https://therickandmortyapi.vercel.app/api/location/79"
+      "name": "Gear World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/57"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/496.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/282.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/496"
+    "url": "https://therickandmortyapi.vercel.app/api/character/282"
   },
   {
-    "id": 555,
-    "name": "Randotron",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/555.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/384.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/555"
+    "url": "https://therickandmortyapi.vercel.app/api/character/384"
   },
   {
-    "id": 719,
-    "name": "Diesel Weasel",
+    "id": 406,
+    "name": "Spiderweb teddy bear",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/406.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/406"
+  },
+  {
+    "id": 730,
+    "name": "Princess Ponietta",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/719.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/730.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/719"
+    "url": "https://therickandmortyapi.vercel.app/api/character/730"
   }
 ]
