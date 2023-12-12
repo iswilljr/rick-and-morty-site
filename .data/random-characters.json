@@ -1,98 +1,98 @@
 [
   {
-    "id": 131,
-    "name": "Gar Gloonch",
-    "status": "Dead",
+    "id": 78,
+    "name": "Cowboy Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/78.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/78"
+  },
+  {
+    "id": 140,
+    "name": "Genital Washer",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/140.jpeg",
+    "episode": {
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/140"
+  },
+  {
+    "id": 161,
+    "name": "Hydrogen-F",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/131.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/161.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/131"
+    "url": "https://therickandmortyapi.vercel.app/api/character/161"
   },
   {
-    "id": 160,
-    "name": "Hunter's Father",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Giant Telepathic Spiders Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/42"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/160.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/160"
-  },
-  {
-    "id": 269,
-    "name": "Presidentress of The Mega Gargantuans",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Mega Gargantuan Kingdom",
-      "url": "https://therickandmortyapi.vercel.app/api/location/56"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/269.jpeg",
-    "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/269"
-  },
-  {
-    "id": 316,
-    "name": "Shmlona Shmlobinson",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/316.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/316"
-  },
-  {
-    "id": 471,
-    "name": "Little Voltron",
-    "status": "Alive",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/471.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/471"
-  },
-  {
-    "id": 774,
-    "name": "Voiceoverian",
+    "id": 391,
+    "name": "Uncle Steve",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/774.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/391.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/774"
+    "url": "https://therickandmortyapi.vercel.app/api/character/391"
+  },
+  {
+    "id": 506,
+    "name": "Fascist Shrimp SS",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/506.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+  },
+  {
+    "id": 670,
+    "name": "New Improved Galactic Federation Guard",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "NX-5 Planet Remover",
+      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/670.jpeg",
+    "episode": {
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/670"
   }
 ]
