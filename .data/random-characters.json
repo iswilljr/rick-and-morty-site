@@ -1,98 +1,98 @@
 [
   {
-    "id": 78,
-    "name": "Cowboy Rick",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/78.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/78"
-  },
-  {
-    "id": 140,
-    "name": "Genital Washer",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/140.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/140"
-  },
-  {
-    "id": 161,
-    "name": "Hydrogen-F",
-    "status": "Alive",
+    "id": 139,
+    "name": "General Store Owner",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+      "name": "Purge Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/9"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/161.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/139.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/161"
+    "url": "https://therickandmortyapi.vercel.app/api/character/139"
   },
   {
-    "id": 391,
-    "name": "Uncle Steve",
+    "id": 280,
+    "name": "Reverse Giraffe",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/391.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/280.jpeg",
     "episode": {
       "name": "Total Rickall",
       "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/391"
+    "url": "https://therickandmortyapi.vercel.app/api/character/280"
   },
   {
-    "id": 506,
-    "name": "Fascist Shrimp SS",
-    "status": "Alive",
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/530.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/530"
+  },
+  {
+    "id": 576,
+    "name": "Snake Linguist",
+    "status": "unknown",
     "species": "Animal",
     "location": {
-      "name": "Earth (Fascist Shrimp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/80"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/506.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/576.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/506"
+    "url": "https://therickandmortyapi.vercel.app/api/character/576"
   },
   {
-    "id": 670,
-    "name": "New Improved Galactic Federation Guard",
+    "id": 652,
+    "name": "SWAT Officer",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "NX-5 Planet Remover",
-      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/670.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/652.jpeg",
     "episode": {
-      "name": "Star Mort: Rickturn of the Jerri",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/670"
+    "url": "https://therickandmortyapi.vercel.app/api/character/652"
+  },
+  {
+    "id": 778,
+    "name": "Gotron Pilot",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/778.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/778"
   }
 ]
