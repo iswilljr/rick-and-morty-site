@@ -1,98 +1,98 @@
 [
   {
-    "id": 54,
-    "name": "Bobby Moynihan",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/54.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/54"
-  },
-  {
-    "id": 65,
-    "name": "Chris",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Rick's Battery Microverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/24"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/65.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/65"
-  },
-  {
-    "id": 152,
-    "name": "Hammerhead Morty",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/152.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/152"
-  },
-  {
-    "id": 173,
-    "name": "Jan-Michael Vincent",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/173.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/173"
-  },
-  {
-    "id": 389,
-    "name": "Zeta Alpha Rick",
+    "id": 149,
+    "name": "Gordon Lunas",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/389.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/389"
+    "url": "https://therickandmortyapi.vercel.app/api/character/149"
   },
   {
-    "id": 799,
-    "name": "Morglutzian",
+    "id": 352,
+    "name": "Tinkles",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Morglutz",
-      "url": "https://therickandmortyapi.vercel.app/api/location/112"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/799.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/352.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/799"
+    "url": "https://therickandmortyapi.vercel.app/api/character/352"
+  },
+  {
+    "id": 421,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/421.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/421"
+  },
+  {
+    "id": 536,
+    "name": "Josiah",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/536.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/536"
+  },
+  {
+    "id": 782,
+    "name": "Memory Squanchy",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/782.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/782"
+  },
+  {
+    "id": 823,
+    "name": "Young Beth",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/823.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/823"
   }
 ]
