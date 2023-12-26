@@ -1,54 +1,54 @@
 [
   {
-    "id": 55,
-    "name": "Boobloosian",
+    "id": 128,
+    "name": "Frankenstein's Monster",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/55.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/128.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/55"
+    "url": "https://therickandmortyapi.vercel.app/api/character/128"
   },
   {
-    "id": 79,
-    "name": "Crab Spider",
+    "id": 356,
+    "name": "Tom Randolph",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/356"
+  },
+  {
+    "id": 435,
+    "name": "Pripudlian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Hideout Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/27"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/79.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/435.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/79"
+    "url": "https://therickandmortyapi.vercel.app/api/character/435"
   },
   {
-    "id": 250,
-    "name": "Mrs. Sullivan",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/250.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/250"
-  },
-  {
-    "id": 495,
+    "id": 496,
     "name": "Crystal Poacher",
     "status": "Dead",
     "species": "Alien",
@@ -56,43 +56,43 @@
       "name": "Forbodulon Prime",
       "url": "https://therickandmortyapi.vercel.app/api/location/79"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/495.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/496.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/495"
+    "url": "https://therickandmortyapi.vercel.app/api/character/496"
   },
   {
-    "id": 554,
-    "name": "Heistotron",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 664,
+    "name": "Ticktock",
+    "status": "unknown",
+    "species": "Humanoid",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/554.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/664.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/554"
+    "url": "https://therickandmortyapi.vercel.app/api/character/664"
   },
   {
-    "id": 575,
-    "name": "Snake Resistance Robot",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 709,
+    "name": "Dracula",
+    "status": "Alive",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/575.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/709.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/575"
+    "url": "https://therickandmortyapi.vercel.app/api/character/709"
   }
 ]
