@@ -1,98 +1,98 @@
 [
   {
-    "id": 149,
-    "name": "Gordon Lunas",
+    "id": 8,
+    "name": "Adjudicator Rick",
     "status": "Dead",
     "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/8.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/8"
+  },
+  {
+    "id": 390,
+    "name": "Zick Zack",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/390.jpeg",
     "episode": {
       "name": "Morty's Mind Blowers",
       "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+    "url": "https://therickandmortyapi.vercel.app/api/character/390"
   },
   {
-    "id": 180,
-    "name": "Jessica",
+    "id": 493,
+    "name": "Secretary of the Interior",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/180.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/493.jpeg",
     "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/180"
+    "url": "https://therickandmortyapi.vercel.app/api/character/493"
   },
   {
-    "id": 296,
-    "name": "Risotto Groupon",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/296.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/296"
-  },
-  {
-    "id": 422,
-    "name": "Rich Plutonian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/422.jpeg",
-    "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/422"
-  },
-  {
-    "id": 694,
-    "name": "Glockenspiel Rick",
+    "id": 702,
+    "name": "Gun Brain Rick",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/694.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/702.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/694"
+    "url": "https://therickandmortyapi.vercel.app/api/character/702"
   },
   {
-    "id": 789,
-    "name": "Nick",
-    "status": "Dead",
-    "species": "Human",
+    "id": 719,
+    "name": "Diesel Weasel",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/789.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/719.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/789"
+    "url": "https://therickandmortyapi.vercel.app/api/character/719"
+  },
+  {
+    "id": 736,
+    "name": "Spaceman",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Space",
+      "url": "https://therickandmortyapi.vercel.app/api/location/115"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/736.jpeg",
+    "episode": {
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/736"
   }
 ]
