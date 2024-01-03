@@ -1,98 +1,98 @@
 [
   {
-    "id": 9,
-    "name": "Agency Director",
-    "status": "Dead",
+    "id": 1,
+    "name": "Rick Sanchez",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/9.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/1.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/9"
+    "url": "https://therickandmortyapi.vercel.app/api/character/1"
   },
   {
-    "id": 121,
-    "name": "Eyehole Man",
+    "id": 194,
+    "name": "Kozbian",
     "status": "Alive",
     "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/194.jpeg",
+    "episode": {
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/194"
+  },
+  {
+    "id": 416,
+    "name": "Muscular Mannie",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/121.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/416.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/121"
+    "url": "https://therickandmortyapi.vercel.app/api/character/416"
   },
   {
-    "id": 189,
-    "name": "Katarina",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/189.jpeg",
-    "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/189"
-  },
-  {
-    "id": 440,
-    "name": "Veterinary Nurse",
+    "id": 478,
+    "name": "Journalist Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/440.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/478.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/440"
+    "url": "https://therickandmortyapi.vercel.app/api/character/478"
   },
   {
-    "id": 495,
-    "name": "Crystal Poacher",
-    "status": "Dead",
+    "id": 617,
+    "name": "Phoenixperson",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Forbodulon Prime",
-      "url": "https://therickandmortyapi.vercel.app/api/location/79"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/495.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/617.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/495"
+    "url": "https://therickandmortyapi.vercel.app/api/character/617"
   },
   {
-    "id": 700,
-    "name": "Wicker Summer",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 787,
+    "name": "Two Crows",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/700.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/787.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/700"
+    "url": "https://therickandmortyapi.vercel.app/api/character/787"
   }
 ]
