@@ -1,98 +1,98 @@
 [
   {
-    "id": 121,
-    "name": "Eyehole Man",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/121.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/121"
-  },
-  {
-    "id": 220,
-    "name": "Mega Fruit Farmer Rick",
-    "status": "Alive",
+    "id": 116,
+    "name": "Evil Beth Clone",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/220.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/116.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/220"
+    "url": "https://therickandmortyapi.vercel.app/api/character/116"
   },
   {
-    "id": 308,
-    "name": "Scropon",
+    "id": 151,
+    "name": "Gwendolyn",
     "status": "unknown",
-    "species": "Alien",
+    "species": "Robot",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/308.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/151.jpeg",
     "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/308"
+    "url": "https://therickandmortyapi.vercel.app/api/character/151"
   },
   {
-    "id": 334,
-    "name": "Stealy",
-    "status": "Alive",
-    "species": "Poopybutthole",
+    "id": 198,
+    "name": "Lady Katana",
+    "status": "Dead",
+    "species": "Humanoid",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Dorian 5",
+      "url": "https://therickandmortyapi.vercel.app/api/location/29"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/334.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/198.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/334"
+    "url": "https://therickandmortyapi.vercel.app/api/character/198"
   },
   {
-    "id": 414,
-    "name": "Trunkphobic guy",
+    "id": 274,
+    "name": "Quantum Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/274.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/274"
+  },
+  {
+    "id": 416,
+    "name": "Muscular Mannie",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/414.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/416.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/414"
+    "url": "https://therickandmortyapi.vercel.app/api/character/416"
   },
   {
-    "id": 477,
-    "name": "Hairdresser Rick",
-    "status": "Alive",
-    "species": "Human",
+    "id": 642,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/477.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/642.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/477"
+    "url": "https://therickandmortyapi.vercel.app/api/character/642"
   }
 ]
