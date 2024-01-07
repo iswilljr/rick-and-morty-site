@@ -10,7 +10,7 @@ const config: PlaywrightTestConfig = {
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
   retries: 2,
-  workers: process.env.CI ? 1 : undefined,
+  workers: process.env.CI ? 1 : '50%',
   reporter: 'html',
   use: {
     actionTimeout: 0,
@@ -32,7 +32,7 @@ const config: PlaywrightTestConfig = {
   ],
 
   webServer: {
-    command: 'pnpm build && pnpm preview',
+    command: 'pnpm preview',
     port: 4321,
   },
 }

@@ -6,6 +6,8 @@ import { getRandomCharacters } from '@/services/characters'
 import { SITE_DESCRIPTION, SITE_TITLE } from '@/utils/constants'
 
 const characters = await getRandomCharacters()
+
+export const prerender = false
 ---
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
