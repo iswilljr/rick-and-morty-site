@@ -1,98 +1,98 @@
 [
   {
-    "id": 329,
-    "name": "Snuffles (Snowball)",
-    "status": "Alive",
-    "species": "Animal",
+    "id": 82,
+    "name": "Cronenberg Rick",
+    "status": "unknown",
+    "species": "Cronenberg",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/329.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/82.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/329"
+    "url": "https://therickandmortyapi.vercel.app/api/character/82"
   },
   {
-    "id": 382,
-    "name": "Worldender",
+    "id": 212,
+    "name": "Magma-Q",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/382.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/212.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/382"
+    "url": "https://therickandmortyapi.vercel.app/api/character/212"
   },
   {
-    "id": 468,
-    "name": "Morphizer-XE Customer Support",
+    "id": 354,
+    "name": "Toby Matthews",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/354.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/354"
+  },
+  {
+    "id": 540,
+    "name": "Running Bird",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/540.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/540"
+  },
+  {
+    "id": 541,
+    "name": "Secretary at Tony's",
     "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/468.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/541.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/468"
+    "url": "https://therickandmortyapi.vercel.app/api/character/541"
   },
   {
-    "id": 497,
-    "name": "Hologram Rick",
-    "status": "Dead",
-    "species": "Humanoid",
+    "id": 791,
+    "name": "Harold's Wife",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/497.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/791.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/497"
-  },
-  {
-    "id": 646,
-    "name": "Steve",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/646.jpeg",
-    "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/646"
-  },
-  {
-    "id": 795,
-    "name": "Palicki",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Normal Size Bug Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/123"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/795.jpeg",
-    "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/795"
+    "url": "https://therickandmortyapi.vercel.app/api/character/791"
   }
 ]
