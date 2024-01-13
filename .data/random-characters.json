@@ -1,98 +1,98 @@
 [
   {
-    "id": 133,
-    "name": "Garblovian",
-    "status": "Alive",
+    "id": 87,
+    "name": "Cynthia",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/133.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/87.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/133"
+    "url": "https://therickandmortyapi.vercel.app/api/character/87"
   },
   {
-    "id": 290,
-    "name": "Rick Sanchez",
-    "status": "Dead",
-    "species": "Human",
+    "id": 261,
+    "name": "Photography Cyborg",
+    "status": "unknown",
+    "species": "Robot",
     "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/290.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/261.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/290"
+    "url": "https://therickandmortyapi.vercel.app/api/character/261"
   },
   {
-    "id": 339,
-    "name": "Summer Smith",
+    "id": 408,
+    "name": "Quick Mystery Presenter",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/339.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/408.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/339"
+    "url": "https://therickandmortyapi.vercel.app/api/character/408"
   },
   {
-    "id": 472,
-    "name": "Baby Rick",
+    "id": 473,
+    "name": "Bartender Morty",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/472.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/473.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/472"
+    "url": "https://therickandmortyapi.vercel.app/api/character/473"
   },
   {
-    "id": 707,
-    "name": "Squid Costume Rick",
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/530.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/530"
+  },
+  {
+    "id": 700,
+    "name": "Wicker Summer",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/707.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/700.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/707"
-  },
-  {
-    "id": 759,
-    "name": "Turkey Morty",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/759.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/759"
+    "url": "https://therickandmortyapi.vercel.app/api/character/700"
   }
 ]
