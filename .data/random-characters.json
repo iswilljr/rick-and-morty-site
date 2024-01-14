@@ -1,98 +1,98 @@
 [
   {
-    "id": 11,
-    "name": "Albert Einstein",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/11.jpeg",
-    "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/11"
-  },
-  {
-    "id": 145,
-    "name": "Glenn",
+    "id": 136,
+    "name": "Gazorpazorpfield",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/145.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/136.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/145"
+    "url": "https://therickandmortyapi.vercel.app/api/character/136"
   },
   {
-    "id": 278,
-    "name": "Regional Manager Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/278.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/278"
-  },
-  {
-    "id": 609,
-    "name": "Josh",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/609.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/609"
-  },
-  {
-    "id": 683,
-    "name": "Evolved Narnian",
+    "id": 240,
+    "name": "Mr. Goldenfold",
     "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Narnia Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/110"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/683.jpeg",
-    "episode": {
-      "name": "Mort Dinner Rick Andre",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/683"
-  },
-  {
-    "id": 699,
-    "name": "Wicker Morty",
-    "status": "Dead",
-    "species": "Robot",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/699.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/240.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/699"
+    "url": "https://therickandmortyapi.vercel.app/api/character/240"
+  },
+  {
+    "id": 327,
+    "name": "Slow Mobius",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/327.jpeg",
+    "episode": {
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/327"
+  },
+  {
+    "id": 578,
+    "name": "Snake Soldier",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/578.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/578"
+  },
+  {
+    "id": 600,
+    "name": "Cats Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/600.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/600"
+  },
+  {
+    "id": 617,
+    "name": "Phoenixperson",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/617.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/617"
   }
 ]
