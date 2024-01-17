@@ -1,67 +1,67 @@
 [
   {
-    "id": 343,
-    "name": "Tammy Guetermann",
-    "status": "Alive",
-    "species": "Cronenberg",
+    "id": 242,
+    "name": "Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/343.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/242.jpeg",
     "episode": {
       "name": "Meeseeks and Destroy",
       "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/343"
+    "url": "https://therickandmortyapi.vercel.app/api/character/242"
   },
   {
-    "id": 356,
-    "name": "Tom Randolph",
+    "id": 433,
+    "name": "Doopidoo",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/433.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/356"
+    "url": "https://therickandmortyapi.vercel.app/api/character/433"
   },
   {
-    "id": 450,
-    "name": "Roy's Wife",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/450.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/450"
-  },
-  {
-    "id": 547,
-    "name": "Glar",
+    "id": 527,
+    "name": "Mothership Intern",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/547.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/527.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/547"
+    "url": "https://therickandmortyapi.vercel.app/api/character/527"
+  },
+  {
+    "id": 626,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/626.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/626"
   },
   {
     "id": 695,
@@ -80,19 +80,19 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/695"
   },
   {
-    "id": 700,
-    "name": "Wicker Summer",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 747,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/700.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/747.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/700"
+    "url": "https://therickandmortyapi.vercel.app/api/character/747"
   }
 ]
