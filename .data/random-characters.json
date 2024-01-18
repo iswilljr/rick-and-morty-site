@@ -1,98 +1,98 @@
 [
   {
-    "id": 242,
-    "name": "Mr. Meeseeks",
+    "id": 7,
+    "name": "Abradolf Lincler",
     "status": "unknown",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/242.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/242"
-  },
-  {
-    "id": 433,
-    "name": "Doopidoo",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/433.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/7.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/433"
+    "url": "https://therickandmortyapi.vercel.app/api/character/7"
   },
   {
-    "id": 527,
-    "name": "Mothership Intern",
+    "id": 207,
+    "name": "Loggins",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/527.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/207.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/527"
+    "url": "https://therickandmortyapi.vercel.app/api/character/207"
   },
   {
-    "id": 626,
-    "name": "Tammy Guetermann",
+    "id": 253,
+    "name": "Numbericon",
+    "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/253.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/253"
+  },
+  {
+    "id": 451,
+    "name": "Roy's Son",
     "status": "Alive",
     "species": "Human",
+    "location": {
+      "name": "Roy: A Life Well Lived",
+      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/451.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/451"
+  },
+  {
+    "id": 454,
+    "name": "Arbolian Mentirososian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/454.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/454"
+  },
+  {
+    "id": 623,
+    "name": "Shrek The Musical Fan",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/626.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/623.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/626"
-  },
-  {
-    "id": 695,
-    "name": "Glockenspiel Summer",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/695.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/695"
-  },
-  {
-    "id": 747,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/747.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/747"
+    "url": "https://therickandmortyapi.vercel.app/api/character/623"
   }
 ]
