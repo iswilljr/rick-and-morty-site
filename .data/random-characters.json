@@ -1,98 +1,98 @@
 [
   {
-    "id": 12,
-    "name": "Alexander",
+    "id": 83,
+    "name": "Cronenberg Morty",
+    "status": "unknown",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/83.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/83"
+  },
+  {
+    "id": 99,
+    "name": "Hepatitis C",
     "status": "Dead",
-    "species": "Human",
+    "species": "Disease",
     "location": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/12.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/99.jpeg",
     "episode": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/12"
+    "url": "https://therickandmortyapi.vercel.app/api/character/99"
   },
   {
-    "id": 94,
-    "name": "Diane Sanchez",
-    "status": "Dead",
-    "species": "Human",
+    "id": 242,
+    "name": "Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/94.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/242.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/94"
+    "url": "https://therickandmortyapi.vercel.app/api/character/242"
   },
   {
-    "id": 257,
-    "name": "Paul Fleishman",
+    "id": 439,
+    "name": "Veterinary",
     "status": "Alive",
     "species": "Human",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/257.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/257"
-  },
-  {
-    "id": 375,
-    "name": "Vance Maximus",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/375.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/375"
-  },
-  {
-    "id": 516,
-    "name": "Wasp Rick",
-    "status": "Alive",
-    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/516.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/439.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/516"
+    "url": "https://therickandmortyapi.vercel.app/api/character/439"
   },
   {
-    "id": 640,
-    "name": "Angry Glorzo",
+    "id": 706,
+    "name": "Squid Costume Morty",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Robot",
     "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/640.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/706.jpeg",
     "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/640"
+    "url": "https://therickandmortyapi.vercel.app/api/character/706"
+  },
+  {
+    "id": 756,
+    "name": "Franklin D. Roosevelt",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/756.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/756"
   }
 ]
