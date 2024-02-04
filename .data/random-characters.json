@@ -1,98 +1,98 @@
 [
   {
-    "id": 201,
-    "name": "Leonard Smith",
+    "id": 24,
+    "name": "Armagheadon",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/201.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/201"
-  },
-  {
-    "id": 481,
-    "name": "Retired General Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/481.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/481"
-  },
-  {
-    "id": 496,
-    "name": "Crystal Poacher",
-    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Forbodulon Prime",
-      "url": "https://therickandmortyapi.vercel.app/api/location/79"
+      "name": "Signus 5 Expanse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/22"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/496.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/24.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/496"
+    "url": "https://therickandmortyapi.vercel.app/api/character/24"
   },
   {
-    "id": 628,
-    "name": "Beth Smith",
+    "id": 294,
+    "name": "Ricktiminus Sancheziminius",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/294.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/294"
+  },
+  {
+    "id": 441,
+    "name": "Bearded Jerry",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/628.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/441.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/628"
+    "url": "https://therickandmortyapi.vercel.app/api/character/441"
   },
   {
-    "id": 687,
-    "name": "Scarecrow Rick",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 539,
+    "name": "Richard",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/687.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/539.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/687"
+    "url": "https://therickandmortyapi.vercel.app/api/character/539"
   },
   {
-    "id": 690,
-    "name": "Scarecrow Morty",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 739,
+    "name": "Cirque du Soleil Zumanity Member",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/690.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/739.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/690"
+    "url": "https://therickandmortyapi.vercel.app/api/character/739"
+  },
+  {
+    "id": 751,
+    "name": "Changeformer",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Space Tahoe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/118"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/751.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/751"
   }
 ]
