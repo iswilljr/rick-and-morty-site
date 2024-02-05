@@ -1,98 +1,98 @@
 [
   {
-    "id": 396,
-    "name": "Scary Teacher",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 119,
+    "name": "Evil Rick",
+    "status": "Dead",
+    "species": "Humanoid",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/396.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/119.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/396"
+    "url": "https://therickandmortyapi.vercel.app/api/character/119"
   },
   {
-    "id": 518,
-    "name": "Wasp Morty",
+    "id": 186,
+    "name": "Joyce Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/186.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/186"
+  },
+  {
+    "id": 506,
+    "name": "Fascist Shrimp SS",
     "status": "Alive",
     "species": "Animal",
     "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/518.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/506.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/518"
+    "url": "https://therickandmortyapi.vercel.app/api/character/506"
   },
   {
-    "id": 524,
-    "name": "Kirkland Brand Mr. Meeseeks",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 593,
+    "name": "Tickets Please Guy",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Non-Diegetic Alternative Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/97"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/524.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/593.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/524"
+    "url": "https://therickandmortyapi.vercel.app/api/character/593"
   },
   {
-    "id": 536,
-    "name": "Josiah",
-    "status": "Alive",
+    "id": 727,
+    "name": "Professor Shabooboo",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/536.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/727.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/536"
+    "url": "https://therickandmortyapi.vercel.app/api/character/727"
   },
   {
-    "id": 673,
-    "name": "Hoovy",
-    "status": "Dead",
-    "species": "Humanoid",
-    "location": {
-      "name": "Narnia Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/110"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/673.jpeg",
-    "episode": {
-      "name": "Mort Dinner Rick Andre",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/673"
-  },
-  {
-    "id": 787,
-    "name": "Two Crows",
+    "id": 761,
+    "name": "Turkey President Curtis",
     "status": "Alive",
     "species": "Animal",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/787.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/761.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/787"
+    "url": "https://therickandmortyapi.vercel.app/api/character/761"
   }
 ]
