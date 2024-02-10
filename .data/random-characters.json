@@ -1,98 +1,98 @@
 [
   {
-    "id": 115,
-    "name": "Ethan",
+    "id": 237,
+    "name": "Mr. Benson",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/115.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/237.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/115"
+    "url": "https://therickandmortyapi.vercel.app/api/character/237"
   },
   {
-    "id": 211,
-    "name": "Ma-Sha",
+    "id": 243,
+    "name": "Mr. Needful",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Humanoid",
     "location": {
-      "name": "Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/location/40"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/211.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/243.jpeg",
     "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/211"
+    "url": "https://therickandmortyapi.vercel.app/api/character/243"
   },
   {
-    "id": 223,
-    "name": "Michael Jenkins",
-    "status": "Dead",
+    "id": 418,
+    "name": "Mrs. Sullivan's Boyfriend",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/223.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/418.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/223"
+    "url": "https://therickandmortyapi.vercel.app/api/character/418"
   },
   {
-    "id": 231,
-    "name": "Morty Rick",
-    "status": "unknown",
+    "id": 540,
+    "name": "Running Bird",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/231.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/540.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/231"
+    "url": "https://therickandmortyapi.vercel.app/api/character/540"
   },
   {
-    "id": 319,
-    "name": "Shmooglite Runner",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/319.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/319"
-  },
-  {
-    "id": 709,
-    "name": "Dracula",
+    "id": 567,
+    "name": "Michael",
     "status": "Alive",
     "species": "Mythological Creature",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/709.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/567.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/567"
+  },
+  {
+    "id": 692,
+    "name": "Glockenspiel Jerry",
+    "status": "Alive",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/692.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/709"
+    "url": "https://therickandmortyapi.vercel.app/api/character/692"
   }
 ]
