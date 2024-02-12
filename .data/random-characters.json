@@ -1,98 +1,98 @@
 [
   {
-    "id": 31,
-    "name": "Baby Wizard",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 255,
+    "name": "Orthodox Jew",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/31.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/255.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/31"
+    "url": "https://therickandmortyapi.vercel.app/api/character/255"
   },
   {
-    "id": 130,
-    "name": "Galactic Federation President",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 261,
+    "name": "Photography Cyborg",
+    "status": "unknown",
+    "species": "Robot",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/130.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/261.jpeg",
     "episode": {
       "name": "The Wedding Squanchers",
       "url": "https://therickandmortyapi.vercel.app/api/episode/21"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/130"
+    "url": "https://therickandmortyapi.vercel.app/api/character/261"
   },
   {
-    "id": 268,
-    "name": "Poncho",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/268.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/268"
-  },
-  {
-    "id": 426,
-    "name": "Greasy Grandma",
+    "id": 269,
+    "name": "Presidentress of The Mega Gargantuans",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Greasy Grandma World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/73"
+      "name": "Mega Gargantuan Kingdom",
+      "url": "https://therickandmortyapi.vercel.app/api/location/56"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/426.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/269.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/426"
+    "url": "https://therickandmortyapi.vercel.app/api/character/269"
   },
   {
-    "id": 553,
-    "name": "The Shapeshiftress",
+    "id": 367,
+    "name": "Trunk Man",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Humanoid",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/553.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/367.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/553"
+    "url": "https://therickandmortyapi.vercel.app/api/character/367"
   },
   {
-    "id": 570,
-    "name": "Chachi",
+    "id": 640,
+    "name": "Angry Glorzo",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/570.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/640.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/570"
+    "url": "https://therickandmortyapi.vercel.app/api/character/640"
+  },
+  {
+    "id": 649,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/649.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/649"
   }
 ]
