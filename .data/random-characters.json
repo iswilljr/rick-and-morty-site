@@ -1,98 +1,98 @@
 [
   {
-    "id": 228,
-    "name": "Mohawk Guy",
-    "status": "Dead",
+    "id": 17,
+    "name": "Annie",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/228.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/17.jpeg",
     "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/228"
+    "url": "https://therickandmortyapi.vercel.app/api/character/17"
   },
   {
-    "id": 232,
-    "name": "Morty Smith",
+    "id": 42,
+    "name": "Big Head Morty",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/42.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/42"
+  },
+  {
+    "id": 211,
+    "name": "Ma-Sha",
     "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/location/40"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/211.jpeg",
+    "episode": {
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/211"
+  },
+  {
+    "id": 290,
+    "name": "Rick Sanchez",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Evil Rick's Target Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/34"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/232.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/290.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/232"
+    "url": "https://therickandmortyapi.vercel.app/api/character/290"
   },
   {
-    "id": 256,
-    "name": "Pat Gueterman",
+    "id": 515,
+    "name": "Caterpillar Mr. Goldenfold",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Animal",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/256.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/515.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/256"
+    "url": "https://therickandmortyapi.vercel.app/api/character/515"
   },
   {
-    "id": 405,
-    "name": "Trunkphobic suspenders guy",
-    "status": "Alive",
+    "id": 815,
+    "name": "Punk Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/405.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/815.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/405"
-  },
-  {
-    "id": 425,
-    "name": "Pizza-person",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Pizza Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/71"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/425.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/425"
-  },
-  {
-    "id": 536,
-    "name": "Josiah",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/536.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/536"
+    "url": "https://therickandmortyapi.vercel.app/api/character/815"
   }
 ]
