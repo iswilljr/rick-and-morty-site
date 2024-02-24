@@ -1,98 +1,98 @@
 [
   {
-    "id": 186,
-    "name": "Joyce Smith",
+    "id": 26,
+    "name": "Arthricia",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Purge Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/9"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/186.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/26.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/186"
+    "url": "https://therickandmortyapi.vercel.app/api/character/26"
   },
   {
-    "id": 221,
-    "name": "Melissa",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 280,
+    "name": "Reverse Giraffe",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/221.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/280.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/221"
+    "url": "https://therickandmortyapi.vercel.app/api/character/280"
   },
   {
-    "id": 268,
-    "name": "Poncho",
+    "id": 488,
+    "name": "Colonial Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/268.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/488.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/268"
+    "url": "https://therickandmortyapi.vercel.app/api/character/488"
   },
   {
-    "id": 458,
-    "name": "Tax Attorney",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/458.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/458"
-  },
-  {
-    "id": 508,
-    "name": "Fascist Teddy Bear Rick’s Clone",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Fascist Teddy Bear Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/81"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/508.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/508"
-  },
-  {
-    "id": 621,
-    "name": "Ruth Bader Ginsburg",
+    "id": 617,
+    "name": "Phoenixperson",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/621.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/617.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/621"
+    "url": "https://therickandmortyapi.vercel.app/api/character/617"
+  },
+  {
+    "id": 779,
+    "name": "Young Memory Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/779.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/779"
+  },
+  {
+    "id": 783,
+    "name": "Memory Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/783.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/783"
   }
 ]
