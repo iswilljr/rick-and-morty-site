@@ -1,98 +1,98 @@
 [
   {
-    "id": 125,
-    "name": "Flansian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/125.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/125"
-  },
-  {
-    "id": 161,
-    "name": "Hydrogen-F",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/161.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/161"
-  },
-  {
-    "id": 269,
-    "name": "Presidentress of The Mega Gargantuans",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Mega Gargantuan Kingdom",
-      "url": "https://therickandmortyapi.vercel.app/api/location/56"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/269.jpeg",
-    "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/269"
-  },
-  {
-    "id": 296,
-    "name": "Risotto Groupon",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/296.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/296"
-  },
-  {
-    "id": 334,
-    "name": "Stealy",
-    "status": "Alive",
-    "species": "Poopybutthole",
+    "id": 157,
+    "name": "Hole in the Wall Where the Men Can See it All",
+    "status": "unknown",
+    "species": "unknown",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/334.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/157.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/334"
+    "url": "https://therickandmortyapi.vercel.app/api/character/157"
   },
   {
-    "id": 813,
-    "name": "Crow Horse",
+    "id": 185,
+    "name": "Joseph Eli Lipkip",
     "status": "Alive",
-    "species": "Robot",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/813.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/185.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/813"
+    "url": "https://therickandmortyapi.vercel.app/api/character/185"
+  },
+  {
+    "id": 191,
+    "name": "Kevin",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/191.jpeg",
+    "episode": {
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/191"
+  },
+  {
+    "id": 278,
+    "name": "Regional Manager Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/278.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/278"
+  },
+  {
+    "id": 457,
+    "name": "Funny Songs Presenter",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/457.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/457"
+  },
+  {
+    "id": 557,
+    "name": "Ventriloquiver",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/557.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/557"
   }
 ]
