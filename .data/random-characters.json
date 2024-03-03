@@ -1,98 +1,98 @@
 [
   {
-    "id": 69,
-    "name": "Commander Rick",
+    "id": 11,
+    "name": "Albert Einstein",
     "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/11.jpeg",
+    "episode": {
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/11"
+  },
+  {
+    "id": 130,
+    "name": "Galactic Federation President",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/130.jpeg",
+    "episode": {
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/130"
+  },
+  {
+    "id": 220,
+    "name": "Mega Fruit Farmer Rick",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/69.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/220.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/69"
+    "url": "https://therickandmortyapi.vercel.app/api/character/220"
   },
   {
-    "id": 93,
-    "name": "Diablo Verde",
-    "status": "Dead",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Dorian 5",
-      "url": "https://therickandmortyapi.vercel.app/api/location/29"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/93.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/93"
-  },
-  {
-    "id": 310,
-    "name": "Self-Congratulatory Jerry",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/310.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/310"
-  },
-  {
-    "id": 332,
-    "name": "Stacy",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/332.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/332"
-  },
-  {
-    "id": 623,
-    "name": "Shrek The Musical Fan",
+    "id": 421,
+    "name": "Rich Plutonian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/623.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/421.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/623"
+    "url": "https://therickandmortyapi.vercel.app/api/character/421"
   },
   {
-    "id": 729,
-    "name": "CHUD King",
+    "id": 459,
+    "name": "Butthole Ice Cream Guy",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/729.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/459.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/729"
+    "url": "https://therickandmortyapi.vercel.app/api/character/459"
+  },
+  {
+    "id": 485,
+    "name": "Modern Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/485.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/485"
   }
 ]
