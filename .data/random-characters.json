@@ -1,98 +1,98 @@
 [
   {
-    "id": 16,
-    "name": "Amish Cyborg",
+    "id": 56,
+    "name": "Bootleg Portal Chemist Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/56.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/56"
+  },
+  {
+    "id": 146,
+    "name": "Glexo Slim Slom",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/146.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/146"
+  },
+  {
+    "id": 280,
+    "name": "Reverse Giraffe",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/16.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/280.jpeg",
     "episode": {
       "name": "Total Rickall",
       "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/16"
+    "url": "https://therickandmortyapi.vercel.app/api/character/280"
   },
   {
-    "id": 238,
-    "name": "Mr. Booby Buyer",
-    "status": "Alive",
+    "id": 358,
+    "name": "Tophat Jones",
+    "status": "Dead",
     "species": "Mythological Creature",
     "location": {
-      "name": "Fantasy World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/48"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/238.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/358.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/238"
+    "url": "https://therickandmortyapi.vercel.app/api/character/358"
   },
   {
-    "id": 244,
-    "name": "Mr. Poopybutthole",
+    "id": 579,
+    "name": "Snake with Legs",
     "status": "Alive",
-    "species": "Poopybutthole",
+    "species": "Animal",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/244.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/579.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/244"
+    "url": "https://therickandmortyapi.vercel.app/api/character/579"
   },
   {
-    "id": 346,
-    "name": "Terry",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/346.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/346"
-  },
-  {
-    "id": 471,
-    "name": "Little Voltron",
+    "id": 719,
+    "name": "Diesel Weasel",
     "status": "Alive",
-    "species": "Robot",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/471.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/471"
-  },
-  {
-    "id": 724,
-    "name": "Planetina Buyer",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/724.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/719.jpeg",
     "episode": {
       "name": "A Rickconvenient Mort",
       "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/724"
+    "url": "https://therickandmortyapi.vercel.app/api/character/719"
   }
 ]
