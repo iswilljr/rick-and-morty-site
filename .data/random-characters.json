@@ -1,98 +1,98 @@
 [
   {
-    "id": 25,
-    "name": "Armothy",
-    "status": "Dead",
-    "species": "unknown",
-    "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/25.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/25"
-  },
-  {
-    "id": 188,
-    "name": "Karen Entity",
+    "id": 137,
+    "name": "Gene",
     "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Unity's Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/28"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/188.jpeg",
-    "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/188"
-  },
-  {
-    "id": 234,
-    "name": "Morty Smith",
-    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/234.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/137.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/234"
+    "url": "https://therickandmortyapi.vercel.app/api/character/137"
   },
   {
-    "id": 287,
-    "name": "Rick D716",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/287.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/287"
-  },
-  {
-    "id": 288,
-    "name": "Rick D716-B",
+    "id": 158,
+    "name": "Hookah Alien",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Customs",
+      "url": "https://therickandmortyapi.vercel.app/api/location/38"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/288.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/158.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/288"
+    "url": "https://therickandmortyapi.vercel.app/api/character/158"
   },
   {
-    "id": 803,
-    "name": "40 Years Old Morty",
+    "id": 386,
+    "name": "Zarbadar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/386.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/386"
+  },
+  {
+    "id": 421,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/421.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/421"
+  },
+  {
+    "id": 462,
+    "name": "Teleportation's Responsible Rick",
     "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/803.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/462.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/803"
+    "url": "https://therickandmortyapi.vercel.app/api/character/462"
+  },
+  {
+    "id": 776,
+    "name": "Gotron Pilot",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/776.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/776"
   }
 ]
