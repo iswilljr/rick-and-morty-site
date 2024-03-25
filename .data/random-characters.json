@@ -1,98 +1,98 @@
 [
   {
-    "id": 148,
-    "name": "Goddess Beth",
-    "status": "unknown",
-    "species": "Mythological Creature",
+    "id": 133,
+    "name": "Garblovian",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/148.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/133.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/148"
+    "url": "https://therickandmortyapi.vercel.app/api/character/133"
   },
   {
-    "id": 334,
-    "name": "Stealy",
+    "id": 140,
+    "name": "Genital Washer",
     "status": "Alive",
-    "species": "Poopybutthole",
+    "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/334.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/140.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/334"
+    "url": "https://therickandmortyapi.vercel.app/api/character/140"
   },
   {
-    "id": 347,
-    "name": "President Curtis",
-    "status": "Alive",
+    "id": 149,
+    "name": "Gordon Lunas",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/347.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+  },
+  {
+    "id": 161,
+    "name": "Hydrogen-F",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/161.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/347"
+    "url": "https://therickandmortyapi.vercel.app/api/character/161"
   },
   {
-    "id": 385,
-    "name": "Yellow Shirt Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/385.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/385"
-  },
-  {
-    "id": 449,
-    "name": "Roy's Mum",
+    "id": 266,
+    "name": "Piece of Toast",
     "status": "Alive",
-    "species": "Human",
+    "species": "unknown",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/449.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/266.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/449"
+    "url": "https://therickandmortyapi.vercel.app/api/character/266"
   },
   {
-    "id": 599,
-    "name": "Birdperson",
+    "id": 611,
+    "name": "Leah",
     "status": "Alive",
-    "species": "Alien",
+    "species": "unknown",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/599.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/611.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/599"
+    "url": "https://therickandmortyapi.vercel.app/api/character/611"
   }
 ]
