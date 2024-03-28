@@ -1,98 +1,98 @@
 [
   {
-    "id": 164,
-    "name": "Insurance Rick",
-    "status": "unknown",
+    "id": 50,
+    "name": "Blim Blam",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/50.jpeg",
+    "episode": {
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/50"
+  },
+  {
+    "id": 186,
+    "name": "Joyce Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/186.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/186"
+  },
+  {
+    "id": 311,
+    "name": "Shimshamian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/311.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/311"
+  },
+  {
+    "id": 388,
+    "name": "Zeep Xanflorp",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Rick's Battery Microverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/24"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/388.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/388"
+  },
+  {
+    "id": 488,
+    "name": "Colonial Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/164.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/488.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/164"
+    "url": "https://therickandmortyapi.vercel.app/api/character/488"
   },
   {
-    "id": 250,
-    "name": "Mrs. Sullivan",
-    "status": "Dead",
+    "id": 733,
+    "name": "Kathy Ireland",
+    "status": "Alive",
     "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/250.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/250"
-  },
-  {
-    "id": 429,
-    "name": "Chair-person",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Chair Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/74"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/429.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/429"
-  },
-  {
-    "id": 543,
-    "name": "Vermigurber",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Gorgon Quadrant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/84"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/543.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/543"
-  },
-  {
-    "id": 646,
-    "name": "Steve",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/646.jpeg",
-    "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/646"
-  },
-  {
-    "id": 688,
-    "name": "Scarecrow Summer",
-    "status": "Dead",
-    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/688.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/733.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/688"
+    "url": "https://therickandmortyapi.vercel.app/api/character/733"
   }
 ]
