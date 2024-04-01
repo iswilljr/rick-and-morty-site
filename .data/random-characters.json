@@ -1,98 +1,98 @@
 [
   {
-    "id": 288,
-    "name": "Rick D716-B",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/288.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/288"
-  },
-  {
-    "id": 359,
-    "name": "Tortured Morty",
+    "id": 7,
+    "name": "Abradolf Lincler",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/359.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/7.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/359"
+    "url": "https://therickandmortyapi.vercel.app/api/character/7"
   },
   {
-    "id": 428,
-    "name": "Phone-person",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/428.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/428"
-  },
-  {
-    "id": 472,
-    "name": "Baby Rick",
+    "id": 129,
+    "name": "Fulgora",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/472.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/129.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/472"
+    "url": "https://therickandmortyapi.vercel.app/api/character/129"
   },
   {
-    "id": 528,
-    "name": "Monogatron Leader",
+    "id": 153,
+    "name": "Hamster In Butt",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Animal",
     "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+      "name": "Hamster in Butt World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/41"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/528.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/153.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/528"
+    "url": "https://therickandmortyapi.vercel.app/api/character/153"
   },
   {
-    "id": 728,
-    "name": "Sperm Queen",
-    "status": "Dead",
-    "species": "unknown",
+    "id": 524,
+    "name": "Kirkland Brand Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/728.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/524.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/728"
+    "url": "https://therickandmortyapi.vercel.app/api/character/524"
+  },
+  {
+    "id": 595,
+    "name": "Floaty Non-Gasm Brotherhood Member",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/595.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/595"
+  },
+  {
+    "id": 646,
+    "name": "Steve",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/646.jpeg",
+    "episode": {
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/646"
   }
 ]
