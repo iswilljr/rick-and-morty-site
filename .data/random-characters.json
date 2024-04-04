@@ -1,98 +1,98 @@
 [
   {
-    "id": 42,
-    "name": "Big Head Morty",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/42.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/42"
-  },
-  {
-    "id": 44,
-    "name": "Body Guard Morty",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/44.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/44"
-  },
-  {
-    "id": 236,
-    "name": "Mr. Beauregard",
+    "id": 122,
+    "name": "Fart",
     "status": "Dead",
     "species": "Alien",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/122.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/122"
+  },
+  {
+    "id": 270,
+    "name": "Prince Nebulon",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/270.jpeg",
+    "episode": {
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/270"
+  },
+  {
+    "id": 341,
+    "name": "Taddy Mason",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/236.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/341.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/236"
+    "url": "https://therickandmortyapi.vercel.app/api/character/341"
   },
   {
-    "id": 366,
-    "name": "Trunk Morty",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/366.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/366"
-  },
-  {
-    "id": 543,
-    "name": "Vermigurber",
+    "id": 362,
+    "name": "Traflorkian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Gorgon Quadrant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/84"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/543.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/362.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/543"
+    "url": "https://therickandmortyapi.vercel.app/api/character/362"
   },
   {
-    "id": 554,
-    "name": "Heistotron",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 433,
+    "name": "Doopidoo",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/554.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/433.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/554"
+    "url": "https://therickandmortyapi.vercel.app/api/character/433"
+  },
+  {
+    "id": 495,
+    "name": "Crystal Poacher",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Forbodulon Prime",
+      "url": "https://therickandmortyapi.vercel.app/api/location/79"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/495.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/495"
   }
 ]
