@@ -1,98 +1,82 @@
 [
   {
-    "id": 242,
-    "name": "Mr. Meeseeks",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 358,
+    "name": "Tophat Jones",
+    "status": "Dead",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/242.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/358.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/242"
+    "url": "https://therickandmortyapi.vercel.app/api/character/358"
   },
   {
-    "id": 481,
-    "name": "Retired General Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/481.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/481"
-  },
-  {
-    "id": 498,
-    "name": "Fascist Rick",
+    "id": 375,
+    "name": "Vance Maximus",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/498.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/375.jpeg",
+    "episode": {
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/375"
+  },
+  {
+    "id": 512,
+    "name": "Morty’s Lawyer",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/512.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/498"
+    "url": "https://therickandmortyapi.vercel.app/api/character/512"
   },
   {
-    "id": 500,
-    "name": "Fascist Mr. President",
-    "status": "Alive",
-    "species": "Human",
+    "id": 649,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/500.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/500"
-  },
-  {
-    "id": 657,
-    "name": "Johnny Carson",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/657.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/649.jpeg",
     "episode": {
       "name": "The Vat of Acid Episode",
       "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/657"
+    "url": "https://therickandmortyapi.vercel.app/api/character/649"
   },
   {
-    "id": 825,
-    "name": "Young Jerry",
-    "status": "unknown",
-    "species": "Human",
+    "id": 703,
+    "name": "Mr. Always Wants to be Hunted",
+    "status": "Alive",
+    "species": "Poopybutthole",
     "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/825.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/703.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/825"
+    "url": "https://therickandmortyapi.vercel.app/api/character/703"
   }
 ]
