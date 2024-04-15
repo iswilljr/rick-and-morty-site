@@ -1,98 +1,98 @@
 [
   {
-    "id": 89,
-    "name": "Dale",
-    "status": "Dead",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Giant's Town",
-      "url": "https://therickandmortyapi.vercel.app/api/location/14"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/89.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/89"
-  },
-  {
-    "id": 131,
-    "name": "Gar Gloonch",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/131.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/131"
-  },
-  {
-    "id": 446,
-    "name": "Jerryboree Receptionist",
+    "id": 18,
+    "name": "Antenna Morty",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/446.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/18.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/446"
+    "url": "https://therickandmortyapi.vercel.app/api/character/18"
   },
   {
-    "id": 715,
-    "name": "Too Cute to Murder Morty",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 95,
+    "name": "Dipper and Mabel Mortys",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/715.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/95.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/715"
+    "url": "https://therickandmortyapi.vercel.app/api/character/95"
   },
   {
-    "id": 737,
-    "name": "Cirque du Soleil Zumanity Member",
+    "id": 177,
+    "name": "Jerry Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/34"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/177.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/177"
+  },
+  {
+    "id": 733,
+    "name": "Kathy Ireland",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/737.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/733.jpeg",
     "episode": {
       "name": "Rickdependence Spray",
       "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/737"
+    "url": "https://therickandmortyapi.vercel.app/api/character/733"
   },
   {
-    "id": 808,
-    "name": "Crow Scare",
+    "id": 734,
+    "name": "Amazing Johnathan",
     "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/808.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/734.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/808"
+    "url": "https://therickandmortyapi.vercel.app/api/character/734"
+  },
+  {
+    "id": 745,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/745.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/745"
   }
 ]
