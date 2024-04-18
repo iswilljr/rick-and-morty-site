@@ -1,98 +1,98 @@
 [
   {
-    "id": 183,
-    "name": "Johnny Depp",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/183.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/183"
-  },
-  {
-    "id": 191,
-    "name": "Kevin",
+    "id": 96,
+    "name": "Tuberculosis",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Disease",
     "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/191.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/96.jpeg",
     "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/191"
+    "url": "https://therickandmortyapi.vercel.app/api/character/96"
   },
   {
-    "id": 347,
-    "name": "President Curtis",
+    "id": 124,
+    "name": "Father Bob",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/347.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/124.jpeg",
     "episode": {
       "name": "Get Schwifty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/347"
+    "url": "https://therickandmortyapi.vercel.app/api/character/124"
   },
   {
-    "id": 353,
-    "name": "Tiny Rick",
+    "id": 172,
+    "name": "Jamey",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/172.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/172"
+  },
+  {
+    "id": 189,
+    "name": "Katarina",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/353.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/189.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Pickle Rick",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/353"
+    "url": "https://therickandmortyapi.vercel.app/api/character/189"
   },
   {
-    "id": 648,
-    "name": "Crystal Dealers Boss",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Alien Acid Plant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/102"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/648.jpeg",
-    "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/648"
-  },
-  {
-    "id": 711,
-    "name": "When Wolf",
-    "status": "Alive",
+    "id": 745,
+    "name": "Cenobite",
+    "status": "unknown",
     "species": "Mythological Creature",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/711.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/745.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/711"
+    "url": "https://therickandmortyapi.vercel.app/api/character/745"
+  },
+  {
+    "id": 790,
+    "name": "Harold (Garbage Goober)",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/790.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/790"
   }
 ]
