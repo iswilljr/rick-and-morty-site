@@ -1,98 +1,98 @@
 [
   {
-    "id": 40,
-    "name": "Beth's Mytholog",
+    "id": 128,
+    "name": "Frankenstein's Monster",
     "status": "Dead",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/40.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/40"
-  },
-  {
-    "id": 103,
-    "name": "Doofus Rick",
-    "status": "unknown",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/103.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/128.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/103"
+    "url": "https://therickandmortyapi.vercel.app/api/character/128"
   },
   {
-    "id": 530,
-    "name": "Deliverance",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Midland Quasar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/85"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/530.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/530"
-  },
-  {
-    "id": 586,
-    "name": "PC Basketball Player",
+    "id": 175,
+    "name": "Jerry Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/586.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/175.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/586"
+    "url": "https://therickandmortyapi.vercel.app/api/character/175"
   },
   {
-    "id": 663,
-    "name": "Reggie",
-    "status": "Dead",
+    "id": 388,
+    "name": "Zeep Xanflorp",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Rick's Battery Microverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/24"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/388.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/388"
+  },
+  {
+    "id": 400,
+    "name": "Giant Judge",
+    "status": "Alive",
     "species": "Mythological Creature",
     "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+      "name": "Giant's Town",
+      "url": "https://therickandmortyapi.vercel.app/api/location/14"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/663.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/400.jpeg",
     "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/663"
+    "url": "https://therickandmortyapi.vercel.app/api/character/400"
   },
   {
-    "id": 820,
-    "name": "Redhead Morty",
+    "id": 720,
+    "name": "Eddie",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/820.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/720.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/720"
+  },
+  {
+    "id": 808,
+    "name": "Crow Scare",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/808.jpeg",
     "episode": {
       "name": "Rickmurai Jack",
       "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/820"
+    "url": "https://therickandmortyapi.vercel.app/api/character/808"
   }
 ]
