@@ -1,83 +1,83 @@
 [
   {
-    "id": 53,
-    "name": "Blue Shirt Morty",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/53.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/53"
-  },
-  {
-    "id": 88,
-    "name": "Cynthia",
+    "id": 190,
+    "name": "Keara",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/88.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/190.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/88"
+    "url": "https://therickandmortyapi.vercel.app/api/character/190"
   },
   {
-    "id": 215,
-    "name": "Maximums Rickimus",
-    "status": "Dead",
-    "species": "Human",
+    "id": 505,
+    "name": "Fascist Shrimp Morty",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/80"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/215.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/215"
-  },
-  {
-    "id": 523,
-    "name": "Boglin",
-    "status": "unknown",
-    "species": "unknown",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/523.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/505.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/523"
+    "url": "https://therickandmortyapi.vercel.app/api/character/505"
   },
   {
-    "id": 811,
-    "name": "Re-Build-a-Morty Morty",
-    "status": "unknown",
+    "id": 516,
+    "name": "Wasp Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/516.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/516"
+  },
+  {
+    "id": 542,
+    "name": "Mountain Sweat Jerry",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Globaflyn",
+      "url": "https://therickandmortyapi.vercel.app/api/location/87"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/811.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/542.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/811"
+    "url": "https://therickandmortyapi.vercel.app/api/character/542"
+  },
+  {
+    "id": 650,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/650.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/650"
   },
   {
     "id": 816,
