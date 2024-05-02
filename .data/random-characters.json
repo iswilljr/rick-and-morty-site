@@ -1,98 +1,98 @@
 [
   {
-    "id": 115,
-    "name": "Ethan",
-    "status": "Alive",
+    "id": 281,
+    "name": "Reverse Rick Outrage",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/115.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/281.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/115"
+    "url": "https://therickandmortyapi.vercel.app/api/character/281"
   },
   {
-    "id": 124,
-    "name": "Father Bob",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/124.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/124"
-  },
-  {
-    "id": 228,
-    "name": "Mohawk Guy",
+    "id": 323,
+    "name": "Slaveowner",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Post-Apocalyptic Earth",
       "url": "https://therickandmortyapi.vercel.app/api/location/8"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/228.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/323.jpeg",
     "episode": {
       "name": "Rickmancing the Stone",
       "url": "https://therickandmortyapi.vercel.app/api/episode/23"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/228"
+    "url": "https://therickandmortyapi.vercel.app/api/character/323"
   },
   {
-    "id": 284,
-    "name": "Rick Guilt Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/284.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/284"
-  },
-  {
-    "id": 303,
-    "name": "Samantha",
+    "id": 341,
+    "name": "Taddy Mason",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/303.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/341.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/303"
+    "url": "https://therickandmortyapi.vercel.app/api/character/341"
   },
   {
-    "id": 629,
-    "name": "Summer Smith",
-    "status": "Alive",
+    "id": 522,
+    "name": "Caterpillar Mr. Goldenfold’s Larvae",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/522.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/522"
+  },
+  {
+    "id": 650,
+    "name": "Crystal Dealer",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/650.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/650"
+  },
+  {
+    "id": 777,
+    "name": "Gotron Pilot",
+    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/629.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/777.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/629"
+    "url": "https://therickandmortyapi.vercel.app/api/character/777"
   }
 ]
