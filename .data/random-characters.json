@@ -1,98 +1,98 @@
 [
   {
-    "id": 97,
-    "name": "Gonorrhea",
-    "status": "Dead",
-    "species": "Disease",
+    "id": 85,
+    "name": "Cyclops Morty",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/97.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/85.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/97"
+    "url": "https://therickandmortyapi.vercel.app/api/character/85"
   },
   {
-    "id": 150,
-    "name": "Cornvelious Daniel",
-    "status": "Dead",
+    "id": 121,
+    "name": "Eyehole Man",
+    "status": "Alive",
     "species": "Alien",
-    "location": {
-      "name": "Galactic Federation Prison",
-      "url": "https://therickandmortyapi.vercel.app/api/location/39"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/150.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/150"
-  },
-  {
-    "id": 333,
-    "name": "Stair Goblin",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Fantasy World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/48"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/333.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/333"
-  },
-  {
-    "id": 406,
-    "name": "Spiderweb teddy bear",
-    "status": "Alive",
-    "species": "Animal",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/406.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/406"
-  },
-  {
-    "id": 455,
-    "name": "St. Gloopy Noops Nurse",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/455.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/121.jpeg",
     "episode": {
       "name": "Interdimensional Cable 2: Tempting Fate",
       "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/455"
+    "url": "https://therickandmortyapi.vercel.app/api/character/121"
   },
   {
-    "id": 498,
-    "name": "Fascist Rick",
-    "status": "Dead",
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/498.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/317.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/317"
+  },
+  {
+    "id": 445,
+    "name": "Jerryboree Keeper",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/445.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/445"
+  },
+  {
+    "id": 507,
+    "name": "Fascist Teddy Bear Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Teddy Bear Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/81"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/507.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/498"
+    "url": "https://therickandmortyapi.vercel.app/api/character/507"
+  },
+  {
+    "id": 811,
+    "name": "Re-Build-a-Morty Morty",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/811.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/811"
   }
 ]
