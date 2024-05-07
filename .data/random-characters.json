@@ -1,98 +1,98 @@
 [
   {
-    "id": 91,
-    "name": "David Letterman",
+    "id": 142,
+    "name": "Gibble Snake",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Resort Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/142.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/142"
+  },
+  {
+    "id": 340,
+    "name": "Supernova",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/91.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/340.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/91"
+    "url": "https://therickandmortyapi.vercel.app/api/character/340"
   },
   {
-    "id": 164,
-    "name": "Insurance Rick",
-    "status": "unknown",
-    "species": "Human",
+    "id": 531,
+    "name": "Tony",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Mount Space Everest",
+      "url": "https://therickandmortyapi.vercel.app/api/location/86"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/164.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/531.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/164"
+    "url": "https://therickandmortyapi.vercel.app/api/character/531"
   },
   {
-    "id": 239,
-    "name": "Mr. Goldenfold",
+    "id": 753,
+    "name": "Space Cruiser",
     "status": "Alive",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/239.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/239"
-  },
-  {
-    "id": 327,
-    "name": "Slow Mobius",
-    "status": "Alive",
-    "species": "Humanoid",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/327.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/753.jpeg",
     "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/327"
+    "url": "https://therickandmortyapi.vercel.app/api/character/753"
   },
   {
-    "id": 356,
-    "name": "Tom Randolph",
-    "status": "Alive",
-    "species": "Human",
+    "id": 785,
+    "name": "Memory Geardude",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/785.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/356"
+    "url": "https://therickandmortyapi.vercel.app/api/character/785"
   },
   {
-    "id": 551,
-    "name": "Monitor Lord",
+    "id": 795,
+    "name": "Palicki",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Normal Size Bug Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/123"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/551.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/795.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/551"
+    "url": "https://therickandmortyapi.vercel.app/api/character/795"
   }
 ]
