@@ -1,98 +1,98 @@
 [
   {
-    "id": 142,
-    "name": "Gibble Snake",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/142.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/142"
-  },
-  {
-    "id": 340,
-    "name": "Supernova",
+    "id": 38,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/340.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/38.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/340"
+    "url": "https://therickandmortyapi.vercel.app/api/character/38"
   },
   {
-    "id": 531,
-    "name": "Tony",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Mount Space Everest",
-      "url": "https://therickandmortyapi.vercel.app/api/location/86"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/531.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/531"
-  },
-  {
-    "id": 753,
-    "name": "Space Cruiser",
+    "id": 247,
+    "name": "Amy Poopybutthole",
     "status": "Alive",
-    "species": "Robot",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/247.jpeg",
+    "episode": {
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/247"
+  },
+  {
+    "id": 285,
+    "name": "Rick Prime",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/285.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/285"
+  },
+  {
+    "id": 469,
+    "name": "Morphizer-XE Customer Support",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/753.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/469.jpeg",
     "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/753"
+    "url": "https://therickandmortyapi.vercel.app/api/character/469"
   },
   {
-    "id": 785,
-    "name": "Memory Geardude",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 477,
+    "name": "Hairdresser Rick",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/785.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/477.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/785"
+    "url": "https://therickandmortyapi.vercel.app/api/character/477"
   },
   {
-    "id": 795,
-    "name": "Palicki",
+    "id": 668,
+    "name": "Defiance Squanchette",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Normal Size Bug Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/123"
+      "name": "Defiance's Ship",
+      "url": "https://therickandmortyapi.vercel.app/api/location/107"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/795.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/668.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/795"
+    "url": "https://therickandmortyapi.vercel.app/api/character/668"
   }
 ]
