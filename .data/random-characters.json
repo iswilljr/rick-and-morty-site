@@ -1,51 +1,35 @@
 [
   {
-    "id": 22,
-    "name": "Aqua Rick",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/22.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/22"
-  },
-  {
-    "id": 261,
-    "name": "Photography Cyborg",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/261.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/261"
-  },
-  {
-    "id": 274,
-    "name": "Quantum Rick",
-    "status": "unknown",
+    "id": 110,
+    "name": "Eli",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/274.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/110.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/274"
+    "url": "https://therickandmortyapi.vercel.app/api/character/110"
+  },
+  {
+    "id": 323,
+    "name": "Slaveowner",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/323.jpeg",
+    "episode": {
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/323"
   },
   {
     "id": 357,
@@ -64,35 +48,51 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/357"
   },
   {
-    "id": 528,
-    "name": "Monogatron Leader",
+    "id": 426,
+    "name": "Greasy Grandma",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+      "name": "Greasy Grandma World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/73"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/528.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/426.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/528"
+    "url": "https://therickandmortyapi.vercel.app/api/character/426"
   },
   {
-    "id": 742,
-    "name": "Bruce Chutback",
-    "status": "Alive",
+    "id": 663,
+    "name": "Reggie",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/663.jpeg",
+    "episode": {
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/663"
+  },
+  {
+    "id": 732,
+    "name": "Blazen",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/742.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/732.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/742"
+    "url": "https://therickandmortyapi.vercel.app/api/character/732"
   }
 ]
