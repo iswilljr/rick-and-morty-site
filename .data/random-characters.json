@@ -1,98 +1,98 @@
 [
   {
-    "id": 361,
-    "name": "Toxic Rick",
+    "id": 144,
+    "name": "Glenn",
     "status": "Dead",
-    "species": "Humanoid",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Customs",
+      "url": "https://therickandmortyapi.vercel.app/api/location/38"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/361.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/144.jpeg",
     "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/361"
+    "url": "https://therickandmortyapi.vercel.app/api/character/144"
   },
   {
-    "id": 555,
-    "name": "Randotron",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/555.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/555"
-  },
-  {
-    "id": 633,
-    "name": "Train Cops",
+    "id": 177,
+    "name": "Jerry Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/34"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/633.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/177.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/633"
+    "url": "https://therickandmortyapi.vercel.app/api/character/177"
   },
   {
-    "id": 663,
-    "name": "Reggie",
+    "id": 236,
+    "name": "Mr. Beauregard",
     "status": "Dead",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/663.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/663"
-  },
-  {
-    "id": 745,
-    "name": "Cenobite",
-    "status": "unknown",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/745.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/745"
-  },
-  {
-    "id": 760,
-    "name": "Turkey Rick",
-    "status": "Alive",
-    "species": "Animal",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/760.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/236.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/760"
+    "url": "https://therickandmortyapi.vercel.app/api/character/236"
+  },
+  {
+    "id": 472,
+    "name": "Baby Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/472.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/472"
+  },
+  {
+    "id": 481,
+    "name": "Retired General Rick",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/481.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/481"
+  },
+  {
+    "id": 581,
+    "name": "Anchosnake",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/581.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/581"
   }
 ]
