@@ -1,98 +1,98 @@
 [
   {
-    "id": 7,
-    "name": "Abradolf Lincler",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Testicle Monster Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/21"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/7.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/7"
-  },
-  {
-    "id": 213,
-    "name": "Magnesium-J",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/213.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/213"
-  },
-  {
-    "id": 233,
-    "name": "Morty K-22",
+    "id": 201,
+    "name": "Leonard Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/233.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/201.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/233"
+    "url": "https://therickandmortyapi.vercel.app/api/character/201"
   },
   {
-    "id": 234,
-    "name": "Morty Smith",
+    "id": 375,
+    "name": "Vance Maximus",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/234.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/375.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/234"
+    "url": "https://therickandmortyapi.vercel.app/api/character/375"
   },
   {
-    "id": 335,
-    "name": "Steve",
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/384.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/384"
+  },
+  {
+    "id": 538,
+    "name": "Priest Witherspoon",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/335.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/538.jpeg",
     "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/335"
+    "url": "https://therickandmortyapi.vercel.app/api/character/538"
   },
   {
-    "id": 357,
-    "name": "Tommy's Clone",
+    "id": 624,
+    "name": "Snuffles",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/624.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/624"
+  },
+  {
+    "id": 691,
+    "name": "Scarecrow Beth",
+    "status": "Dead",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/357.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/691.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/357"
+    "url": "https://therickandmortyapi.vercel.app/api/character/691"
   }
 ]
