@@ -1,98 +1,98 @@
 [
   {
-    "id": 27,
-    "name": "Artist Morty",
+    "id": 118,
+    "name": "Evil Morty",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/27.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/118.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/27"
+    "url": "https://therickandmortyapi.vercel.app/api/character/118"
   },
   {
-    "id": 190,
-    "name": "Keara",
-    "status": "Alive",
+    "id": 262,
+    "name": "Photography Raptor",
+    "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/190.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/262.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/190"
+    "url": "https://therickandmortyapi.vercel.app/api/character/262"
   },
   {
-    "id": 314,
-    "name": "Shmlamantha Shmlicelli",
+    "id": 327,
+    "name": "Slow Mobius",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/314.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/327.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/314"
+    "url": "https://therickandmortyapi.vercel.app/api/character/327"
   },
   {
-    "id": 345,
-    "name": "Teacher Rick",
-    "status": "Alive",
+    "id": 484,
+    "name": "Sheik Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/345.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/484.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/345"
+    "url": "https://therickandmortyapi.vercel.app/api/character/484"
   },
   {
-    "id": 514,
-    "name": "Public Opinion Judge",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/514.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/514"
-  },
-  {
-    "id": 671,
-    "name": "New Improved Galactic Federation Guard",
+    "id": 532,
+    "name": "Tony’s Wife",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "NX-5 Planet Remover",
-      "url": "https://therickandmortyapi.vercel.app/api/location/105"
+      "name": "Globaflyn",
+      "url": "https://therickandmortyapi.vercel.app/api/location/87"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/671.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/532.jpeg",
     "episode": {
-      "name": "Star Mort: Rickturn of the Jerri",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/671"
+    "url": "https://therickandmortyapi.vercel.app/api/character/532"
+  },
+  {
+    "id": 635,
+    "name": "Darth Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/635.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/635"
   }
 ]
