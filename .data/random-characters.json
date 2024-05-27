@@ -1,98 +1,98 @@
 [
   {
-    "id": 295,
-    "name": "Riq IV",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/295.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/295"
-  },
-  {
-    "id": 366,
-    "name": "Trunk Morty",
+    "id": 134,
+    "name": "Garmanarnar",
     "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/366.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/366"
-  },
-  {
-    "id": 415,
-    "name": "Pro trunk people marriage guy",
-    "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/415.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/134.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/415"
+    "url": "https://therickandmortyapi.vercel.app/api/character/134"
   },
   {
-    "id": 428,
-    "name": "Phone-person",
+    "id": 177,
+    "name": "Jerry Smith",
     "status": "Alive",
-    "species": "Humanoid",
+    "species": "Human",
     "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/34"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/428.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/177.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/428"
+    "url": "https://therickandmortyapi.vercel.app/api/character/177"
   },
   {
-    "id": 577,
-    "name": "Snake Terminator",
-    "status": "unknown",
-    "species": "Robot",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/577.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/577"
-  },
-  {
-    "id": 690,
-    "name": "Scarecrow Morty",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 512,
+    "name": "Morty’s Lawyer",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/690.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/512.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/690"
+    "url": "https://therickandmortyapi.vercel.app/api/character/512"
+  },
+  {
+    "id": 525,
+    "name": "Glootie",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/525.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/525"
+  },
+  {
+    "id": 631,
+    "name": "Rick Sanchez",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/631.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/631"
+  },
+  {
+    "id": 750,
+    "name": "Mousetrap Nipples",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/750.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/750"
   }
 ]
