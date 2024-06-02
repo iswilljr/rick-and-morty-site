@@ -1,98 +1,98 @@
 [
   {
-    "id": 52,
-    "name": "Blue Footprint Guy",
-    "status": "Dead",
-    "species": "Human",
+    "id": 57,
+    "name": "Borpocian",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/52.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/57.jpeg",
     "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/52"
+    "url": "https://therickandmortyapi.vercel.app/api/character/57"
   },
   {
-    "id": 149,
-    "name": "Gordon Lunas",
-    "status": "Dead",
+    "id": 124,
+    "name": "Father Bob",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/124.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+    "url": "https://therickandmortyapi.vercel.app/api/character/124"
   },
   {
-    "id": 226,
-    "name": "Million Ants",
+    "id": 235,
+    "name": "Mortytown Loco",
     "status": "Dead",
-    "species": "Animal",
+    "species": "Human",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/226.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/235.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/226"
+    "url": "https://therickandmortyapi.vercel.app/api/character/235"
   },
   {
-    "id": 311,
-    "name": "Shimshamian",
+    "id": 537,
+    "name": "Maggie",
     "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/311.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/311"
-  },
-  {
-    "id": 534,
-    "name": "Tony's Dad",
-    "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/534.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/537.jpeg",
     "episode": {
       "name": "The Old Man and the Seat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/534"
+    "url": "https://therickandmortyapi.vercel.app/api/character/537"
   },
   {
-    "id": 776,
-    "name": "Gotron Pilot",
+    "id": 740,
+    "name": "Cirque du Soleil Zumanity Member",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/776.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/740.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/776"
+    "url": "https://therickandmortyapi.vercel.app/api/character/740"
+  },
+  {
+    "id": 811,
+    "name": "Re-Build-a-Morty Morty",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/811.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/811"
   }
 ]
