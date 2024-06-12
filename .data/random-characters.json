@@ -1,98 +1,98 @@
 [
   {
-    "id": 375,
-    "name": "Vance Maximus",
+    "id": 331,
+    "name": "Squanchy",
+    "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/331.jpeg",
+    "episode": {
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/331"
+  },
+  {
+    "id": 635,
+    "name": "Darth Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/635.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/635"
+  },
+  {
+    "id": 661,
+    "name": "Morty’s Girlfriend",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/661.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/661"
+  },
+  {
+    "id": 725,
+    "name": "Tony Galopagus",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/725.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/725"
+  },
+  {
+    "id": 765,
+    "name": "Native Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/765.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/765"
+  },
+  {
+    "id": 778,
+    "name": "Gotron Pilot",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/375.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/778.jpeg",
     "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/375"
-  },
-  {
-    "id": 385,
-    "name": "Yellow Shirt Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/385.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/385"
-  },
-  {
-    "id": 427,
-    "name": "Phone-person",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/427.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/427"
-  },
-  {
-    "id": 527,
-    "name": "Mothership Intern",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/527.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/527"
-  },
-  {
-    "id": 549,
-    "name": "Snake Arms",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/549.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/549"
-  },
-  {
-    "id": 709,
-    "name": "Dracula",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/709.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/709"
+    "url": "https://therickandmortyapi.vercel.app/api/character/778"
   }
 ]
