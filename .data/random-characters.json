@@ -1,98 +1,98 @@
 [
   {
-    "id": 47,
-    "name": "Birdperson",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/47.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/47"
-  },
-  {
-    "id": 65,
-    "name": "Chris",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Rick's Battery Microverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/24"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/65.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/65"
-  },
-  {
-    "id": 212,
-    "name": "Magma-Q",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/212.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/212"
-  },
-  {
-    "id": 287,
-    "name": "Rick D716",
+    "id": 43,
+    "name": "Big Morty",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/287.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/43.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/287"
+    "url": "https://therickandmortyapi.vercel.app/api/character/43"
   },
   {
-    "id": 663,
-    "name": "Reggie",
+    "id": 150,
+    "name": "Cornvelious Daniel",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Galactic Federation Prison",
+      "url": "https://therickandmortyapi.vercel.app/api/location/39"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/150.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/150"
+  },
+  {
+    "id": 193,
+    "name": "King Jellybean",
     "status": "Dead",
     "species": "Mythological Creature",
     "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/663.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/193.jpeg",
     "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/663"
+    "url": "https://therickandmortyapi.vercel.app/api/character/193"
   },
   {
-    "id": 791,
-    "name": "Harold's Wife",
-    "status": "Alive",
-    "species": "Alien",
+    "id": 359,
+    "name": "Tortured Morty",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/791.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/359.jpeg",
     "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/791"
+    "url": "https://therickandmortyapi.vercel.app/api/character/359"
+  },
+  {
+    "id": 409,
+    "name": "Mr. Sneezy",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/409.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/409"
+  },
+  {
+    "id": 809,
+    "name": "Pussifer",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/809.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/809"
   }
 ]
