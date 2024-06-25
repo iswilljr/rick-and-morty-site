@@ -1,98 +1,98 @@
 [
   {
-    "id": 17,
-    "name": "Annie",
+    "id": 4,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
-    "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/17.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/17"
-  },
-  {
-    "id": 52,
-    "name": "Blue Footprint Guy",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/52.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/52"
-  },
-  {
-    "id": 466,
-    "name": "SEAL Team Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/466.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/466"
-  },
-  {
-    "id": 587,
-    "name": "Cavesnake",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/587.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/587"
-  },
-  {
-    "id": 651,
-    "name": "Crystal Dealer",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Alien Acid Plant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/102"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/651.jpeg",
-    "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/651"
-  },
-  {
-    "id": 706,
-    "name": "Squid Costume Morty",
-    "status": "Dead",
-    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/706.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/4.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/706"
+    "url": "https://therickandmortyapi.vercel.app/api/character/4"
+  },
+  {
+    "id": 191,
+    "name": "Kevin",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/191.jpeg",
+    "episode": {
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/191"
+  },
+  {
+    "id": 207,
+    "name": "Loggins",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/207.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/207"
+  },
+  {
+    "id": 507,
+    "name": "Fascist Teddy Bear Rick",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Fascist Teddy Bear Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/81"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/507.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/507"
+  },
+  {
+    "id": 604,
+    "name": "Female Scorpion",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/604.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/604"
+  },
+  {
+    "id": 625,
+    "name": "Storylord",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/625.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/625"
   }
 ]
