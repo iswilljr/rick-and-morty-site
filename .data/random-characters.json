@@ -1,98 +1,98 @@
 [
   {
-    "id": 16,
-    "name": "Amish Cyborg",
+    "id": 6,
+    "name": "Abadango Cluster Princess",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Abadango",
+      "url": "https://therickandmortyapi.vercel.app/api/location/2"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/6.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/6"
+  },
+  {
+    "id": 63,
+    "name": "Centaur",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/63.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/63"
+  },
+  {
+    "id": 104,
+    "name": "Doom-Nomitron",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Dorian 5",
+      "url": "https://therickandmortyapi.vercel.app/api/location/29"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/16.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/104.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/16"
+    "url": "https://therickandmortyapi.vercel.app/api/character/104"
   },
   {
-    "id": 162,
-    "name": "Ice-T",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/162.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/162"
-  },
-  {
-    "id": 267,
-    "name": "Plumber Rick",
-    "status": "Alive",
+    "id": 359,
+    "name": "Tortured Morty",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/267.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/267"
-  },
-  {
-    "id": 349,
-    "name": "The Scientist Formerly Known as Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/349.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/359.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/349"
+    "url": "https://therickandmortyapi.vercel.app/api/character/359"
   },
   {
-    "id": 459,
-    "name": "Butthole Ice Cream Guy",
-    "status": "Alive",
+    "id": 494,
+    "name": "Crystal Poacher",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Forbodulon Prime",
+      "url": "https://therickandmortyapi.vercel.app/api/location/79"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/459.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/494.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/459"
+    "url": "https://therickandmortyapi.vercel.app/api/character/494"
   },
   {
-    "id": 820,
-    "name": "Redhead Morty",
-    "status": "Dead",
+    "id": 659,
+    "name": "Morty’s Father-in-law",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Near-Duplicate Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/104"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/820.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/659.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/820"
+    "url": "https://therickandmortyapi.vercel.app/api/character/659"
   }
 ]
