@@ -1,98 +1,98 @@
 [
   {
-    "id": 323,
-    "name": "Slaveowner",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Post-Apocalyptic Earth",
-      "url": "https://therickandmortyapi.vercel.app/api/location/8"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/323.jpeg",
-    "episode": {
-      "name": "Rickmancing the Stone",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/323"
-  },
-  {
-    "id": 483,
-    "name": "Steve Jobs Rick",
+    "id": 54,
+    "name": "Bobby Moynihan",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/483.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/54.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/483"
+    "url": "https://therickandmortyapi.vercel.app/api/character/54"
   },
   {
-    "id": 559,
-    "name": "Gramuflackian Anchorman",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Gramuflack",
-      "url": "https://therickandmortyapi.vercel.app/api/location/93"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/559.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/559"
-  },
-  {
-    "id": 632,
-    "name": "Train Cop",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/632.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/632"
-  },
-  {
-    "id": 727,
-    "name": "Professor Shabooboo",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/727.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/727"
-  },
-  {
-    "id": 796,
-    "name": "Sarge",
+    "id": 258,
+    "name": "Pawnshop Clerk",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Normal Size Bug Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/123"
+      "name": "Pawn Shop Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/55"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/796.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/258.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/796"
+    "url": "https://therickandmortyapi.vercel.app/api/character/258"
+  },
+  {
+    "id": 350,
+    "name": "Thomas Lipkip",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Froopyland",
+      "url": "https://therickandmortyapi.vercel.app/api/location/63"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/350.jpeg",
+    "episode": {
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/350"
+  },
+  {
+    "id": 381,
+    "name": "Woman Rick",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/381.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/381"
+  },
+  {
+    "id": 398,
+    "name": "Accountant dog",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Snuffles' Dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/70"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/398.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/398"
+  },
+  {
+    "id": 421,
+    "name": "Rich Plutonian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/421.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/421"
   }
 ]
