@@ -1,98 +1,98 @@
 [
   {
-    "id": 411,
-    "name": "Alien Mexican Armada",
-    "status": "unknown",
-    "species": "Alien",
+    "id": 88,
+    "name": "Cynthia",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/411.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/88.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/411"
+    "url": "https://therickandmortyapi.vercel.app/api/character/88"
   },
   {
-    "id": 510,
-    "name": "Anchorman",
+    "id": 173,
+    "name": "Jan-Michael Vincent",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/510.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/173.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/510"
+    "url": "https://therickandmortyapi.vercel.app/api/character/173"
   },
   {
-    "id": 583,
-    "name": "80's snake",
-    "status": "unknown",
-    "species": "Animal",
+    "id": 188,
+    "name": "Karen Entity",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/583.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/188.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/583"
+    "url": "https://therickandmortyapi.vercel.app/api/character/188"
   },
   {
-    "id": 650,
-    "name": "Crystal Dealer",
+    "id": 324,
+    "name": "Sleepy Gary",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Alien Acid Plant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/650.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/324.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/650"
+    "url": "https://therickandmortyapi.vercel.app/api/character/324"
   },
   {
-    "id": 739,
-    "name": "Cirque du Soleil Zumanity Member",
+    "id": 721,
+    "name": "Xing Ho",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/721.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/721"
+  },
+  {
+    "id": 754,
+    "name": "Coop",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/739.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/754.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/739"
-  },
-  {
-    "id": 752,
-    "name": "Changeformer",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Space Tahoe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/118"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/752.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/752"
+    "url": "https://therickandmortyapi.vercel.app/api/character/754"
   }
 ]
