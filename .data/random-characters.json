@@ -1,98 +1,98 @@
 [
   {
-    "id": 87,
-    "name": "Cynthia",
-    "status": "Dead",
+    "id": 190,
+    "name": "Keara",
+    "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/87.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/190.jpeg",
     "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+      "name": "The ABC's of Beth",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/87"
+    "url": "https://therickandmortyapi.vercel.app/api/character/190"
   },
   {
-    "id": 94,
-    "name": "Diane Sanchez",
+    "id": 226,
+    "name": "Million Ants",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/226.jpeg",
+    "episode": {
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/226"
+  },
+  {
+    "id": 294,
+    "name": "Ricktiminus Sancheziminius",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Rick's Memories",
       "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/94.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/294.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/94"
+    "url": "https://therickandmortyapi.vercel.app/api/character/294"
   },
   {
-    "id": 201,
-    "name": "Leonard Smith",
+    "id": 388,
+    "name": "Zeep Xanflorp",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Rick's Battery Microverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/24"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/201.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/388.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/201"
+    "url": "https://therickandmortyapi.vercel.app/api/character/388"
   },
   {
-    "id": 616,
-    "name": "Phantom of the Opera Fan",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/616.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/616"
-  },
-  {
-    "id": 641,
-    "name": "Bruce",
+    "id": 560,
+    "name": "Gramuflackian General",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/641.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/560.jpeg",
     "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/641"
+    "url": "https://therickandmortyapi.vercel.app/api/character/560"
   },
   {
-    "id": 783,
-    "name": "Memory Rick",
-    "status": "Dead",
-    "species": "Human",
+    "id": 790,
+    "name": "Harold (Garbage Goober)",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/783.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/790.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/783"
+    "url": "https://therickandmortyapi.vercel.app/api/character/790"
   }
 ]
