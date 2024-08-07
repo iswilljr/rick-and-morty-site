@@ -1,98 +1,98 @@
 [
   {
-    "id": 244,
-    "name": "Mr. Poopybutthole",
+    "id": 265,
+    "name": "Pickle Rick",
     "status": "Alive",
-    "species": "Poopybutthole",
+    "species": "unknown",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/244.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/265.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "Pickle Rick",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/244"
+    "url": "https://therickandmortyapi.vercel.app/api/character/265"
   },
   {
-    "id": 332,
-    "name": "Stacy",
+    "id": 297,
+    "name": "Risotto's Tentacled Henchman",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Resort Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/297.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/297"
+  },
+  {
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
     "status": "Alive",
     "species": "Human",
     "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/317.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/317"
+  },
+  {
+    "id": 562,
+    "name": "Balthromaw",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/332.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/562.jpeg",
     "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/332"
+    "url": "https://therickandmortyapi.vercel.app/api/character/562"
   },
   {
-    "id": 424,
-    "name": "Pizza-person",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Pizza Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/71"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/424.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/424"
-  },
-  {
-    "id": 462,
-    "name": "Teleportation's Responsible Rick",
+    "id": 583,
+    "name": "80's snake",
     "status": "unknown",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/462.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/583.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/462"
+    "url": "https://therickandmortyapi.vercel.app/api/character/583"
   },
   {
-    "id": 465,
-    "name": "SEAL Team Rick",
-    "status": "Dead",
+    "id": 733,
+    "name": "Kathy Ireland",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/465.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/733.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/465"
-  },
-  {
-    "id": 488,
-    "name": "Colonial Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/488.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/488"
+    "url": "https://therickandmortyapi.vercel.app/api/character/733"
   }
 ]
