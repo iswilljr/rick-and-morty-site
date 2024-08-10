@@ -1,98 +1,98 @@
 [
   {
-    "id": 24,
-    "name": "Armagheadon",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Signus 5 Expanse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/22"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/24.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/24"
-  },
-  {
-    "id": 188,
-    "name": "Karen Entity",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Unity's Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/28"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/188.jpeg",
-    "episode": {
-      "name": "Auto Erotic Assimilation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/188"
-  },
-  {
-    "id": 343,
-    "name": "Tammy Guetermann",
-    "status": "Alive",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/343.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/343"
-  },
-  {
-    "id": 659,
-    "name": "Morty’s Father-in-law",
+    "id": 317,
+    "name": "Shmlonathan Shmlower",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Near-Duplicate Reality",
-      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/659.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/317.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/317"
+  },
+  {
+    "id": 368,
+    "name": "Truth Tortoise",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/368.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/368"
+  },
+  {
+    "id": 386,
+    "name": "Zarbadar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/386.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/386"
+  },
+  {
+    "id": 598,
+    "name": "Biblesaurus",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/598.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/598"
+  },
+  {
+    "id": 661,
+    "name": "Morty’s Girlfriend",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/661.jpeg",
     "episode": {
       "name": "The Vat of Acid Episode",
       "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/659"
+    "url": "https://therickandmortyapi.vercel.app/api/character/661"
   },
   {
-    "id": 776,
-    "name": "Gotron Pilot",
+    "id": 700,
+    "name": "Wicker Summer",
     "status": "Dead",
-    "species": "Human",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/776.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/700.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/776"
-  },
-  {
-    "id": 792,
-    "name": "Alien Crow",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Avian Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/122"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/792.jpeg",
-    "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/792"
+    "url": "https://therickandmortyapi.vercel.app/api/character/700"
   }
 ]
