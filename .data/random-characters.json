@@ -1,98 +1,98 @@
 [
   {
-    "id": 39,
-    "name": "Beth Smith",
+    "id": 191,
+    "name": "Kevin",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/191.jpeg",
+    "episode": {
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/191"
+  },
+  {
+    "id": 227,
+    "name": "Mitch",
     "status": "Alive",
     "species": "Human",
-    "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/39.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/39"
-  },
-  {
-    "id": 226,
-    "name": "Million Ants",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/226.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/226"
-  },
-  {
-    "id": 356,
-    "name": "Tom Randolph",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/356"
-  },
-  {
-    "id": 361,
-    "name": "Toxic Rick",
-    "status": "Dead",
-    "species": "Humanoid",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/361.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/227.jpeg",
     "episode": {
       "name": "Rest and Ricklaxation",
       "url": "https://therickandmortyapi.vercel.app/api/episode/27"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/361"
+    "url": "https://therickandmortyapi.vercel.app/api/character/227"
   },
   {
-    "id": 497,
-    "name": "Hologram Rick",
-    "status": "Dead",
+    "id": 264,
+    "name": "Pichael Thompson",
+    "status": "Alive",
     "species": "Humanoid",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/497.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/264.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/497"
+    "url": "https://therickandmortyapi.vercel.app/api/character/264"
   },
   {
-    "id": 635,
-    "name": "Darth Poopybutthole",
+    "id": 313,
+    "name": "Shleemypants",
     "status": "Alive",
-    "species": "Poopybutthole",
+    "species": "unknown",
     "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/635.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/313.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/635"
+    "url": "https://therickandmortyapi.vercel.app/api/character/313"
+  },
+  {
+    "id": 314,
+    "name": "Shmlamantha Shmlicelli",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/314.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/314"
+  },
+  {
+    "id": 560,
+    "name": "Gramuflackian General",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Gramuflack",
+      "url": "https://therickandmortyapi.vercel.app/api/location/93"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/560.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/560"
   }
 ]
