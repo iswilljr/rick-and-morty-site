@@ -1,98 +1,98 @@
 [
   {
-    "id": 11,
-    "name": "Albert Einstein",
+    "id": 46,
+    "name": "Bill",
+    "status": "unknown",
+    "species": "Animal",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/46.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/46"
+  },
+  {
+    "id": 388,
+    "name": "Zeep Xanflorp",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Rick's Battery Microverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/24"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/388.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/388"
+  },
+  {
+    "id": 427,
+    "name": "Phone-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Phone Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/72"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/427.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/427"
+  },
+  {
+    "id": 611,
+    "name": "Leah",
+    "status": "Alive",
+    "species": "unknown",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/611.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/611"
+  },
+  {
+    "id": 713,
+    "name": "Too Cute to Murder Rick",
     "status": "Dead",
-    "species": "Human",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/11.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/713.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/11"
+    "url": "https://therickandmortyapi.vercel.app/api/character/713"
   },
   {
-    "id": 215,
-    "name": "Maximums Rickimus",
+    "id": 807,
+    "name": "Beth Sanchez",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Rick's Memories",
       "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/215.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/807.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/215"
-  },
-  {
-    "id": 332,
-    "name": "Stacy",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/332.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/332"
-  },
-  {
-    "id": 376,
-    "name": "Veronica Ann Bennet",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/location/40"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/376.jpeg",
-    "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/376"
-  },
-  {
-    "id": 548,
-    "name": "Truckula",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/548.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/548"
-  },
-  {
-    "id": 754,
-    "name": "Coop",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/754.jpeg",
-    "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/754"
+    "url": "https://therickandmortyapi.vercel.app/api/character/807"
   }
 ]
