@@ -1,98 +1,98 @@
 [
   {
-    "id": 69,
-    "name": "Commander Rick",
-    "status": "Dead",
+    "id": 158,
+    "name": "Hookah Alien",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Customs",
+      "url": "https://therickandmortyapi.vercel.app/api/location/38"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/158.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/158"
+  },
+  {
+    "id": 336,
+    "name": "Steven Phillips",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/336.jpeg",
+    "episode": {
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/336"
+  },
+  {
+    "id": 472,
+    "name": "Baby Rick",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/69.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/472.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/69"
+    "url": "https://therickandmortyapi.vercel.app/api/character/472"
   },
   {
-    "id": 189,
-    "name": "Katarina",
-    "status": "Dead",
+    "id": 538,
+    "name": "Priest Witherspoon",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/189.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/538.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/189"
+    "url": "https://therickandmortyapi.vercel.app/api/character/538"
   },
   {
-    "id": 270,
-    "name": "Prince Nebulon",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/270.jpeg",
-    "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/270"
-  },
-  {
-    "id": 282,
-    "name": "Revolio Clockberg Jr.",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Gear World",
-      "url": "https://therickandmortyapi.vercel.app/api/location/57"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/282.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/282"
-  },
-  {
-    "id": 397,
-    "name": "Fido",
+    "id": 661,
+    "name": "Morty’s Girlfriend",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Human",
     "location": {
-      "name": "Snuffles' Dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/70"
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/397.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/661.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/397"
+    "url": "https://therickandmortyapi.vercel.app/api/character/661"
   },
   {
-    "id": 574,
-    "name": "Snake Lincoln",
+    "id": 693,
+    "name": "Glockenspiel Beth",
     "status": "Dead",
-    "species": "Animal",
+    "species": "Robot",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/574.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/693.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/574"
+    "url": "https://therickandmortyapi.vercel.app/api/character/693"
   }
 ]
