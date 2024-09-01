@@ -1,98 +1,98 @@
 [
   {
-    "id": 289,
-    "name": "Rick D716-C",
+    "id": 150,
+    "name": "Cornvelious Daniel",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Galactic Federation Prison",
+      "url": "https://therickandmortyapi.vercel.app/api/location/39"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/150.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/150"
+  },
+  {
+    "id": 163,
+    "name": "Ideal Jerry",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/163.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/163"
+  },
+  {
+    "id": 211,
+    "name": "Ma-Sha",
     "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/location/40"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/211.jpeg",
+    "episode": {
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/211"
+  },
+  {
+    "id": 343,
+    "name": "Tammy Guetermann",
+    "status": "Alive",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/343.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/343"
+  },
+  {
+    "id": 484,
+    "name": "Sheik Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/289.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/484.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/289"
+    "url": "https://therickandmortyapi.vercel.app/api/character/484"
   },
   {
-    "id": 296,
-    "name": "Risotto Groupon",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/296.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/296"
-  },
-  {
-    "id": 305,
-    "name": "Scary Glenn",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/305.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/305"
-  },
-  {
-    "id": 359,
-    "name": "Tortured Morty",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/359.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/359"
-  },
-  {
-    "id": 539,
-    "name": "Richard",
+    "id": 757,
+    "name": "President's General",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/539.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/757.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/539"
-  },
-  {
-    "id": 574,
-    "name": "Snake Lincoln",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/574.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/574"
+    "url": "https://therickandmortyapi.vercel.app/api/character/757"
   }
 ]
