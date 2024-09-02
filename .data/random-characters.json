@@ -1,98 +1,98 @@
 [
   {
-    "id": 33,
-    "name": "Beebo",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Venzenulon 7",
-      "url": "https://therickandmortyapi.vercel.app/api/location/10"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/33.jpeg",
-    "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/33"
-  },
-  {
-    "id": 521,
-    "name": "Wasp Beth",
+    "id": 153,
+    "name": "Hamster In Butt",
     "status": "Alive",
     "species": "Animal",
     "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+      "name": "Hamster in Butt World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/41"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/521.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/153.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/153"
+  },
+  {
+    "id": 407,
+    "name": "Regular Tyrion Lannister",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/407.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/407"
+  },
+  {
+    "id": 500,
+    "name": "Fascist Mr. President",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/500.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/521"
+    "url": "https://therickandmortyapi.vercel.app/api/character/500"
   },
   {
-    "id": 563,
-    "name": "The Wizard",
-    "status": "Dead",
-    "species": "Human",
+    "id": 603,
+    "name": "Crossy",
+    "status": "Alive",
+    "species": "unknown",
     "location": {
-      "name": "Draygon",
-      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/563.jpeg",
-    "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/563"
-  },
-  {
-    "id": 595,
-    "name": "Floaty Non-Gasm Brotherhood Member",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/595.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/603.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/595"
+    "url": "https://therickandmortyapi.vercel.app/api/character/603"
   },
   {
-    "id": 650,
-    "name": "Crystal Dealer",
+    "id": 708,
+    "name": "Squid Costume Summer",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Robot",
     "location": {
-      "name": "Alien Acid Plant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/650.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/708.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/650"
+    "url": "https://therickandmortyapi.vercel.app/api/character/708"
   },
   {
-    "id": 782,
-    "name": "Memory Squanchy",
+    "id": 732,
+    "name": "Blazen",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/782.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/732.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/782"
+    "url": "https://therickandmortyapi.vercel.app/api/character/732"
   }
 ]
