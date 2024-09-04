@@ -1,98 +1,98 @@
 [
   {
-    "id": 46,
-    "name": "Bill",
-    "status": "unknown",
-    "species": "Animal",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/46.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/46"
-  },
-  {
-    "id": 79,
-    "name": "Crab Spider",
-    "status": "Alive",
+    "id": 16,
+    "name": "Amish Cyborg",
+    "status": "Dead",
     "species": "Alien",
-    "location": {
-      "name": "Hideout Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/27"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/79.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/79"
-  },
-  {
-    "id": 182,
-    "name": "Jim",
-    "status": "Alive",
-    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/182.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/16.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/182"
+    "url": "https://therickandmortyapi.vercel.app/api/character/16"
   },
   {
-    "id": 281,
-    "name": "Reverse Rick Outrage",
+    "id": 84,
+    "name": "Cult Leader Morty",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Hideout Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/27"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/84.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/84"
+  },
+  {
+    "id": 150,
+    "name": "Cornvelious Daniel",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Galactic Federation Prison",
+      "url": "https://therickandmortyapi.vercel.app/api/location/39"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/150.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/150"
+  },
+  {
+    "id": 386,
+    "name": "Zarbadar Gloonch",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/386.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/386"
+  },
+  {
+    "id": 461,
+    "name": "Communication's Responsible Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/281.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/461.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/281"
+    "url": "https://therickandmortyapi.vercel.app/api/character/461"
   },
   {
-    "id": 302,
-    "name": "Ruben",
-    "status": "Dead",
-    "species": "Human",
+    "id": 556,
+    "name": "Hephaestus",
+    "status": "Alive",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/302.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/556.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/302"
-  },
-  {
-    "id": 591,
-    "name": "High Pilot",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/591.jpeg",
-    "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/591"
+    "url": "https://therickandmortyapi.vercel.app/api/character/556"
   }
 ]
