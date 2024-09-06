@@ -1,98 +1,98 @@
 [
   {
-    "id": 6,
-    "name": "Abadango Cluster Princess",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Abadango",
-      "url": "https://therickandmortyapi.vercel.app/api/location/2"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/6.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/6"
-  },
-  {
-    "id": 15,
-    "name": "Alien Rick",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/15.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/15"
-  },
-  {
-    "id": 22,
-    "name": "Aqua Rick",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/22.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/22"
-  },
-  {
-    "id": 37,
-    "name": "Beth Sanchez",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/37.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/37"
-  },
-  {
-    "id": 300,
-    "name": "Roger",
+    "id": 97,
+    "name": "Gonorrhea",
     "status": "Dead",
-    "species": "Human",
+    "species": "Disease",
     "location": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/300.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/97.jpeg",
     "episode": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/300"
+    "url": "https://therickandmortyapi.vercel.app/api/character/97"
   },
   {
-    "id": 576,
-    "name": "Snake Linguist",
-    "status": "unknown",
-    "species": "Animal",
+    "id": 203,
+    "name": "Lil B",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/576.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/203.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/576"
+    "url": "https://therickandmortyapi.vercel.app/api/character/203"
+  },
+  {
+    "id": 437,
+    "name": "Michael",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/437.jpeg",
+    "episode": {
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/437"
+  },
+  {
+    "id": 473,
+    "name": "Bartender Morty",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/473.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/473"
+  },
+  {
+    "id": 513,
+    "name": "Judge",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/513.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/513"
+  },
+  {
+    "id": 659,
+    "name": "Morty’s Father-in-law",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Near-Duplicate Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/659.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/659"
   }
 ]
