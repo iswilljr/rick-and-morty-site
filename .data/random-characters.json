@@ -1,98 +1,98 @@
 [
   {
-    "id": 97,
-    "name": "Gonorrhea",
+    "id": 43,
+    "name": "Big Morty",
     "status": "Dead",
-    "species": "Disease",
+    "species": "Human",
     "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/97.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/43.jpeg",
     "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/97"
+    "url": "https://therickandmortyapi.vercel.app/api/character/43"
   },
   {
-    "id": 203,
-    "name": "Lil B",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 380,
+    "name": "Unknown Rick",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/203.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/380.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/203"
+    "url": "https://therickandmortyapi.vercel.app/api/character/380"
   },
   {
-    "id": 437,
-    "name": "Michael",
+    "id": 443,
+    "name": "Tank Top Jerry",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/437.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/443.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/437"
+    "url": "https://therickandmortyapi.vercel.app/api/character/443"
   },
   {
-    "id": 473,
-    "name": "Bartender Morty",
+    "id": 472,
+    "name": "Baby Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/473.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/472.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/473"
+    "url": "https://therickandmortyapi.vercel.app/api/character/472"
   },
   {
-    "id": 513,
-    "name": "Judge",
-    "status": "Dead",
-    "species": "Human",
+    "id": 520,
+    "name": "Wasp Jerry",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/513.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/520.jpeg",
     "episode": {
       "name": "Edge of Tomorty: Rick, Die, Rickpeat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/513"
+    "url": "https://therickandmortyapi.vercel.app/api/character/520"
   },
   {
-    "id": 659,
-    "name": "Morty’s Father-in-law",
+    "id": 628,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Near-Duplicate Reality",
-      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/659.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/628.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/659"
+    "url": "https://therickandmortyapi.vercel.app/api/character/628"
   }
 ]
