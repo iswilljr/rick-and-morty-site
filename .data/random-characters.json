@@ -1,98 +1,98 @@
 [
   {
-    "id": 14,
-    "name": "Alien Morty",
+    "id": 152,
+    "name": "Hammerhead Morty",
     "status": "unknown",
-    "species": "Alien",
+    "species": "Humanoid",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/14.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/152.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/14"
+    "url": "https://therickandmortyapi.vercel.app/api/character/152"
   },
   {
-    "id": 18,
-    "name": "Antenna Morty",
-    "status": "Alive",
+    "id": 187,
+    "name": "Juggling Rick",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/18.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/18"
-  },
-  {
-    "id": 159,
-    "name": "Hunter",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Giant Telepathic Spiders Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/42"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/159.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/159"
-  },
-  {
-    "id": 415,
-    "name": "Pro trunk people marriage guy",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/415.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/415"
-  },
-  {
-    "id": 476,
-    "name": "Flower Morty",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/476.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/187.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/476"
+    "url": "https://therickandmortyapi.vercel.app/api/character/187"
   },
   {
-    "id": 694,
-    "name": "Glockenspiel Rick",
+    "id": 249,
+    "name": "Mrs. Sanchez",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "unknown",
+      "url": ""
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/249.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/249"
+  },
+  {
+    "id": 296,
+    "name": "Risotto Groupon",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Alien",
+    "location": {
+      "name": "Resort Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/296.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/296"
+  },
+  {
+    "id": 365,
+    "name": "Tricia Lange",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/694.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/365.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/694"
+    "url": "https://therickandmortyapi.vercel.app/api/character/365"
+  },
+  {
+    "id": 786,
+    "name": "Birdperson & Tammy's Child",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/786.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/786"
   }
 ]
