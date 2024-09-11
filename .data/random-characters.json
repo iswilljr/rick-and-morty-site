@@ -1,98 +1,98 @@
 [
   {
-    "id": 152,
-    "name": "Hammerhead Morty",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 29,
+    "name": "Baby Legs",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/152.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/29.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/152"
+    "url": "https://therickandmortyapi.vercel.app/api/character/29"
   },
   {
-    "id": 187,
-    "name": "Juggling Rick",
-    "status": "unknown",
+    "id": 487,
+    "name": "Visor Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/187.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/487.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/187"
+    "url": "https://therickandmortyapi.vercel.app/api/character/487"
   },
   {
-    "id": 249,
-    "name": "Mrs. Sanchez",
-    "status": "unknown",
+    "id": 604,
+    "name": "Female Scorpion",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/604.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/604"
+  },
+  {
+    "id": 608,
+    "name": "Jesus Christ",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/249.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/608.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/249"
+    "url": "https://therickandmortyapi.vercel.app/api/character/608"
   },
   {
-    "id": 296,
-    "name": "Risotto Groupon",
+    "id": 639,
+    "name": "Uncle Nibbles",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/296.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/639.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/296"
+    "url": "https://therickandmortyapi.vercel.app/api/character/639"
   },
   {
-    "id": 365,
-    "name": "Tricia Lange",
-    "status": "Alive",
-    "species": "Human",
+    "id": 745,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/365.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/745.jpeg",
     "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/365"
-  },
-  {
-    "id": 786,
-    "name": "Birdperson & Tammy's Child",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/786.jpeg",
-    "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/786"
+    "url": "https://therickandmortyapi.vercel.app/api/character/745"
   }
 ]
