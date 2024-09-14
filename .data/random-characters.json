@@ -16,83 +16,83 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/6"
   },
   {
-    "id": 496,
-    "name": "Crystal Poacher",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Forbodulon Prime",
-      "url": "https://therickandmortyapi.vercel.app/api/location/79"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/496.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/496"
-  },
-  {
-    "id": 641,
-    "name": "Bruce",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/641.jpeg",
-    "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/641"
-  },
-  {
-    "id": 663,
-    "name": "Reggie",
-    "status": "Dead",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/663.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/663"
-  },
-  {
-    "id": 720,
-    "name": "Eddie",
-    "status": "Dead",
+    "id": 166,
+    "name": "Invisi-trooper",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/720.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/166.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/720"
+    "url": "https://therickandmortyapi.vercel.app/api/character/166"
   },
   {
-    "id": 813,
-    "name": "Crow Horse",
+    "id": 221,
+    "name": "Melissa",
     "status": "Alive",
-    "species": "Robot",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/813.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/221.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/813"
+    "url": "https://therickandmortyapi.vercel.app/api/character/221"
+  },
+  {
+    "id": 226,
+    "name": "Million Ants",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/226.jpeg",
+    "episode": {
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/226"
+  },
+  {
+    "id": 356,
+    "name": "Tom Randolph",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/356"
+  },
+  {
+    "id": 608,
+    "name": "Jesus Christ",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/608.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/608"
   }
 ]
