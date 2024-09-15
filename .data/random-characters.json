@@ -1,98 +1,98 @@
 [
   {
-    "id": 6,
-    "name": "Abadango Cluster Princess",
+    "id": 153,
+    "name": "Hamster In Butt",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Hamster in Butt World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/41"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/153.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/153"
+  },
+  {
+    "id": 283,
+    "name": "Rick D. Sanchez III",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/283.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/283"
+  },
+  {
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/530.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/530"
+  },
+  {
+    "id": 551,
+    "name": "Monitor Lord",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Abadango",
-      "url": "https://therickandmortyapi.vercel.app/api/location/2"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/6.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/551.jpeg",
     "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/6"
+    "url": "https://therickandmortyapi.vercel.app/api/character/551"
   },
   {
-    "id": 166,
-    "name": "Invisi-trooper",
-    "status": "Alive",
+    "id": 634,
+    "name": "Train Cops Instructor",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/634.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/634"
+  },
+  {
+    "id": 720,
+    "name": "Eddie",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/166.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/720.jpeg",
     "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/166"
-  },
-  {
-    "id": 221,
-    "name": "Melissa",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/221.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/221"
-  },
-  {
-    "id": 226,
-    "name": "Million Ants",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/226.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/226"
-  },
-  {
-    "id": 356,
-    "name": "Tom Randolph",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/356.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/356"
-  },
-  {
-    "id": 608,
-    "name": "Jesus Christ",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/608.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/608"
+    "url": "https://therickandmortyapi.vercel.app/api/character/720"
   }
 ]
