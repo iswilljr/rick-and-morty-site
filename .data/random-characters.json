@@ -1,19 +1,19 @@
 [
   {
-    "id": 79,
-    "name": "Crab Spider",
-    "status": "Alive",
+    "id": 33,
+    "name": "Beebo",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Hideout Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/27"
+      "name": "Venzenulon 7",
+      "url": "https://therickandmortyapi.vercel.app/api/location/10"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/79.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/33.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/79"
+    "url": "https://therickandmortyapi.vercel.app/api/character/33"
   },
   {
     "id": 142,
@@ -32,67 +32,67 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/142"
   },
   {
-    "id": 436,
-    "name": "Giant Testicle Monster",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Testicle Monster Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/21"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/436.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/436"
-  },
-  {
-    "id": 545,
-    "name": "Heist-Con Receptionist",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/545.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/545"
-  },
-  {
-    "id": 652,
-    "name": "SWAT Officer",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/652.jpeg",
-    "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/652"
-  },
-  {
-    "id": 709,
-    "name": "Dracula",
-    "status": "Alive",
+    "id": 368,
+    "name": "Truth Tortoise",
+    "status": "unknown",
     "species": "Mythological Creature",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/709.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/368.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/368"
+  },
+  {
+    "id": 623,
+    "name": "Shrek The Musical Fan",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/623.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/623"
+  },
+  {
+    "id": 691,
+    "name": "Scarecrow Beth",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/691.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/709"
+    "url": "https://therickandmortyapi.vercel.app/api/character/691"
+  },
+  {
+    "id": 803,
+    "name": "40 Years Old Morty",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/803.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/803"
   }
 ]
