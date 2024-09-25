@@ -1,98 +1,98 @@
 [
   {
-    "id": 92,
-    "name": "Davin",
+    "id": 283,
+    "name": "Rick D. Sanchez III",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/92.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/283.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/92"
+    "url": "https://therickandmortyapi.vercel.app/api/character/283"
   },
   {
-    "id": 124,
-    "name": "Father Bob",
+    "id": 294,
+    "name": "Ricktiminus Sancheziminius",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/294.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/294"
+  },
+  {
+    "id": 348,
+    "name": "The President of the Miniverse",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Zeep Xanflorp's Miniverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/49"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/348.jpeg",
+    "episode": {
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/348"
+  },
+  {
+    "id": 510,
+    "name": "Anchorman",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/124.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/510.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/124"
+    "url": "https://therickandmortyapi.vercel.app/api/character/510"
   },
   {
-    "id": 222,
-    "name": "Michael Denny and the Denny Singers",
+    "id": 547,
+    "name": "Glar",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/222.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/222"
-  },
-  {
-    "id": 379,
-    "name": "Wedding Bartender",
-    "status": "unknown",
     "species": "Alien",
     "location": {
-      "name": "Planet Squanch",
-      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/379.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/547.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/379"
+    "url": "https://therickandmortyapi.vercel.app/api/character/547"
   },
   {
-    "id": 724,
-    "name": "Planetina Buyer",
+    "id": 708,
+    "name": "Squid Costume Summer",
     "status": "Dead",
-    "species": "Human",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/724.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/708.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/724"
-  },
-  {
-    "id": 797,
-    "name": "Slartivartian",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Slartivart",
-      "url": "https://therickandmortyapi.vercel.app/api/location/124"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/797.jpeg",
-    "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/797"
+    "url": "https://therickandmortyapi.vercel.app/api/character/708"
   }
 ]
