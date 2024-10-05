@@ -1,98 +1,98 @@
 [
   {
-    "id": 190,
-    "name": "Keara",
-    "status": "Alive",
+    "id": 23,
+    "name": "Arcade Alien",
+    "status": "unknown",
     "species": "Alien",
+    "location": {
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/23.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/23"
+  },
+  {
+    "id": 40,
+    "name": "Beth's Mytholog",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/40.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/40"
+  },
+  {
+    "id": 58,
+    "name": "Brad",
+    "status": "Alive",
+    "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/190.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/58.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/190"
+    "url": "https://therickandmortyapi.vercel.app/api/character/58"
   },
   {
-    "id": 235,
-    "name": "Mortytown Loco",
-    "status": "Dead",
-    "species": "Human",
+    "id": 157,
+    "name": "Hole in the Wall Where the Men Can See it All",
+    "status": "unknown",
+    "species": "unknown",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/235.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/157.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/235"
+    "url": "https://therickandmortyapi.vercel.app/api/character/157"
   },
   {
-    "id": 454,
-    "name": "Arbolian Mentirososian",
-    "status": "Alive",
+    "id": 502,
+    "name": "Revolio Clockberg Jr.",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+      "name": "Earth (Fascist Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/77"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/454.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/502.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/454"
+    "url": "https://therickandmortyapi.vercel.app/api/character/502"
   },
   {
-    "id": 605,
-    "name": "Floaty Bloody Man’s Daughter",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/605.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/605"
-  },
-  {
-    "id": 626,
-    "name": "Tammy Guetermann",
+    "id": 600,
+    "name": "Cats Fan",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/626.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/600.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/626"
-  },
-  {
-    "id": 742,
-    "name": "Bruce Chutback",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/742.jpeg",
-    "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/742"
+    "url": "https://therickandmortyapi.vercel.app/api/character/600"
   }
 ]
