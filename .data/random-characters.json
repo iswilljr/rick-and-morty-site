@@ -1,98 +1,98 @@
 [
   {
-    "id": 371,
-    "name": "Tumblorkian",
+    "id": 2,
+    "name": "Morty Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/2.jpeg",
+    "episode": {
+      "name": "Pilot",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/2"
+  },
+  {
+    "id": 125,
+    "name": "Flansian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Plopstar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/66"
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/371.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/125.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/371"
+    "url": "https://therickandmortyapi.vercel.app/api/character/125"
   },
   {
-    "id": 398,
-    "name": "Accountant dog",
+    "id": 214,
+    "name": "Man Painted Silver Who Makes Robot Noises",
     "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Snuffles' Dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/70"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/398.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/398"
-  },
-  {
-    "id": 411,
-    "name": "Alien Mexican Armada",
-    "status": "unknown",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/411.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/214.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/411"
+    "url": "https://therickandmortyapi.vercel.app/api/character/214"
   },
   {
-    "id": 444,
-    "name": "Pink Polo Shirt Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/444.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/444"
-  },
-  {
-    "id": 746,
-    "name": "Cenobite",
+    "id": 523,
+    "name": "Boglin",
     "status": "unknown",
-    "species": "Mythological Creature",
+    "species": "unknown",
     "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/746.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/523.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/746"
+    "url": "https://therickandmortyapi.vercel.app/api/character/523"
   },
   {
-    "id": 816,
-    "name": "Party Rick",
-    "status": "Dead",
-    "species": "Human",
+    "id": 564,
+    "name": "Talking Cat",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/816.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/564.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/816"
+    "url": "https://therickandmortyapi.vercel.app/api/character/564"
+  },
+  {
+    "id": 693,
+    "name": "Glockenspiel Beth",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/693.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/693"
   }
 ]
