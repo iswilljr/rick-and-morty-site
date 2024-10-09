@@ -1,98 +1,98 @@
 [
   {
-    "id": 22,
-    "name": "Aqua Rick",
-    "status": "unknown",
-    "species": "Humanoid",
+    "id": 55,
+    "name": "Boobloosian",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/22.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/55.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/22"
+    "url": "https://therickandmortyapi.vercel.app/api/character/55"
   },
   {
-    "id": 164,
-    "name": "Insurance Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/164.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/164"
-  },
-  {
-    "id": 197,
-    "name": "Kyle",
+    "id": 364,
+    "name": "Tree Person",
     "status": "Dead",
     "species": "Humanoid",
     "location": {
       "name": "Kyle's Teenyverse",
       "url": "https://therickandmortyapi.vercel.app/api/location/50"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/197.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/364.jpeg",
     "episode": {
       "name": "The Ricks Must Be Crazy",
       "url": "https://therickandmortyapi.vercel.app/api/episode/17"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/197"
+    "url": "https://therickandmortyapi.vercel.app/api/character/364"
   },
   {
-    "id": 366,
-    "name": "Trunk Morty",
+    "id": 388,
+    "name": "Zeep Xanflorp",
     "status": "Alive",
     "species": "Humanoid",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Rick's Battery Microverse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/24"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/366.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/388.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/366"
+    "url": "https://therickandmortyapi.vercel.app/api/character/388"
   },
   {
-    "id": 458,
-    "name": "Tax Attorney",
+    "id": 665,
+    "name": "Florflock",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Gaia",
+      "url": "https://therickandmortyapi.vercel.app/api/location/106"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/665.jpeg",
+    "episode": {
+      "name": "Childrick of Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/665"
+  },
+  {
+    "id": 746,
+    "name": "Cenobite",
+    "status": "unknown",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/746.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/746"
+  },
+  {
+    "id": 823,
+    "name": "Young Beth",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/458.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/823.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/458"
-  },
-  {
-    "id": 635,
-    "name": "Darth Poopybutthole",
-    "status": "Alive",
-    "species": "Poopybutthole",
-    "location": {
-      "name": "Ricks’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/100"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/635.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/635"
+    "url": "https://therickandmortyapi.vercel.app/api/character/823"
   }
 ]
