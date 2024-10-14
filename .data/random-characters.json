@@ -1,98 +1,98 @@
 [
   {
-    "id": 70,
-    "name": "Concerto",
-    "status": "Dead",
-    "species": "Humanoid",
+    "id": 114,
+    "name": "Ethan",
+    "status": "unknown",
+    "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/70.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/114.jpeg",
     "episode": {
-      "name": "Pickle Rick",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/70"
+    "url": "https://therickandmortyapi.vercel.app/api/character/114"
   },
   {
-    "id": 309,
-    "name": "Scrotian",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Signus 5 Expanse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/22"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/309.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/309"
-  },
-  {
-    "id": 339,
-    "name": "Summer Smith",
+    "id": 314,
+    "name": "Shmlamantha Shmlicelli",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Evil Rick's Target Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/34"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/339.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/314.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/339"
+    "url": "https://therickandmortyapi.vercel.app/api/character/314"
   },
   {
-    "id": 464,
-    "name": "SEAL Team Rick",
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/384.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/384"
+  },
+  {
+    "id": 650,
+    "name": "Crystal Dealer",
     "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/650.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/650"
+  },
+  {
+    "id": 654,
+    "name": "Plane Crash Survivor",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Near-Duplicate Reality",
+      "url": "https://therickandmortyapi.vercel.app/api/location/104"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/654.jpeg",
+    "episode": {
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/654"
+  },
+  {
+    "id": 801,
+    "name": "7+7 Years Old Morty",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/464.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/801.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/464"
-  },
-  {
-    "id": 530,
-    "name": "Deliverance",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Midland Quasar",
-      "url": "https://therickandmortyapi.vercel.app/api/location/85"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/530.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/530"
-  },
-  {
-    "id": 664,
-    "name": "Ticktock",
-    "status": "unknown",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/664.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/664"
+    "url": "https://therickandmortyapi.vercel.app/api/character/801"
   }
 ]
