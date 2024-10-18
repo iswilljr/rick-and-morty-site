@@ -1,67 +1,51 @@
 [
   {
-    "id": 82,
-    "name": "Cronenberg Rick",
-    "status": "unknown",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/82.jpeg",
-    "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/82"
-  },
-  {
-    "id": 163,
-    "name": "Ideal Jerry",
+    "id": 119,
+    "name": "Evil Rick",
     "status": "Dead",
-    "species": "Mythological Creature",
+    "species": "Humanoid",
     "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/163.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/119.jpeg",
     "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/163"
+    "url": "https://therickandmortyapi.vercel.app/api/character/119"
   },
   {
-    "id": 250,
-    "name": "Mrs. Sullivan",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/250.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/250"
-  },
-  {
-    "id": 292,
-    "name": "Rick K-22",
+    "id": 166,
+    "name": "Invisi-trooper",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/292.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/166.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/292"
+    "url": "https://therickandmortyapi.vercel.app/api/character/166"
+  },
+  {
+    "id": 335,
+    "name": "Steve",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/335.jpeg",
+    "episode": {
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/335"
   },
   {
     "id": 372,
@@ -80,19 +64,35 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/372"
   },
   {
-    "id": 587,
-    "name": "Cavesnake",
-    "status": "Dead",
-    "species": "Animal",
+    "id": 636,
+    "name": "Evil Morty",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/587.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/636.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/587"
+    "url": "https://therickandmortyapi.vercel.app/api/character/636"
+  },
+  {
+    "id": 807,
+    "name": "Beth Sanchez",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/807.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/807"
   }
 ]
