@@ -1,98 +1,98 @@
 [
   {
-    "id": 63,
-    "name": "Centaur",
-    "status": "Alive",
-    "species": "Mythological Creature",
+    "id": 8,
+    "name": "Adjudicator Rick",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/63.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/8.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/63"
+    "url": "https://therickandmortyapi.vercel.app/api/character/8"
   },
   {
-    "id": 220,
-    "name": "Mega Fruit Farmer Rick",
+    "id": 126,
+    "name": "Fleeb",
+    "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/126.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/126"
+  },
+  {
+    "id": 273,
+    "name": "Purge Planet Ruler",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Purge Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/9"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/273.jpeg",
+    "episode": {
+      "name": "Look Who's Purging Now",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/273"
+  },
+  {
+    "id": 291,
+    "name": "Rick J-22",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/220.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/291.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/220"
+    "url": "https://therickandmortyapi.vercel.app/api/character/291"
   },
   {
-    "id": 362,
-    "name": "Traflorkian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/362.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/362"
-  },
-  {
-    "id": 400,
-    "name": "Giant Judge",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Giant's Town",
-      "url": "https://therickandmortyapi.vercel.app/api/location/14"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/400.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/400"
-  },
-  {
-    "id": 517,
-    "name": "Wasp Rick’s Clone",
-    "status": "unknown",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/517.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/517"
-  },
-  {
-    "id": 642,
-    "name": "Council of Glorzos Member",
+    "id": 644,
+    "name": "Old Glorzo",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Glorzo Asteroid",
       "url": "https://therickandmortyapi.vercel.app/api/location/101"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/642.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/644.jpeg",
     "episode": {
       "name": "Promortyus",
       "url": "https://therickandmortyapi.vercel.app/api/episode/38"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/642"
+    "url": "https://therickandmortyapi.vercel.app/api/character/644"
+  },
+  {
+    "id": 786,
+    "name": "Birdperson & Tammy's Child",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/786.jpeg",
+    "episode": {
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/786"
   }
 ]
