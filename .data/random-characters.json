@@ -1,98 +1,98 @@
 [
   {
-    "id": 133,
-    "name": "Garblovian",
-    "status": "Alive",
+    "id": 131,
+    "name": "Gar Gloonch",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Nuptia 4",
+      "url": "https://therickandmortyapi.vercel.app/api/location/13"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/133.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/131.jpeg",
     "episode": {
       "name": "Mortynight Run",
       "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/133"
+    "url": "https://therickandmortyapi.vercel.app/api/character/131"
   },
   {
-    "id": 239,
-    "name": "Mr. Goldenfold",
-    "status": "Alive",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/239.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/239"
-  },
-  {
-    "id": 303,
-    "name": "Samantha",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/303.jpeg",
-    "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/303"
-  },
-  {
-    "id": 362,
-    "name": "Traflorkian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/362.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/362"
-  },
-  {
-    "id": 380,
-    "name": "Unknown Rick",
+    "id": 458,
+    "name": "Tax Attorney",
     "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/380.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/458.jpeg",
     "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/380"
+    "url": "https://therickandmortyapi.vercel.app/api/character/458"
   },
   {
-    "id": 768,
-    "name": "Mary-Lou",
+    "id": 682,
+    "name": "Warlock",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Narnia Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/110"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/682.jpeg",
+    "episode": {
+      "name": "Mort Dinner Rick Andre",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/682"
+  },
+  {
+    "id": 758,
+    "name": "Giant Assassin Hidden in the Statue of Liberty",
     "status": "Alive",
-    "species": "Human",
+    "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/768.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/758.jpeg",
     "episode": {
       "name": "Rick & Morty's Thanksploitation Spectacular",
       "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/768"
+    "url": "https://therickandmortyapi.vercel.app/api/character/758"
+  },
+  {
+    "id": 793,
+    "name": "Alien Crow",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Avian Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/122"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/793.jpeg",
+    "episode": {
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/793"
+  },
+  {
+    "id": 819,
+    "name": "Redhead Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/819.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/819"
   }
 ]
