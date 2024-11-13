@@ -1,98 +1,98 @@
 [
   {
-    "id": 115,
-    "name": "Ethan",
+    "id": 57,
+    "name": "Borpocian",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/115.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/115"
-  },
-  {
-    "id": 154,
-    "name": "Hamurai",
-    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/154.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/57.jpeg",
     "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/154"
+    "url": "https://therickandmortyapi.vercel.app/api/character/57"
   },
   {
-    "id": 354,
-    "name": "Toby Matthews",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/354.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/354"
-  },
-  {
-    "id": 408,
-    "name": "Quick Mystery Presenter",
+    "id": 129,
+    "name": "Fulgora",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/408.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/129.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/408"
+    "url": "https://therickandmortyapi.vercel.app/api/character/129"
   },
   {
-    "id": 439,
-    "name": "Veterinary",
+    "id": 370,
+    "name": "Two Guys with Handlebar Mustaches",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/439.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/370.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/439"
+    "url": "https://therickandmortyapi.vercel.app/api/character/370"
   },
   {
-    "id": 596,
-    "name": "Floaty Non-Gasm Brotherhood Member Friend",
+    "id": 389,
+    "name": "Zeta Alpha Rick",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/596.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/389.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/596"
+    "url": "https://therickandmortyapi.vercel.app/api/character/389"
+  },
+  {
+    "id": 412,
+    "name": "Giant Cat Monster",
+    "status": "unknown",
+    "species": "Animal",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/412.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/412"
+  },
+  {
+    "id": 519,
+    "name": "Wasp Summer",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/519.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/519"
   }
 ]
