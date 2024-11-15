@@ -1,98 +1,98 @@
 [
   {
-    "id": 176,
-    "name": "Celebrity Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/176.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/176"
-  },
-  {
-    "id": 249,
-    "name": "Mrs. Sanchez",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/249.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/249"
-  },
-  {
-    "id": 305,
-    "name": "Scary Glenn",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/305.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/305"
-  },
-  {
-    "id": 306,
-    "name": "Scary Terry",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/306.jpeg",
-    "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/306"
-  },
-  {
-    "id": 528,
-    "name": "Monogatron Leader",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Monogatron Mothership",
-      "url": "https://therickandmortyapi.vercel.app/api/location/83"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/528.jpeg",
-    "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/528"
-  },
-  {
-    "id": 537,
-    "name": "Maggie",
+    "id": 4,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/537.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/4.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/537"
+    "url": "https://therickandmortyapi.vercel.app/api/character/4"
+  },
+  {
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/7.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/7"
+  },
+  {
+    "id": 91,
+    "name": "David Letterman",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/91.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/91"
+  },
+  {
+    "id": 108,
+    "name": "Dr. Xenon Bloom",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/108.jpeg",
+    "episode": {
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/108"
+  },
+  {
+    "id": 515,
+    "name": "Caterpillar Mr. Goldenfold",
+    "status": "Dead",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Wasp Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/515.jpeg",
+    "episode": {
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/515"
+  },
+  {
+    "id": 629,
+    "name": "Summer Smith",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/629.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/629"
   }
 ]
