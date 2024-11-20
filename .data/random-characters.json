@@ -1,98 +1,98 @@
 [
   {
-    "id": 45,
-    "name": "Bill",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/45.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/45"
-  },
-  {
-    "id": 101,
-    "name": "E. Coli",
-    "status": "Dead",
-    "species": "Disease",
-    "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/101.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/101"
-  },
-  {
-    "id": 127,
-    "name": "Frank Palicky",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/127.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/127"
-  },
-  {
-    "id": 144,
-    "name": "Glenn",
+    "id": 196,
+    "name": "Krombopulos Michael",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Interdimensional Customs",
-      "url": "https://therickandmortyapi.vercel.app/api/location/38"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/144.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/196.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/144"
+    "url": "https://therickandmortyapi.vercel.app/api/character/196"
   },
   {
-    "id": 377,
-    "name": "Voltematron",
+    "id": 491,
+    "name": "Dr. Eleanor Arroway",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "The Menagerie",
+      "url": "https://therickandmortyapi.vercel.app/api/location/25"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/491.jpeg",
+    "episode": {
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/491"
+  },
+  {
+    "id": 569,
+    "name": "Shadow Jacker",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Draygon",
+      "url": "https://therickandmortyapi.vercel.app/api/location/94"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/569.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/569"
+  },
+  {
+    "id": 775,
+    "name": "Voiceoverian",
     "status": "Dead",
     "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/377.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/775.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/377"
+    "url": "https://therickandmortyapi.vercel.app/api/character/775"
   },
   {
-    "id": 815,
-    "name": "Punk Rick",
+    "id": 799,
+    "name": "Morglutzian",
     "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Morglutz",
+      "url": "https://therickandmortyapi.vercel.app/api/location/112"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/799.jpeg",
+    "episode": {
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/799"
+  },
+  {
+    "id": 801,
+    "name": "7+7 Years Old Morty",
+    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/815.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/801.jpeg",
     "episode": {
       "name": "Rickmurai Jack",
       "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/815"
+    "url": "https://therickandmortyapi.vercel.app/api/character/801"
   }
 ]
