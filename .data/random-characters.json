@@ -1,98 +1,98 @@
 [
   {
-    "id": 221,
-    "name": "Melissa",
+    "id": 110,
+    "name": "Eli",
     "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/110.jpeg",
+    "episode": {
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/110"
+  },
+  {
+    "id": 345,
+    "name": "Teacher Rick",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/345.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/345"
+  },
+  {
+    "id": 437,
+    "name": "Michael",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/437.jpeg",
+    "episode": {
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/437"
+  },
+  {
+    "id": 585,
+    "name": "Bartender",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/585.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/585"
+  },
+  {
+    "id": 749,
+    "name": "Coat Rack Head",
+    "status": "unknown",
     "species": "Mythological Creature",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Hell",
+      "url": "https://therickandmortyapi.vercel.app/api/location/116"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/221.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/749.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/221"
+    "url": "https://therickandmortyapi.vercel.app/api/character/749"
   },
   {
-    "id": 239,
-    "name": "Mr. Goldenfold",
-    "status": "Alive",
-    "species": "Cronenberg",
+    "id": 792,
+    "name": "Alien Crow",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Avian Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/122"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/239.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/792.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/239"
-  },
-  {
-    "id": 335,
-    "name": "Steve",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/335.jpeg",
-    "episode": {
-      "name": "The Rickchurian Mortydate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/335"
-  },
-  {
-    "id": 442,
-    "name": "Shaved Head Jerry",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/442.jpeg",
-    "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/442"
-  },
-  {
-    "id": 661,
-    "name": "Morty’s Girlfriend",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/661.jpeg",
-    "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/661"
-  },
-  {
-    "id": 757,
-    "name": "President's General",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/757.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/757"
+    "url": "https://therickandmortyapi.vercel.app/api/character/792"
   }
 ]
