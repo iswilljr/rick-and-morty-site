@@ -1,98 +1,98 @@
 [
   {
-    "id": 130,
-    "name": "Galactic Federation President",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/130.jpeg",
-    "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/130"
-  },
-  {
-    "id": 137,
-    "name": "Gene",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/137.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/137"
-  },
-  {
-    "id": 260,
-    "name": "Phillip Jacobs",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/260.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/260"
-  },
-  {
-    "id": 267,
-    "name": "Plumber Rick",
+    "id": 291,
+    "name": "Rick J-22",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/267.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/291.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/267"
+    "url": "https://therickandmortyapi.vercel.app/api/character/291"
   },
   {
-    "id": 500,
-    "name": "Fascist Mr. President",
+    "id": 340,
+    "name": "Supernova",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
+      "name": "Worldender's lair",
+      "url": "https://therickandmortyapi.vercel.app/api/location/4"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/500.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/340.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/500"
+    "url": "https://therickandmortyapi.vercel.app/api/character/340"
   },
   {
-    "id": 759,
-    "name": "Turkey Morty",
+    "id": 583,
+    "name": "80's snake",
+    "status": "unknown",
+    "species": "Animal",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/583.jpeg",
+    "episode": {
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/583"
+  },
+  {
+    "id": 642,
+    "name": "Council of Glorzos Member",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Glorzo Asteroid",
+      "url": "https://therickandmortyapi.vercel.app/api/location/101"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/642.jpeg",
+    "episode": {
+      "name": "Promortyus",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/642"
+  },
+  {
+    "id": 787,
+    "name": "Two Crows",
     "status": "Alive",
     "species": "Animal",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Rick and Two Crows Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/125"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/759.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/787.jpeg",
     "episode": {
-      "name": "Rick & Morty's Thanksploitation Spectacular",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+      "name": "Forgetting Sarick Mortshall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/759"
+    "url": "https://therickandmortyapi.vercel.app/api/character/787"
+  },
+  {
+    "id": 825,
+    "name": "Young Jerry",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/825.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/825"
   }
 ]
