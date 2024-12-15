@@ -1,98 +1,98 @@
 [
   {
-    "id": 10,
-    "name": "Alan Rails",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/10.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/10"
-  },
-  {
-    "id": 19,
-    "name": "Antenna Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/19.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/19"
-  },
-  {
-    "id": 49,
-    "name": "Blamph",
+    "id": 316,
+    "name": "Shmlona Shmlobinson",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/49.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/49"
-  },
-  {
-    "id": 266,
-    "name": "Piece of Toast",
-    "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/266.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/316.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/266"
+    "url": "https://therickandmortyapi.vercel.app/api/character/316"
   },
   {
-    "id": 484,
-    "name": "Sheik Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/484.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/484"
-  },
-  {
-    "id": 562,
-    "name": "Balthromaw",
+    "id": 396,
+    "name": "Scary Teacher",
     "status": "Alive",
     "species": "Mythological Creature",
+    "location": {
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/396.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/396"
+  },
+  {
+    "id": 524,
+    "name": "Kirkland Brand Mr. Meeseeks",
+    "status": "unknown",
+    "species": "Humanoid",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/562.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/524.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/562"
+    "url": "https://therickandmortyapi.vercel.app/api/character/524"
+  },
+  {
+    "id": 527,
+    "name": "Mothership Intern",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Monogatron Mothership",
+      "url": "https://therickandmortyapi.vercel.app/api/location/83"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/527.jpeg",
+    "episode": {
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/527"
+  },
+  {
+    "id": 610,
+    "name": "Josh's Sister",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Tickets Please Guy Nightmare",
+      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/610.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/610"
+  },
+  {
+    "id": 674,
+    "name": "Bova",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Narnia Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/110"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/674.jpeg",
+    "episode": {
+      "name": "Mort Dinner Rick Andre",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/674"
   }
 ]
