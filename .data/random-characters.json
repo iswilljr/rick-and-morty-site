@@ -1,98 +1,98 @@
 [
   {
-    "id": 459,
-    "name": "Butthole Ice Cream Guy",
+    "id": 57,
+    "name": "Borpocian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/459.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/57.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/459"
+    "url": "https://therickandmortyapi.vercel.app/api/character/57"
   },
   {
-    "id": 520,
-    "name": "Wasp Jerry",
+    "id": 311,
+    "name": "Shimshamian",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/520.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/311.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/520"
+    "url": "https://therickandmortyapi.vercel.app/api/character/311"
   },
   {
-    "id": 564,
-    "name": "Talking Cat",
-    "status": "Alive",
-    "species": "Animal",
+    "id": 389,
+    "name": "Zeta Alpha Rick",
+    "status": "Dead",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/564.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/389.jpeg",
     "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/564"
+    "url": "https://therickandmortyapi.vercel.app/api/character/389"
   },
   {
-    "id": 598,
-    "name": "Biblesaurus",
+    "id": 629,
+    "name": "Summer Smith",
     "status": "Alive",
-    "species": "Animal",
+    "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/598.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/629.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/598"
+    "url": "https://therickandmortyapi.vercel.app/api/character/629"
   },
   {
-    "id": 698,
-    "name": "Wicker Rick",
+    "id": 690,
+    "name": "Scarecrow Morty",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/698.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/690.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/698"
+    "url": "https://therickandmortyapi.vercel.app/api/character/690"
   },
   {
-    "id": 721,
-    "name": "Xing Ho",
+    "id": 780,
+    "name": "Memory Tammy",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Birdperson's Consciousness",
+      "url": "https://therickandmortyapi.vercel.app/api/location/120"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/721.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/780.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Rickternal Friendshine of the Spotless Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/721"
+    "url": "https://therickandmortyapi.vercel.app/api/character/780"
   }
 ]
