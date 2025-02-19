@@ -1,98 +1,98 @@
 [
   {
-    "id": 103,
-    "name": "Doofus Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/103.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/103"
-  },
-  {
-    "id": 209,
-    "name": "Long Sleeved Morty",
-    "status": "unknown",
-    "species": "Human",
+    "id": 85,
+    "name": "Cyclops Morty",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/209.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/85.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/209"
+    "url": "https://therickandmortyapi.vercel.app/api/character/85"
   },
   {
-    "id": 263,
-    "name": "Pibbles Bodyguard",
+    "id": 309,
+    "name": "Scrotian",
     "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Signus 5 Expanse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/22"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/309.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/309"
+  },
+  {
+    "id": 432,
+    "name": "Chair-waiter",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Chair Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/74"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/432.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/432"
+  },
+  {
+    "id": 554,
+    "name": "Heistotron",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Heistotron Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/554.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/554"
+  },
+  {
+    "id": 649,
+    "name": "Crystal Dealer",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/263.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/649.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/263"
+    "url": "https://therickandmortyapi.vercel.app/api/character/649"
   },
   {
-    "id": 306,
-    "name": "Scary Terry",
+    "id": 657,
+    "name": "Johnny Carson",
     "status": "Alive",
-    "species": "Mythological Creature",
+    "species": "Human",
     "location": {
-      "name": "Mr. Goldenfold's dream",
-      "url": "https://therickandmortyapi.vercel.app/api/location/18"
+      "name": "Merged Universe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/103"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/306.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/657.jpeg",
     "episode": {
-      "name": "Lawnmower Dog",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/306"
-  },
-  {
-    "id": 503,
-    "name": "Fascist Shrimp Rick",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Fascist Shrimp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/80"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/503.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/503"
-  },
-  {
-    "id": 516,
-    "name": "Wasp Rick",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/516.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/516"
+    "url": "https://therickandmortyapi.vercel.app/api/character/657"
   }
 ]
