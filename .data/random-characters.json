@@ -1,98 +1,98 @@
 [
   {
-    "id": 99,
-    "name": "Hepatitis C",
+    "id": 95,
+    "name": "Dipper and Mabel Mortys",
+    "status": "unknown",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/95.jpeg",
+    "episode": {
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/95"
+  },
+  {
+    "id": 100,
+    "name": "Bubonic Plague",
     "status": "Dead",
     "species": "Disease",
     "location": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/99.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/100.jpeg",
     "episode": {
       "name": "Anatomy Park",
       "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/99"
+    "url": "https://therickandmortyapi.vercel.app/api/character/100"
   },
   {
-    "id": 210,
-    "name": "Lucy",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/210.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/210"
-  },
-  {
-    "id": 438,
-    "name": "Michael's Lawyer",
+    "id": 107,
+    "name": "Dr. Wong",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/438.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/107.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "Pickle Rick",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/438"
+    "url": "https://therickandmortyapi.vercel.app/api/character/107"
   },
   {
-    "id": 633,
-    "name": "Train Cops",
+    "id": 399,
+    "name": "Tiny-persons advocacy group lawyer",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Giant's Town",
+      "url": "https://therickandmortyapi.vercel.app/api/location/14"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/399.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/399"
+  },
+  {
+    "id": 405,
+    "name": "Trunkphobic suspenders guy",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/633.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/405.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/633"
+    "url": "https://therickandmortyapi.vercel.app/api/character/405"
   },
   {
-    "id": 730,
-    "name": "Princess Ponietta",
+    "id": 760,
+    "name": "Turkey Rick",
     "status": "Alive",
     "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/730.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/760.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/730"
-  },
-  {
-    "id": 809,
-    "name": "Pussifer",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Rick and Two Crows Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/125"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/809.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/809"
+    "url": "https://therickandmortyapi.vercel.app/api/character/760"
   }
 ]
