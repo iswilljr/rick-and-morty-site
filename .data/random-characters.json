@@ -1,98 +1,98 @@
 [
   {
-    "id": 8,
-    "name": "Adjudicator Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/8.jpeg",
-    "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/8"
-  },
-  {
-    "id": 17,
-    "name": "Annie",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/17.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/17"
-  },
-  {
-    "id": 151,
-    "name": "Gwendolyn",
+    "id": 7,
+    "name": "Abradolf Lincler",
     "status": "unknown",
-    "species": "Robot",
+    "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Testicle Monster Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/21"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/151.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/7.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/7"
+  },
+  {
+    "id": 89,
+    "name": "Dale",
+    "status": "Dead",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Giant's Town",
+      "url": "https://therickandmortyapi.vercel.app/api/location/14"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/89.jpeg",
+    "episode": {
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/89"
+  },
+  {
+    "id": 168,
+    "name": "Jackie",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/location/40"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/168.jpeg",
     "episode": {
       "name": "Raising Gazorpazorp",
       "url": "https://therickandmortyapi.vercel.app/api/episode/7"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/151"
+    "url": "https://therickandmortyapi.vercel.app/api/character/168"
   },
   {
-    "id": 569,
-    "name": "Shadow Jacker",
+    "id": 172,
+    "name": "Jamey",
     "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Draygon",
-      "url": "https://therickandmortyapi.vercel.app/api/location/94"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/569.jpeg",
-    "episode": {
-      "name": "Claw and Hoarder: Special Ricktim's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/569"
-  },
-  {
-    "id": 639,
-    "name": "Uncle Nibbles",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/639.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/639"
-  },
-  {
-    "id": 784,
-    "name": "Memory Rick",
-    "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/784.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/172.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/784"
+    "url": "https://therickandmortyapi.vercel.app/api/character/172"
+  },
+  {
+    "id": 415,
+    "name": "Pro trunk people marriage guy",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/415.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/415"
+  },
+  {
+    "id": 480,
+    "name": "Purple Morty",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/480.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/480"
   }
 ]
