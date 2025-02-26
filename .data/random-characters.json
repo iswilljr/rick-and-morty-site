@@ -1,35 +1,19 @@
 [
   {
-    "id": 7,
-    "name": "Abradolf Lincler",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Testicle Monster Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/21"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/7.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/7"
-  },
-  {
-    "id": 89,
-    "name": "Dale",
+    "id": 33,
+    "name": "Beebo",
     "status": "Dead",
-    "species": "Mythological Creature",
+    "species": "Alien",
     "location": {
-      "name": "Giant's Town",
-      "url": "https://therickandmortyapi.vercel.app/api/location/14"
+      "name": "Venzenulon 7",
+      "url": "https://therickandmortyapi.vercel.app/api/location/10"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/89.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/33.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Morty's Mind Blowers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/89"
+    "url": "https://therickandmortyapi.vercel.app/api/character/33"
   },
   {
     "id": 168,
@@ -48,51 +32,67 @@
     "url": "https://therickandmortyapi.vercel.app/api/character/168"
   },
   {
-    "id": 172,
-    "name": "Jamey",
+    "id": 367,
+    "name": "Trunk Man",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/172.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/367.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/172"
+    "url": "https://therickandmortyapi.vercel.app/api/character/367"
   },
   {
-    "id": 415,
-    "name": "Pro trunk people marriage guy",
+    "id": 407,
+    "name": "Regular Tyrion Lannister",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/415.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/407.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/415"
+    "url": "https://therickandmortyapi.vercel.app/api/character/407"
   },
   {
-    "id": 480,
-    "name": "Purple Morty",
-    "status": "Alive",
+    "id": 570,
+    "name": "Chachi",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/480.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/570.jpeg",
     "episode": {
-      "name": "The Ricklantis Mixup",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/480"
+    "url": "https://therickandmortyapi.vercel.app/api/character/570"
+  },
+  {
+    "id": 709,
+    "name": "Dracula",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/709.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/709"
   }
 ]
