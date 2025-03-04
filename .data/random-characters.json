@@ -1,98 +1,98 @@
 [
   {
-    "id": 10,
-    "name": "Alan Rails",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/10.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/10"
-  },
-  {
-    "id": 149,
-    "name": "Gordon Lunas",
-    "status": "Dead",
+    "id": 166,
+    "name": "Invisi-trooper",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/149.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/166.jpeg",
     "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
+      "name": "The Rickchurian Mortydate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/31"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/149"
+    "url": "https://therickandmortyapi.vercel.app/api/character/166"
   },
   {
-    "id": 253,
-    "name": "Numbericon",
-    "status": "unknown",
-    "species": "Alien",
-    "location": {
-      "name": "Alphabetrium",
-      "url": "https://therickandmortyapi.vercel.app/api/location/43"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/253.jpeg",
-    "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/253"
-  },
-  {
-    "id": 362,
-    "name": "Traflorkian",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/362.jpeg",
-    "episode": {
-      "name": "Ricksy Business",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/362"
-  },
-  {
-    "id": 449,
-    "name": "Roy's Mum",
+    "id": 260,
+    "name": "Phillip Jacobs",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/449.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/260.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/449"
+    "url": "https://therickandmortyapi.vercel.app/api/character/260"
   },
   {
-    "id": 713,
-    "name": "Too Cute to Murder Rick",
+    "id": 270,
+    "name": "Prince Nebulon",
     "status": "Dead",
-    "species": "Robot",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/713.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/270.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/713"
+    "url": "https://therickandmortyapi.vercel.app/api/character/270"
+  },
+  {
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/384.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/384"
+  },
+  {
+    "id": 550,
+    "name": "Double Microwawe",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/550.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/550"
+  },
+  {
+    "id": 620,
+    "name": "Ramamama Lord",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/620.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/620"
   }
 ]
