@@ -1,98 +1,98 @@
 [
   {
-    "id": 170,
-    "name": "Jacqueline",
+    "id": 118,
+    "name": "Evil Morty",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/170.jpeg",
-    "episode": {
-      "name": "Rest and Ricklaxation",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/170"
-  },
-  {
-    "id": 235,
-    "name": "Mortytown Loco",
-    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/235.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/118.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/118"
+  },
+  {
+    "id": 250,
+    "name": "Mrs. Sullivan",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/250.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/250"
+  },
+  {
+    "id": 334,
+    "name": "Stealy",
+    "status": "Alive",
+    "species": "Poopybutthole",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/334.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/334"
+  },
+  {
+    "id": 480,
+    "name": "Purple Morty",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/480.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/235"
+    "url": "https://therickandmortyapi.vercel.app/api/character/480"
   },
   {
-    "id": 376,
-    "name": "Veronica Ann Bennet",
-    "status": "Alive",
+    "id": 648,
+    "name": "Crystal Dealers Boss",
+    "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/location/40"
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/376.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/648.jpeg",
     "episode": {
-      "name": "Raising Gazorpazorp",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/376"
+    "url": "https://therickandmortyapi.vercel.app/api/character/648"
   },
   {
-    "id": 439,
-    "name": "Veterinary",
-    "status": "Alive",
+    "id": 721,
+    "name": "Xing Ho",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/439.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/721.jpeg",
     "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/439"
-  },
-  {
-    "id": 518,
-    "name": "Wasp Morty",
-    "status": "Alive",
-    "species": "Animal",
-    "location": {
-      "name": "Earth (Wasp Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/82"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/518.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/518"
-  },
-  {
-    "id": 815,
-    "name": "Punk Rick",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/815.jpeg",
-    "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/815"
+    "url": "https://therickandmortyapi.vercel.app/api/character/721"
   }
 ]
