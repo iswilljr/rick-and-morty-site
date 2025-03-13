@@ -1,98 +1,98 @@
 [
   {
-    "id": 182,
-    "name": "Jim",
+    "id": 337,
+    "name": "Stu",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Zigerion's Base",
+      "url": "https://therickandmortyapi.vercel.app/api/location/46"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/337.jpeg",
+    "episode": {
+      "name": "M. Night Shaym-Aliens!",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/337"
+  },
+  {
+    "id": 441,
+    "name": "Bearded Jerry",
     "status": "Alive",
     "species": "Human",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/441.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/441"
+  },
+  {
+    "id": 534,
+    "name": "Tony's Dad",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/182.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/534.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/182"
+    "url": "https://therickandmortyapi.vercel.app/api/character/534"
   },
   {
-    "id": 321,
-    "name": "Shrimply Pibbles",
+    "id": 633,
+    "name": "Train Cops",
     "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/321.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/321"
-  },
-  {
-    "id": 391,
-    "name": "Uncle Steve",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/391.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/391"
-  },
-  {
-    "id": 455,
-    "name": "St. Gloopy Noops Nurse",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/455.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/455"
-  },
-  {
-    "id": 462,
-    "name": "Teleportation's Responsible Rick",
-    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/462.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/462"
-  },
-  {
-    "id": 610,
-    "name": "Josh's Sister",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/610.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/633.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/610"
+    "url": "https://therickandmortyapi.vercel.app/api/character/633"
+  },
+  {
+    "id": 638,
+    "name": "Rick’s Disguise",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/638.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/638"
+  },
+  {
+    "id": 714,
+    "name": "Too Cute to Murder Jerry",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/714.jpeg",
+    "episode": {
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/714"
   }
 ]
