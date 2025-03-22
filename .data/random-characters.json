@@ -1,98 +1,98 @@
 [
   {
-    "id": 103,
-    "name": "Doofus Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/103.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/103"
-  },
-  {
-    "id": 231,
-    "name": "Morty Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/231.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/231"
-  },
-  {
-    "id": 532,
-    "name": "Tony’s Wife",
+    "id": 104,
+    "name": "Doom-Nomitron",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Globaflyn",
-      "url": "https://therickandmortyapi.vercel.app/api/location/87"
+      "name": "Dorian 5",
+      "url": "https://therickandmortyapi.vercel.app/api/location/29"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/532.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/104.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Vindicators 3: The Return of Worldender",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/532"
+    "url": "https://therickandmortyapi.vercel.app/api/character/104"
   },
   {
-    "id": 558,
-    "name": "Elon Tusk",
+    "id": 155,
+    "name": "Harold",
     "status": "Alive",
+    "species": "Cronenberg",
+    "location": {
+      "name": "Earth (C-137)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/155.jpeg",
+    "episode": {
+      "name": "Rick Potion #9",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/155"
+  },
+  {
+    "id": 470,
+    "name": "Alien Spa Employee",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Alien Day Spa",
+      "url": "https://therickandmortyapi.vercel.app/api/location/76"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/470.jpeg",
+    "episode": {
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/470"
+  },
+  {
+    "id": 618,
+    "name": "Private Smith",
+    "status": "unknown",
     "species": "Human",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/558.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/558"
-  },
-  {
-    "id": 604,
-    "name": "Female Scorpion",
-    "status": "Dead",
-    "species": "Animal",
-    "location": {
-      "name": "Morty’s Story",
-      "url": "https://therickandmortyapi.vercel.app/api/location/99"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/604.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/618.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/604"
+    "url": "https://therickandmortyapi.vercel.app/api/character/618"
   },
   {
-    "id": 655,
-    "name": "Heroine Keith",
+    "id": 628,
+    "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Merged Universe",
-      "url": "https://therickandmortyapi.vercel.app/api/location/103"
+      "name": "Morty’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/99"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/655.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/628.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/655"
+    "url": "https://therickandmortyapi.vercel.app/api/character/628"
+  },
+  {
+    "id": 759,
+    "name": "Turkey Morty",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/759.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/759"
   }
 ]
