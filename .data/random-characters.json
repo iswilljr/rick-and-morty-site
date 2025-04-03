@@ -1,98 +1,98 @@
 [
   {
-    "id": 3,
-    "name": "Summer Smith",
-    "status": "Alive",
-    "species": "Human",
+    "id": 331,
+    "name": "Squanchy",
+    "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/331.jpeg",
+    "episode": {
+      "name": "Ricksy Business",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/11"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/331"
+  },
+  {
+    "id": 352,
+    "name": "Tinkles",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/3.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/352.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/3"
+    "url": "https://therickandmortyapi.vercel.app/api/character/352"
   },
   {
-    "id": 4,
-    "name": "Beth Smith",
+    "id": 367,
+    "name": "Trunk Man",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/4.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/367.jpeg",
     "episode": {
-      "name": "Rick Potion #9",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/6"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/4"
+    "url": "https://therickandmortyapi.vercel.app/api/character/367"
   },
   {
-    "id": 407,
-    "name": "Regular Tyrion Lannister",
+    "id": 409,
+    "name": "Mr. Sneezy",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/407.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/409.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/407"
+    "url": "https://therickandmortyapi.vercel.app/api/character/409"
   },
   {
-    "id": 550,
-    "name": "Double Microwawe",
-    "status": "Alive",
-    "species": "Humanoid",
+    "id": 529,
+    "name": "Lizard",
+    "status": "Dead",
+    "species": "Alien",
     "location": {
-      "name": "Heist-Con",
-      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/550.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/529.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "The Old Man and the Seat",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/550"
+    "url": "https://therickandmortyapi.vercel.app/api/character/529"
   },
   {
-    "id": 631,
-    "name": "Rick Sanchez",
+    "id": 616,
+    "name": "Phantom of the Opera Fan",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/631.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/616.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/631"
-  },
-  {
-    "id": 739,
-    "name": "Cirque du Soleil Zumanity Member",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/739.jpeg",
-    "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/739"
+    "url": "https://therickandmortyapi.vercel.app/api/character/616"
   }
 ]
