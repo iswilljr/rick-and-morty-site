@@ -1,98 +1,82 @@
 [
   {
-    "id": 158,
-    "name": "Hookah Alien",
+    "id": 133,
+    "name": "Garblovian",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Interdimensional Customs",
-      "url": "https://therickandmortyapi.vercel.app/api/location/38"
+      "name": "unknown",
+      "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/158.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/133.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/158"
+    "url": "https://therickandmortyapi.vercel.app/api/character/133"
   },
   {
-    "id": 298,
-    "name": "Robot Morty",
-    "status": "unknown",
-    "species": "Robot",
+    "id": 243,
+    "name": "Mr. Needful",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/243.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/243"
+  },
+  {
+    "id": 351,
+    "name": "Three Unknown Things",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/351.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/351"
+  },
+  {
+    "id": 401,
+    "name": "Morty Jr's interviewer",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/401.jpeg",
+    "episode": {
+      "name": "Raising Gazorpazorp",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/7"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/401"
+  },
+  {
+    "id": 487,
+    "name": "Visor Rick",
+    "status": "Dead",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/298.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/487.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/298"
-  },
-  {
-    "id": 432,
-    "name": "Chair-waiter",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Chair Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/74"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/432.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/432"
-  },
-  {
-    "id": 556,
-    "name": "Hephaestus",
-    "status": "Alive",
-    "species": "Mythological Creature",
-    "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/556.jpeg",
-    "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/556"
-  },
-  {
-    "id": 644,
-    "name": "Old Glorzo",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Glorzo Asteroid",
-      "url": "https://therickandmortyapi.vercel.app/api/location/101"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/644.jpeg",
-    "episode": {
-      "name": "Promortyus",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/38"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/644"
-  },
-  {
-    "id": 666,
-    "name": "Squeeb",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Gaia",
-      "url": "https://therickandmortyapi.vercel.app/api/location/106"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/666.jpeg",
-    "episode": {
-      "name": "Childrick of Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/40"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/666"
+    "url": "https://therickandmortyapi.vercel.app/api/character/487"
   }
 ]
