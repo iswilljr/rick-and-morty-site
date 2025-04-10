@@ -1,98 +1,98 @@
 [
   {
-    "id": 88,
-    "name": "Cynthia",
+    "id": 74,
+    "name": "Cop Rick",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/88.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/74.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/88"
+    "url": "https://therickandmortyapi.vercel.app/api/character/74"
   },
   {
-    "id": 185,
-    "name": "Joseph Eli Lipkip",
+    "id": 199,
+    "name": "Larva Alien",
     "status": "Alive",
-    "species": "Human",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/185.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/199.jpeg",
     "episode": {
-      "name": "The ABC's of Beth",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/30"
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/185"
+    "url": "https://therickandmortyapi.vercel.app/api/character/199"
   },
   {
-    "id": 279,
-    "name": "Regular Legs",
+    "id": 305,
+    "name": "Scary Glenn",
     "status": "Alive",
-    "species": "Human",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+      "name": "Mr. Goldenfold's dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/18"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/279.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/305.jpeg",
     "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/279"
+    "url": "https://therickandmortyapi.vercel.app/api/character/305"
   },
   {
-    "id": 434,
-    "name": "Super Weird Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/434.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/434"
-  },
-  {
-    "id": 444,
-    "name": "Pink Polo Shirt Jerry",
+    "id": 598,
+    "name": "Biblesaurus",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/444.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/598.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/444"
+    "url": "https://therickandmortyapi.vercel.app/api/character/598"
   },
   {
-    "id": 555,
-    "name": "Randotron",
+    "id": 701,
+    "name": "Metal Rick",
     "status": "Dead",
     "species": "Robot",
     "location": {
-      "name": "Heistotron Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/89"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/555.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/701.jpeg",
     "episode": {
-      "name": "One Crew Over the Crewcoo's Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+      "name": "Mortyplicity",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/555"
+    "url": "https://therickandmortyapi.vercel.app/api/character/701"
+  },
+  {
+    "id": 819,
+    "name": "Redhead Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/819.jpeg",
+    "episode": {
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/819"
   }
 ]
