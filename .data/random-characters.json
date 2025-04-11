@@ -1,98 +1,98 @@
 [
   {
-    "id": 388,
-    "name": "Zeep Xanflorp",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Rick's Battery Microverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/24"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/388.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/388"
-  },
-  {
-    "id": 404,
-    "name": "Michael Jackson",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Earth (Phone Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/72"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/404.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/404"
-  },
-  {
-    "id": 543,
-    "name": "Vermigurber",
+    "id": 192,
+    "name": "King Flippy Nips",
     "status": "Alive",
     "species": "Alien",
     "location": {
-      "name": "Gorgon Quadrant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/84"
+      "name": "Pluto",
+      "url": "https://therickandmortyapi.vercel.app/api/location/47"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/543.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/192.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/192"
+  },
+  {
+    "id": 240,
+    "name": "Mr. Goldenfold",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/240.jpeg",
+    "episode": {
+      "name": "Something Ricked This Way Comes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/240"
+  },
+  {
+    "id": 457,
+    "name": "Funny Songs Presenter",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/457.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/457"
+  },
+  {
+    "id": 459,
+    "name": "Butthole Ice Cream Guy",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/459.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/459"
+  },
+  {
+    "id": 530,
+    "name": "Deliverance",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Midland Quasar",
+      "url": "https://therickandmortyapi.vercel.app/api/location/85"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/530.jpeg",
     "episode": {
       "name": "The Old Man and the Seat",
       "url": "https://therickandmortyapi.vercel.app/api/episode/33"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/543"
+    "url": "https://therickandmortyapi.vercel.app/api/character/530"
   },
   {
-    "id": 607,
-    "name": "Hairspray Fan",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Story Train",
-      "url": "https://therickandmortyapi.vercel.app/api/location/96"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/607.jpeg",
-    "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/607"
-  },
-  {
-    "id": 639,
-    "name": "Uncle Nibbles",
+    "id": 649,
+    "name": "Crystal Dealer",
     "status": "Dead",
     "species": "Alien",
     "location": {
-      "name": "Tickets Please Guy Nightmare",
-      "url": "https://therickandmortyapi.vercel.app/api/location/98"
+      "name": "Alien Acid Plant",
+      "url": "https://therickandmortyapi.vercel.app/api/location/102"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/639.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/649.jpeg",
     "episode": {
-      "name": "Never Ricking Morty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+      "name": "The Vat of Acid Episode",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/639"
-  },
-  {
-    "id": 793,
-    "name": "Alien Crow",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Avian Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/122"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/793.jpeg",
-    "episode": {
-      "name": "Forgetting Sarick Mortshall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/50"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/793"
+    "url": "https://therickandmortyapi.vercel.app/api/character/649"
   }
 ]
