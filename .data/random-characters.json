@@ -1,98 +1,98 @@
 [
   {
-    "id": 71,
-    "name": "Conroy",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/71.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/71"
-  },
-  {
-    "id": 160,
-    "name": "Hunter's Father",
+    "id": 41,
+    "name": "Big Boobed Waitress",
     "status": "Alive",
-    "species": "Human",
+    "species": "Mythological Creature",
     "location": {
-      "name": "Earth (Giant Telepathic Spiders Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/42"
+      "name": "Fantasy World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/48"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/160.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/41.jpeg",
     "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
+      "name": "Meeseeks and Destroy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/160"
+    "url": "https://therickandmortyapi.vercel.app/api/character/41"
   },
   {
-    "id": 249,
-    "name": "Mrs. Sanchez",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "unknown",
-      "url": ""
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/249.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/249"
-  },
-  {
-    "id": 325,
-    "name": "Slick Morty",
+    "id": 56,
+    "name": "Bootleg Portal Chemist Rick",
     "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/325.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/56.jpeg",
     "episode": {
       "name": "The Ricklantis Mixup",
       "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/325"
+    "url": "https://therickandmortyapi.vercel.app/api/character/56"
   },
   {
-    "id": 349,
-    "name": "The Scientist Formerly Known as Rick",
+    "id": 102,
+    "name": "Donna Gueterman",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/102.jpeg",
+    "episode": {
+      "name": "The Wedding Squanchers",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/102"
+  },
+  {
+    "id": 159,
+    "name": "Hunter",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Earth (Giant Telepathic Spiders Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/42"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/349.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/159.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Ricks Must Be Crazy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/349"
+    "url": "https://therickandmortyapi.vercel.app/api/character/159"
   },
   {
-    "id": 778,
-    "name": "Gotron Pilot",
-    "status": "Dead",
-    "species": "Human",
+    "id": 384,
+    "name": "Yellow Headed Doctor",
+    "status": "Alive",
+    "species": "Alien",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/778.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/384.jpeg",
     "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/778"
+    "url": "https://therickandmortyapi.vercel.app/api/character/384"
+  },
+  {
+    "id": 549,
+    "name": "Snake Arms",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/549.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/549"
   }
 ]
