@@ -1,98 +1,98 @@
 [
   {
-    "id": 115,
-    "name": "Ethan",
+    "id": 125,
+    "name": "Flansian",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Planet Squanch",
+      "url": "https://therickandmortyapi.vercel.app/api/location/35"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/125.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/125"
+  },
+  {
+    "id": 229,
+    "name": "Morty Mart Manager Morty",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/115.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/229.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/115"
+    "url": "https://therickandmortyapi.vercel.app/api/character/229"
   },
   {
-    "id": 150,
-    "name": "Cornvelious Daniel",
+    "id": 286,
+    "name": "Rick D-99",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Galactic Federation Prison",
-      "url": "https://therickandmortyapi.vercel.app/api/location/39"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/150.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/286.jpeg",
     "episode": {
       "name": "The Rickshank Rickdemption",
       "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/150"
+    "url": "https://therickandmortyapi.vercel.app/api/character/286"
   },
   {
-    "id": 240,
-    "name": "Mr. Goldenfold",
+    "id": 309,
+    "name": "Scrotian",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
+    "location": {
+      "name": "Signus 5 Expanse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/22"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/309.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/309"
+  },
+  {
+    "id": 424,
+    "name": "Pizza-person",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Pizza Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/71"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/424.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/424"
+  },
+  {
+    "id": 719,
+    "name": "Diesel Weasel",
+    "status": "Alive",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/240.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/719.jpeg",
     "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
+      "name": "A Rickconvenient Mort",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/240"
-  },
-  {
-    "id": 260,
-    "name": "Phillip Jacobs",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Interdimensional Cable",
-      "url": "https://therickandmortyapi.vercel.app/api/location/6"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/260.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/260"
-  },
-  {
-    "id": 700,
-    "name": "Wicker Summer",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/700.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/700"
-  },
-  {
-    "id": 795,
-    "name": "Palicki",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Normal Size Bug Dimension",
-      "url": "https://therickandmortyapi.vercel.app/api/location/123"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/795.jpeg",
-    "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/795"
+    "url": "https://therickandmortyapi.vercel.app/api/character/719"
   }
 ]
