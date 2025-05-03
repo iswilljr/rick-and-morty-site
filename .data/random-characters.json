@@ -1,83 +1,83 @@
 [
   {
-    "id": 79,
-    "name": "Crab Spider",
+    "id": 205,
+    "name": "Little Dipper",
     "status": "Alive",
-    "species": "Alien",
+    "species": "Humanoid",
     "location": {
-      "name": "Hideout Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/27"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/79.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/205.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/79"
+    "url": "https://therickandmortyapi.vercel.app/api/character/205"
   },
   {
-    "id": 286,
-    "name": "Rick D-99",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/286.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/286"
-  },
-  {
-    "id": 510,
-    "name": "Anchorman",
+    "id": 227,
+    "name": "Mitch",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/510.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/227.jpeg",
     "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/510"
+    "url": "https://therickandmortyapi.vercel.app/api/character/227"
   },
   {
-    "id": 577,
-    "name": "Snake Terminator",
-    "status": "unknown",
-    "species": "Robot",
+    "id": 417,
+    "name": "Baby Legs Chief",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/577.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/417.jpeg",
     "episode": {
-      "name": "Rattlestar Ricklactica",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/577"
+    "url": "https://therickandmortyapi.vercel.app/api/character/417"
   },
   {
-    "id": 785,
-    "name": "Memory Geardude",
+    "id": 432,
+    "name": "Chair-waiter",
+    "status": "Alive",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Chair Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/74"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/432.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/432"
+  },
+  {
+    "id": 488,
+    "name": "Colonial Rick",
     "status": "Dead",
-    "species": "Alien",
+    "species": "Human",
     "location": {
-      "name": "Birdperson's Consciousness",
-      "url": "https://therickandmortyapi.vercel.app/api/location/120"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/785.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/488.jpeg",
     "episode": {
-      "name": "Rickternal Friendshine of the Spotless Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/49"
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/785"
+    "url": "https://therickandmortyapi.vercel.app/api/character/488"
   },
   {
     "id": 801,
