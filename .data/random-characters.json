@@ -1,98 +1,98 @@
 [
   {
-    "id": 85,
-    "name": "Cyclops Morty",
-    "status": "Alive",
-    "species": "Humanoid",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/85.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/85"
-  },
-  {
-    "id": 101,
-    "name": "E. Coli",
+    "id": 196,
+    "name": "Krombopulos Michael",
     "status": "Dead",
-    "species": "Disease",
-    "location": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/location/5"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/101.jpeg",
-    "episode": {
-      "name": "Anatomy Park",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/101"
-  },
-  {
-    "id": 133,
-    "name": "Garblovian",
-    "status": "Alive",
     "species": "Alien",
     "location": {
       "name": "unknown",
       "url": ""
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/133.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/196.jpeg",
     "episode": {
       "name": "Mortynight Run",
       "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/133"
+    "url": "https://therickandmortyapi.vercel.app/api/character/196"
   },
   {
-    "id": 297,
-    "name": "Risotto's Tentacled Henchman",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Resort Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/37"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/297.jpeg",
-    "episode": {
-      "name": "The Whirly Dirly Conspiracy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/297"
-  },
-  {
-    "id": 382,
-    "name": "Worldender",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Worldender's lair",
-      "url": "https://therickandmortyapi.vercel.app/api/location/4"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/382.jpeg",
-    "episode": {
-      "name": "Vindicators 3: The Return of Worldender",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/25"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/382"
-  },
-  {
-    "id": 704,
-    "name": "Squid Costume Beth",
-    "status": "Dead",
-    "species": "Robot",
+    "id": 244,
+    "name": "Mr. Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/704.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/244.jpeg",
     "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
+      "name": "Total Rickall",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/704"
+    "url": "https://therickandmortyapi.vercel.app/api/character/244"
+  },
+  {
+    "id": 301,
+    "name": "Ron Benson",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Unity's Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/28"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/301.jpeg",
+    "episode": {
+      "name": "Auto Erotic Assimilation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/14"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/301"
+  },
+  {
+    "id": 455,
+    "name": "St. Gloopy Noops Nurse",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "St. Gloopy Noops Hospital",
+      "url": "https://therickandmortyapi.vercel.app/api/location/16"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/455.jpeg",
+    "episode": {
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/455"
+  },
+  {
+    "id": 668,
+    "name": "Defiance Squanchette",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Defiance's Ship",
+      "url": "https://therickandmortyapi.vercel.app/api/location/107"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/668.jpeg",
+    "episode": {
+      "name": "Star Mort: Rickturn of the Jerri",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/41"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/668"
+  },
+  {
+    "id": 774,
+    "name": "Voiceoverian",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/774.jpeg",
+    "episode": {
+      "name": "Gotron Jerrysis Rickvangelion",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/774"
   }
 ]
