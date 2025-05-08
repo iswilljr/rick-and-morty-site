@@ -1,98 +1,98 @@
 [
   {
-    "id": 86,
-    "name": "Cyclops Rick",
-    "status": "Dead",
-    "species": "Humanoid",
+    "id": 313,
+    "name": "Shleemypants",
+    "status": "Alive",
+    "species": "unknown",
+    "location": {
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/313.jpeg",
+    "episode": {
+      "name": "A Rickle in Time",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/313"
+  },
+  {
+    "id": 330,
+    "name": "Solicitor Rick",
+    "status": "unknown",
+    "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/86.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/330.jpeg",
     "episode": {
       "name": "Close Rick-counters of the Rick Kind",
       "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/86"
+    "url": "https://therickandmortyapi.vercel.app/api/character/330"
   },
   {
-    "id": 255,
-    "name": "Orthodox Jew",
+    "id": 389,
+    "name": "Zeta Alpha Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Rick's Memories",
+      "url": "https://therickandmortyapi.vercel.app/api/location/126"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/389.jpeg",
+    "episode": {
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/389"
+  },
+  {
+    "id": 731,
+    "name": "Naruto Smith",
     "status": "Alive",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Space",
+      "url": "https://therickandmortyapi.vercel.app/api/location/115"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/255.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/731.jpeg",
     "episode": {
-      "name": "Get Schwifty",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/255"
+    "url": "https://therickandmortyapi.vercel.app/api/character/731"
   },
   {
-    "id": 337,
-    "name": "Stu",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Zigerion's Base",
-      "url": "https://therickandmortyapi.vercel.app/api/location/46"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/337.jpeg",
-    "episode": {
-      "name": "M. Night Shaym-Aliens!",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/4"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/337"
-  },
-  {
-    "id": 702,
-    "name": "Gun Brain Rick",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/702.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/702"
-  },
-  {
-    "id": 721,
-    "name": "Xing Ho",
+    "id": 736,
+    "name": "Spaceman",
     "status": "Dead",
     "species": "Human",
     "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+      "name": "Space",
+      "url": "https://therickandmortyapi.vercel.app/api/location/115"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/721.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/736.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/721"
+    "url": "https://therickandmortyapi.vercel.app/api/character/736"
   },
   {
-    "id": 750,
-    "name": "Mousetrap Nipples",
+    "id": 824,
+    "name": "Young Beth",
     "status": "unknown",
-    "species": "Mythological Creature",
+    "species": "Human",
     "location": {
-      "name": "Hell",
-      "url": "https://therickandmortyapi.vercel.app/api/location/116"
+      "name": "Earth (Unknown dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/30"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/750.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/824.jpeg",
     "episode": {
-      "name": "Amortycan Grickfitti",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+      "name": "Rickmurai Jack",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/750"
+    "url": "https://therickandmortyapi.vercel.app/api/character/824"
   }
 ]
