@@ -1,98 +1,98 @@
 [
   {
-    "id": 313,
-    "name": "Shleemypants",
-    "status": "Alive",
-    "species": "unknown",
-    "location": {
-      "name": "Snake Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/78"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/313.jpeg",
-    "episode": {
-      "name": "A Rickle in Time",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/12"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/313"
-  },
-  {
-    "id": 330,
-    "name": "Solicitor Rick",
-    "status": "unknown",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/330.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/330"
-  },
-  {
-    "id": 389,
-    "name": "Zeta Alpha Rick",
+    "id": 108,
+    "name": "Dr. Xenon Bloom",
     "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Rick's Memories",
-      "url": "https://therickandmortyapi.vercel.app/api/location/126"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/389.jpeg",
-    "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/389"
-  },
-  {
-    "id": 731,
-    "name": "Naruto Smith",
-    "status": "Alive",
     "species": "Humanoid",
     "location": {
-      "name": "Space",
-      "url": "https://therickandmortyapi.vercel.app/api/location/115"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/location/5"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/731.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/108.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Anatomy Park",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/3"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/731"
+    "url": "https://therickandmortyapi.vercel.app/api/character/108"
   },
   {
-    "id": 736,
-    "name": "Spaceman",
+    "id": 361,
+    "name": "Toxic Rick",
     "status": "Dead",
-    "species": "Human",
+    "species": "Humanoid",
     "location": {
-      "name": "Space",
-      "url": "https://therickandmortyapi.vercel.app/api/location/115"
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/736.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/361.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "Rest and Ricklaxation",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/27"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/736"
+    "url": "https://therickandmortyapi.vercel.app/api/character/361"
   },
   {
-    "id": 824,
-    "name": "Young Beth",
-    "status": "unknown",
+    "id": 374,
+    "name": "Vampire Master",
+    "status": "Alive",
+    "species": "Mythological Creature",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/374.jpeg",
+    "episode": {
+      "name": "Big Trouble in Little Sanchez",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/374"
+  },
+  {
+    "id": 445,
+    "name": "Jerryboree Keeper",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Jerryboree",
+      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/445.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/445"
+  },
+  {
+    "id": 457,
+    "name": "Funny Songs Presenter",
+    "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/824.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/457.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/824"
+    "url": "https://therickandmortyapi.vercel.app/api/character/457"
+  },
+  {
+    "id": 752,
+    "name": "Changeformer",
+    "status": "Dead",
+    "species": "Robot",
+    "location": {
+      "name": "Space Tahoe",
+      "url": "https://therickandmortyapi.vercel.app/api/location/118"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/752.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/752"
   }
 ]
