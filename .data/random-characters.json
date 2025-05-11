@@ -1,98 +1,98 @@
 [
   {
-    "id": 2,
-    "name": "Morty Smith",
-    "status": "Alive",
-    "species": "Human",
+    "id": 253,
+    "name": "Numbericon",
+    "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Alphabetrium",
+      "url": "https://therickandmortyapi.vercel.app/api/location/43"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/253.jpeg",
+    "episode": {
+      "name": "Get Schwifty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/16"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/253"
+  },
+  {
+    "id": 298,
+    "name": "Robot Morty",
+    "status": "unknown",
+    "species": "Robot",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/2.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/298.jpeg",
     "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/2"
+    "url": "https://therickandmortyapi.vercel.app/api/character/298"
   },
   {
-    "id": 105,
-    "name": "Dr. Glip-Glop",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/105.jpeg",
-    "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/105"
-  },
-  {
-    "id": 236,
-    "name": "Mr. Beauregard",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/236.jpeg",
-    "episode": {
-      "name": "Total Rickall",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/15"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/236"
-  },
-  {
-    "id": 444,
-    "name": "Pink Polo Shirt Jerry",
+    "id": 397,
+    "name": "Fido",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Jerryboree",
-      "url": "https://therickandmortyapi.vercel.app/api/location/44"
+      "name": "Snuffles' Dream",
+      "url": "https://therickandmortyapi.vercel.app/api/location/70"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/444.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/397.jpeg",
+    "episode": {
+      "name": "Lawnmower Dog",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/2"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/397"
+  },
+  {
+    "id": 447,
+    "name": "Anchor Gear",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Gear World",
+      "url": "https://therickandmortyapi.vercel.app/api/location/57"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/447.jpeg",
     "episode": {
       "name": "Mortynight Run",
       "url": "https://therickandmortyapi.vercel.app/api/episode/13"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/444"
+    "url": "https://therickandmortyapi.vercel.app/api/character/447"
   },
   {
-    "id": 500,
-    "name": "Fascist Mr. President",
+    "id": 760,
+    "name": "Turkey Rick",
     "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Fascist Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/77"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/500.jpeg",
-    "episode": {
-      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/32"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/500"
-  },
-  {
-    "id": 526,
-    "name": "Danny Publitz",
-    "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/526.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/760.jpeg",
     "episode": {
-      "name": "The Old Man and the Seat",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/33"
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/526"
+    "url": "https://therickandmortyapi.vercel.app/api/character/760"
+  },
+  {
+    "id": 800,
+    "name": "Super Turkey",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/800.jpeg",
+    "episode": {
+      "name": "Rick & Morty's Thanksploitation Spectacular",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/47"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/800"
   }
 ]
