@@ -1,98 +1,98 @@
 [
   {
-    "id": 34,
-    "name": "Benjamin",
-    "status": "Alive",
-    "species": "Poopybutthole",
+    "id": 126,
+    "name": "Fleeb",
+    "status": "unknown",
+    "species": "Alien",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/34.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/34"
-  },
-  {
-    "id": 146,
-    "name": "Glexo Slim Slom",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "Nuptia 4",
-      "url": "https://therickandmortyapi.vercel.app/api/location/13"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/146.jpeg",
-    "episode": {
-      "name": "Big Trouble in Little Sanchez",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/18"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/146"
-  },
-  {
-    "id": 195,
-    "name": "Kristen Stewart",
-    "status": "Alive",
-    "species": "Human",
-    "location": {
-      "name": "Earth (C-500A)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/23"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/195.jpeg",
-    "episode": {
-      "name": "Rixty Minutes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/195"
-  },
-  {
-    "id": 456,
-    "name": "Nano Doctor",
-    "status": "Alive",
-    "species": "Alien",
-    "location": {
-      "name": "St. Gloopy Noops Hospital",
-      "url": "https://therickandmortyapi.vercel.app/api/location/16"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/456.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/126.jpeg",
     "episode": {
       "name": "Interdimensional Cable 2: Tempting Fate",
       "url": "https://therickandmortyapi.vercel.app/api/episode/19"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/456"
+    "url": "https://therickandmortyapi.vercel.app/api/character/126"
   },
   {
-    "id": 701,
-    "name": "Metal Rick",
+    "id": 309,
+    "name": "Scrotian",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Signus 5 Expanse",
+      "url": "https://therickandmortyapi.vercel.app/api/location/22"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/309.jpeg",
+    "episode": {
+      "name": "Mortynight Run",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/309"
+  },
+  {
+    "id": 410,
+    "name": "Two Brothers",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://therickandmortyapi.vercel.app/api/location/6"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/410.jpeg",
+    "episode": {
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/410"
+  },
+  {
+    "id": 488,
+    "name": "Colonial Rick",
+    "status": "Dead",
+    "species": "Human",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/488.jpeg",
+    "episode": {
+      "name": "The Ricklantis Mixup",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/28"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/488"
+  },
+  {
+    "id": 564,
+    "name": "Talking Cat",
+    "status": "Alive",
+    "species": "Animal",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/564.jpeg",
+    "episode": {
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/35"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/564"
+  },
+  {
+    "id": 708,
+    "name": "Squid Costume Summer",
     "status": "Dead",
     "species": "Robot",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/701.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/708.jpeg",
     "episode": {
       "name": "Mortyplicity",
       "url": "https://therickandmortyapi.vercel.app/api/episode/43"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/701"
-  },
-  {
-    "id": 705,
-    "name": "Squid Costume Jerry",
-    "status": "Dead",
-    "species": "Robot",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/705.jpeg",
-    "episode": {
-      "name": "Mortyplicity",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/43"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/705"
+    "url": "https://therickandmortyapi.vercel.app/api/character/708"
   }
 ]
