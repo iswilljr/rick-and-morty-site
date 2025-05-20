@@ -1,98 +1,98 @@
 [
   {
-    "id": 139,
-    "name": "General Store Owner",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 195,
+    "name": "Kristen Stewart",
+    "status": "Alive",
+    "species": "Human",
     "location": {
-      "name": "Purge Planet",
-      "url": "https://therickandmortyapi.vercel.app/api/location/9"
+      "name": "Earth (C-500A)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/23"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/139.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/195.jpeg",
     "episode": {
-      "name": "Look Who's Purging Now",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/20"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/139"
+    "url": "https://therickandmortyapi.vercel.app/api/character/195"
   },
   {
-    "id": 173,
-    "name": "Jan-Michael Vincent",
+    "id": 279,
+    "name": "Regular Legs",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/173.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/279.jpeg",
     "episode": {
-      "name": "Interdimensional Cable 2: Tempting Fate",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/19"
+      "name": "Rixty Minutes",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/173"
+    "url": "https://therickandmortyapi.vercel.app/api/character/279"
   },
   {
-    "id": 303,
-    "name": "Samantha",
+    "id": 581,
+    "name": "Anchosnake",
     "status": "Alive",
-    "species": "Human",
+    "species": "Animal",
     "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
+      "name": "Snake Planet",
+      "url": "https://therickandmortyapi.vercel.app/api/location/78"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/303.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/581.jpeg",
     "episode": {
-      "name": "Meeseeks and Destroy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/5"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/303"
+    "url": "https://therickandmortyapi.vercel.app/api/character/581"
   },
   {
-    "id": 632,
-    "name": "Train Cop",
-    "status": "Dead",
+    "id": 599,
+    "name": "Birdperson",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Story Train",
+      "url": "https://therickandmortyapi.vercel.app/api/location/96"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/599.jpeg",
+    "episode": {
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/599"
+  },
+  {
+    "id": 620,
+    "name": "Ramamama Lord",
+    "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Story Train",
       "url": "https://therickandmortyapi.vercel.app/api/location/96"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/632.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/620.jpeg",
     "episode": {
       "name": "Never Ricking Morty",
       "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/632"
+    "url": "https://therickandmortyapi.vercel.app/api/character/620"
   },
   {
-    "id": 648,
-    "name": "Crystal Dealers Boss",
-    "status": "Dead",
-    "species": "Alien",
+    "id": 731,
+    "name": "Naruto Smith",
+    "status": "Alive",
+    "species": "Humanoid",
     "location": {
-      "name": "Alien Acid Plant",
-      "url": "https://therickandmortyapi.vercel.app/api/location/102"
+      "name": "Space",
+      "url": "https://therickandmortyapi.vercel.app/api/location/115"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/648.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/731.jpeg",
     "episode": {
-      "name": "The Vat of Acid Episode",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/39"
+      "name": "Rickdependence Spray",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/648"
-  },
-  {
-    "id": 777,
-    "name": "Gotron Pilot",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Earth (Replacement Dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/20"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/777.jpeg",
-    "episode": {
-      "name": "Gotron Jerrysis Rickvangelion",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/48"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/777"
+    "url": "https://therickandmortyapi.vercel.app/api/character/731"
   }
 ]
