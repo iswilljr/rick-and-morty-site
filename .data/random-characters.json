@@ -1,98 +1,98 @@
 [
   {
-    "id": 130,
-    "name": "Galactic Federation President",
+    "id": 25,
+    "name": "Armothy",
     "status": "Dead",
-    "species": "Alien",
+    "species": "unknown",
     "location": {
-      "name": "unknown",
-      "url": ""
+      "name": "Post-Apocalyptic Earth",
+      "url": "https://therickandmortyapi.vercel.app/api/location/8"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/130.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/25.jpeg",
     "episode": {
-      "name": "The Wedding Squanchers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/21"
+      "name": "Rickmancing the Stone",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/23"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/130"
+    "url": "https://therickandmortyapi.vercel.app/api/character/25"
   },
   {
-    "id": 164,
-    "name": "Insurance Rick",
+    "id": 171,
+    "name": "Jaguar",
+    "status": "Alive",
+    "species": "Human",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://therickandmortyapi.vercel.app/api/location/20"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/171.jpeg",
+    "episode": {
+      "name": "Pickle Rick",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/24"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/171"
+  },
+  {
+    "id": 320,
+    "name": "Shnoopy Bloopers",
     "status": "unknown",
+    "species": "Alien",
+    "location": {
+      "name": "Immortality Field Resort",
+      "url": "https://therickandmortyapi.vercel.app/api/location/7"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/320.jpeg",
+    "episode": {
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/320"
+  },
+  {
+    "id": 465,
+    "name": "SEAL Team Rick",
+    "status": "Dead",
     "species": "Human",
     "location": {
       "name": "Citadel of Ricks",
       "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/164.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/465.jpeg",
     "episode": {
-      "name": "Close Rick-counters of the Rick Kind",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
+      "name": "The Rickshank Rickdemption",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/164"
+    "url": "https://therickandmortyapi.vercel.app/api/character/465"
   },
   {
-    "id": 271,
-    "name": "Principal Vagina",
-    "status": "Alive",
-    "species": "Cronenberg",
-    "location": {
-      "name": "Earth (C-137)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/1"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/271.jpeg",
-    "episode": {
-      "name": "Pilot",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/1"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/271"
-  },
-  {
-    "id": 348,
-    "name": "The President of the Miniverse",
-    "status": "Dead",
-    "species": "Humanoid",
-    "location": {
-      "name": "Zeep Xanflorp's Miniverse",
-      "url": "https://therickandmortyapi.vercel.app/api/location/49"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/348.jpeg",
-    "episode": {
-      "name": "The Ricks Must Be Crazy",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/17"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/348"
-  },
-  {
-    "id": 419,
-    "name": "Plutonian Hostess",
+    "id": 468,
+    "name": "Morphizer-XE Customer Support",
     "status": "Alive",
     "species": "Alien",
-    "location": {
-      "name": "Pluto",
-      "url": "https://therickandmortyapi.vercel.app/api/location/47"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/419.jpeg",
-    "episode": {
-      "name": "Something Ricked This Way Comes",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/9"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/419"
-  },
-  {
-    "id": 728,
-    "name": "Sperm Queen",
-    "status": "Dead",
-    "species": "unknown",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/728.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/468.jpeg",
     "episode": {
-      "name": "Rickdependence Spray",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/45"
+      "name": "The Whirly Dirly Conspiracy",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/26"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/728"
+    "url": "https://therickandmortyapi.vercel.app/api/character/468"
+  },
+  {
+    "id": 743,
+    "name": "Alyson Hannigan",
+    "status": "Dead",
+    "species": "Alien",
+    "location": {
+      "name": "Z. Q. P. D.",
+      "url": "https://therickandmortyapi.vercel.app/api/location/117"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/743.jpeg",
+    "episode": {
+      "name": "Amortycan Grickfitti",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/46"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/743"
   }
 ]
