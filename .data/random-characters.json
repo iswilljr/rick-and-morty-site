@@ -1,98 +1,98 @@
 [
   {
-    "id": 33,
-    "name": "Beebo",
-    "status": "Dead",
-    "species": "Alien",
-    "location": {
-      "name": "Venzenulon 7",
-      "url": "https://therickandmortyapi.vercel.app/api/location/10"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/33.jpeg",
-    "episode": {
-      "name": "Morty's Mind Blowers",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/29"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/33"
-  },
-  {
-    "id": 285,
-    "name": "Rick Prime",
-    "status": "Dead",
-    "species": "Human",
-    "location": {
-      "name": "Citadel of Ricks",
-      "url": "https://therickandmortyapi.vercel.app/api/location/3"
-    },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/285.jpeg",
-    "episode": {
-      "name": "The Rickshank Rickdemption",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/22"
-    },
-    "url": "https://therickandmortyapi.vercel.app/api/character/285"
-  },
-  {
-    "id": 414,
-    "name": "Trunkphobic guy",
-    "status": "Alive",
+    "id": 20,
+    "name": "Ants in my Eyes Johnson",
+    "status": "unknown",
     "species": "Human",
     "location": {
       "name": "Interdimensional Cable",
       "url": "https://therickandmortyapi.vercel.app/api/location/6"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/414.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/20.jpeg",
     "episode": {
       "name": "Rixty Minutes",
       "url": "https://therickandmortyapi.vercel.app/api/episode/8"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/414"
+    "url": "https://therickandmortyapi.vercel.app/api/character/20"
   },
   {
-    "id": 450,
-    "name": "Roy's Wife",
+    "id": 77,
+    "name": "Cowboy Morty",
     "status": "Alive",
     "species": "Human",
     "location": {
-      "name": "Roy: A Life Well Lived",
-      "url": "https://therickandmortyapi.vercel.app/api/location/32"
+      "name": "Citadel of Ricks",
+      "url": "https://therickandmortyapi.vercel.app/api/location/3"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/450.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/77.jpeg",
     "episode": {
-      "name": "Mortynight Run",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/13"
+      "name": "Close Rick-counters of the Rick Kind",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/10"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/450"
+    "url": "https://therickandmortyapi.vercel.app/api/character/77"
   },
   {
-    "id": 725,
-    "name": "Tony Galopagus",
+    "id": 549,
+    "name": "Snake Arms",
+    "status": "Alive",
+    "species": "Alien",
+    "location": {
+      "name": "Heist-Con",
+      "url": "https://therickandmortyapi.vercel.app/api/location/88"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/549.jpeg",
+    "episode": {
+      "name": "One Crew Over the Crewcoo's Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/34"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/549"
+  },
+  {
+    "id": 585,
+    "name": "Bartender",
     "status": "Alive",
     "species": "Human",
     "location": {
       "name": "Earth (Replacement Dimension)",
       "url": "https://therickandmortyapi.vercel.app/api/location/20"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/725.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/585.jpeg",
     "episode": {
-      "name": "A Rickconvenient Mort",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/44"
+      "name": "Rattlestar Ricklactica",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/36"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/725"
+    "url": "https://therickandmortyapi.vercel.app/api/character/585"
   },
   {
-    "id": 824,
-    "name": "Young Beth",
-    "status": "unknown",
-    "species": "Human",
+    "id": 635,
+    "name": "Darth Poopybutthole",
+    "status": "Alive",
+    "species": "Poopybutthole",
     "location": {
-      "name": "Earth (Unknown dimension)",
-      "url": "https://therickandmortyapi.vercel.app/api/location/30"
+      "name": "Ricks’s Story",
+      "url": "https://therickandmortyapi.vercel.app/api/location/100"
     },
-    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/824.jpeg",
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/635.jpeg",
     "episode": {
-      "name": "Rickmurai Jack",
-      "url": "https://therickandmortyapi.vercel.app/api/episode/51"
+      "name": "Never Ricking Morty",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/37"
     },
-    "url": "https://therickandmortyapi.vercel.app/api/character/824"
+    "url": "https://therickandmortyapi.vercel.app/api/character/635"
+  },
+  {
+    "id": 678,
+    "name": "Japheth's Youngest Son",
+    "status": "Dead",
+    "species": "Humanoid",
+    "location": {
+      "name": "Narnia Dimension",
+      "url": "https://therickandmortyapi.vercel.app/api/location/110"
+    },
+    "image": "https://raw.githubusercontent.com/iswilljr/rick-and-morty-api/master/src/images/678.jpeg",
+    "episode": {
+      "name": "Mort Dinner Rick Andre",
+      "url": "https://therickandmortyapi.vercel.app/api/episode/42"
+    },
+    "url": "https://therickandmortyapi.vercel.app/api/character/678"
   }
 ]
